@@ -7,7 +7,7 @@ Welcome to my portfolio! This repository features my work in **Data Analysis**, 
 - [Title Of Project](link)
 - [Contact](#Contact)
 
-##Contact
+## Contact
 
 Feel free to reach out to me for collaborations, inquiries, or project discussions:
 

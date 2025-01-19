@@ -4,7 +4,7 @@ Welcome to my portfolio! This repository features my work in **Data Analysis**, 
 
 ## Table of Contents
 
-- [Sales Region](link)
+- [Sales Region](https://github.com/fwicaksono/Portfolio/tree/main/sales_region)
 - [Customer Segmentation] (link)
 - [Contact](#Contact)
 

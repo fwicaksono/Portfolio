@@ -4,7 +4,8 @@ Welcome to my portfolio! This repository features my work in **Data Analysis**, 
 
 ## Table of Contents
 
-- [Title Of Project](link)
+- [Sales Region](link)
+- [Customer Segmentation] (link)
 - [Contact](#Contact)
 
 ##Contact

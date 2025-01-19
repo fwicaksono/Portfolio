@@ -1,0 +1,29 @@
+1. Top 10 customers by total spending = A bar chart showing the top 10 customers on the Y-axis and their total spending on the X-axis.
+
+2. Sales trend over time = A line chart with order_date on the X-axis and total_amount on the Y-axis to visualize sales trends over time.
+
+3. Top-selling products by quantity = A bar chart with product_name on the X-axis and total quantity sold on the Y-axis.
+
+4. Sales distribution by payment method = A pie chart showing the percentage of sales for each payment method.
+
+5. Highest revenue-generating product categories = A treemap showing product categories and their revenue contribution.
+
+6. Influence of customer age group on spending = A clustered column chart with age groups on the X-axis and total spending on the Y-axis.
+
+7. City-wise contribution to total sales = A map visualization to display total sales by city, or a bar chart for non-geographic representation.
+
+8. Average order value by gender = A clustered bar chart showing gender and average order value.
+
+9. Monthly sales performance = A line chart with months on the X-axis and total sales on the Y-axis to track monthly performance.
+
+10. Correlation between product quantity and total revenue = A scatter plot with quantity on the X-axis and total revenue on the Y-axis.
+
+11. Sales contribution of product categories = A stacked bar chart showing the revenue contribution of each product category.
+
+12. Customer retention rate = A KPI card displaying the percentage of returning customers versus new customers.
+
+13. Relationship between product price and quantity sold = A scatter plot with product price on the X-axis and quantity sold on the Y-axis.
+
+14.Customers with the highest order frequency = A horizontal bar chart showing customers and their number of orders.
+
+15.Seasonal sales patterns = A heatmap or calendar chart showing sales distribution across months and days of the year.

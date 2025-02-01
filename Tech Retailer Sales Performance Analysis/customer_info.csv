@@ -1,0 +1,51 @@
+CustomerID,CustomerName,Region,Segment
+2001,Customer 2001,Asia,Individual
+2002,Customer 2002,South America,Education
+2003,Customer 2003,Europe,Business
+2004,Customer 2004,South America,Education
+2005,Customer 2005,Asia,Education
+2006,Customer 2006,Europe,Individual
+2007,Customer 2007,South America,Education
+2008,Customer 2008,Africa,Business
+2009,Customer 2009,Africa,Individual
+2010,Customer 2010,South America,Business
+2011,Customer 2011,Europe,Business
+2012,Customer 2012,South America,Individual
+2013,Customer 2013,South America,Business
+2014,Customer 2014,Asia,Individual
+2015,Customer 2015,Africa,Business
+2016,Customer 2016,Asia,Individual
+2017,Customer 2017,Asia,Education
+2018,Customer 2018,South America,Business
+2019,Customer 2019,Asia,Individual
+2020,Customer 2020,Africa,Business
+2021,Customer 2021,Asia,Business
+2022,Customer 2022,Africa,Business
+2023,Customer 2023,Asia,Individual
+2024,Customer 2024,Africa,Education
+2025,Customer 2025,Asia,Education
+2026,Customer 2026,Asia,Education
+2027,Customer 2027,Europe,Individual
+2028,Customer 2028,Africa,Education
+2029,Customer 2029,Africa,Individual
+2030,Customer 2030,Africa,Business
+2031,Customer 2031,North America,Business
+2032,Customer 2032,Asia,Education
+2033,Customer 2033,Africa,Individual
+2034,Customer 2034,North America,Business
+2035,Customer 2035,Europe,Individual
+2036,Customer 2036,Africa,Individual
+2037,Customer 2037,Africa,Business
+2038,Customer 2038,North America,Individual
+2039,Customer 2039,Asia,Business
+2040,Customer 2040,Europe,Business
+2041,Customer 2041,Africa,Business
+2042,Customer 2042,Asia,Individual
+2043,Customer 2043,Europe,Business
+2044,Customer 2044,South America,Individual
+2045,Customer 2045,South America,Business
+2046,Customer 2046,Europe,Business
+2047,Customer 2047,North America,Education
+2048,Customer 2048,Europe,Education
+2049,Customer 2049,Europe,Education
+2050,Customer 2050,North America,Individual

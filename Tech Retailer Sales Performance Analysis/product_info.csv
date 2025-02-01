@@ -1,0 +1,57 @@
+ProductID,ProductName,Brand,Category,CostPrice
+1001,iPhone 14 Pro,Apple,Smartphone,714.52
+1002,iPhone 14,Apple,Smartphone,1736.56
+1003,iPhone 13,Apple,Smartphone,884.01
+1004,iPad Pro 12.9,Apple,Tablet,956.93
+1005,iPad Air,Apple,Tablet,730.22
+1006,MacBook Pro 16,Apple,Laptop,1650.75
+1007,MacBook Air M2,Apple,Laptop,1088.78
+1008,Galaxy S23 Ultra,Samsung,Smartphone,1407.59
+1009,Galaxy S23,Samsung,Smartphone,1489.48
+1010,Galaxy Z Flip,Samsung,Smartphone,714.05
+1011,Galaxy Tab S8,Samsung,Smartphone,865.6
+1012,Galaxy Book3 Pro,Samsung,Smartphone,1549.98
+1013,Galaxy Book3 360,Samsung,Smartphone,749.37
+1014,XPS 13 Plus,Dell,Laptop,1459.99
+1015,XPS 15,Dell,Laptop,1702.64
+1016,Inspiron 14,Dell,Laptop,1178.3
+1017,Inspiron 16,Dell,Laptop,1373.69
+1018,Alienware x16,Dell,Laptop,1478.41
+1019,Latitude 9440,Dell,Laptop,1544.32
+1020,Spectre x360 14,HP,Laptop,801.84
+1021,Envy x360 13,HP,Laptop,234.58
+1022,Pavilion Aero 13,HP,Laptop,813.1
+1023,Omen 16,HP,Laptop,1261.7
+1024,EliteBook 840 G9,HP,Laptop,893.08
+1025,ProBook 450 G9,HP,Laptop,1385.79
+1026,ThinkPad X1 Carbon Gen 10,Lenovo,Laptop,739.02
+1027,ThinkPad E14 Gen 4,Lenovo,Laptop,1197.33
+1028,Yoga 9i Gen 8,Lenovo,Laptop,457.59
+1029,IdeaPad Slim 5,Lenovo,Laptop,1386.46
+1030,Legion 5 Pro,Lenovo,Laptop,1050.4
+1031,ThinkBook 14 Gen 4,Lenovo,Laptop,486.71
+1032,Pixel 7 Pro,Google,Smartphone,631.65
+1033,Pixel 7,Google,Smartphone,1385.2
+1034,Pixel 6a,Google,Smartphone,946.29
+1035,Pixel Tablet,Google,Smartphone,506.45
+1036,Pixelbook Go,Google,Smartphone,1746.0
+1037,Surface Pro 9,Microsoft,Laptop,1329.96
+1038,Surface Laptop 5,Microsoft,Laptop,1729.27
+1039,Surface Go 4,Microsoft,Laptop,854.72
+1040,Surface Studio 2+,Microsoft,Laptop,933.92
+1041,Surface Duo 2,Microsoft,Laptop,1631.63
+1042,ROG Zephyrus G14,Asus,Laptop,1016.33
+1043,ROG Strix Scar 16,Asus,Laptop,1317.01
+1044,ZenBook 14X,Asus,Laptop,566.09
+1045,VivoBook 15,Asus,Laptop,887.1
+1046,TUF Gaming A15,Asus,Laptop,353.69
+1047,Swift 5,Acer,Laptop,489.87
+1048,Swift 3,Acer,Laptop,151.56
+1049,Predator Helios 16,Acer,Laptop,214.79
+1050,Aspire 5,Acer,Laptop,1762.52
+1051,Nitro 5,Acer,Laptop,549.88
+1052,Xperia 1 IV,Sony,Smartphone,1244.46
+1053,Xperia 5 IV,Sony,Smartphone,1534.51
+1054,Xperia 10 IV,Sony,Smartphone,1058.59
+1055,VAIO Z,Sony,Laptop,402.69
+1056,VAIO SX14,Sony,Laptop,1351.39

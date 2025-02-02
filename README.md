@@ -9,6 +9,7 @@ Welcome to my portfolio! This repository features my work in **Data Analysis**, 
 - [Sentiment Analysis For Coffeeshop (Couvee Seturan)](https://github.com/fwicaksono/Portfolio/tree/main/sentiment_analysis_of_couvee_seturan_cofee_shop)
 - [Inventory Optimization and Demand Forecasting for Electronics in a Retail Store]()
 - [Pizza Sales Analysis and Dynamic Dashboard]()
+- [ABC Analysis]()
 - [Supply Chain Optimization : Retail Store Case]()
 - [Tech Retailer Sales Performance Analysis] **TO BE RELEASED SOON**
 - [Supermarket Sales] **TO BE RELEASED SOON**

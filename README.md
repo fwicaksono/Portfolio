@@ -4,12 +4,12 @@ Welcome to my portfolio! This repository features my work in **Data Analysis**, 
 
 ## Table of Contents
 ### Contact
-## Contact
 Feel free to reach out to me for collaborations, inquiries, or project discussions:
 - **Email**: [wicaksono.21st@gmail.com](mailto:wicaksono.21st@gmail.com)
 - **LinkedIn**: [fadhilwicaksono](https://www.linkedin.com/in/fadhilwicaksononr/)
 - **GitHub**: [fwicaksono](https://github.com/fwicaksono)
-- 
+
+
 ### List of Projects
 - [Sentiment Analysis For Coffeeshop (Couvee Seturan)](https://github.com/fwicaksono/Portfolio/tree/main/sentiment_analysis_of_couvee_seturan_cofee_shop)
 - [Inventory Optimization and Demand Forecasting for Electronics in a Retail Store]()

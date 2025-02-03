@@ -12,7 +12,7 @@ Feel free to reach out to me for collaborations, inquiries, or project discussio
 
 ### List of Projects
 - [Sentiment Analysis For Coffeeshop (Couvee Seturan)](https://github.com/fwicaksono/Portfolio/tree/main/sentiment_analysis_of_couvee_seturan_cofee_shop)
-- [Inventory Optimization and Demand Forecasting for Electronics in a Retail Store](https://github.com/fwicaksono/Portfolio/tree/main/Inventory%20Optimization%20and%20Demand%20Forecasting%20for%20Electronics%20in%20a%20Retail%20Store
+- [Inventory Optimization and Demand Forecasting for Electronics in a Retail Store](https://github.com/fwicaksono/Portfolio/tree/main/Inventory%20Optimization%20and%20Demand%20Forecasting%20for%20Electronics%20in%20a%20Retail%20Store)
 - [Pizza Sales Analysis and Dynamic Dashboard](https://github.com/fwicaksono/Portfolio/tree/main/Pizza%20Sales%20Analysis%20and%20Dashboard)
 - [ABC Analysis]()
 - [Supply Chain Optimization : Retail Store Case](https://github.com/fwicaksono/Portfolio/tree/main/Supply%20Chain%20Optimization)

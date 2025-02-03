@@ -1,87 +1,89 @@
 # Supply Chain Optimization: TechMart Electronics
 
-## Deskripsi Proyek
-Proyek ini bertujuan untuk mengoptimalkan rantai pasok (supply chain) perusahaan **TechMart Electronics**, yang bergerak di bidang penjualan produk elektronik seperti laptop, smartphone, dan tablet. Dataset yang disediakan mencakup informasi tentang permintaan produk, inventaris, biaya pemasok, waktu pengiriman, dan biaya penyimpanan.
+## Project Description
+This project aims to optimize the supply chain of **TechMart Electronics**, a company specializing in selling electronic products such as laptops, smartphones, and tablets. The provided dataset includes information on product demand, inventory, supplier costs, lead times, and storage costs.
 
 ## Problem Statement
-TechMart Electronics menghadapi beberapa masalah dalam manajemen rantai pasoknya, yaitu:
-1. **Tingkat Inventaris Tidak Optimal:**  
-   - Terkadang stok produk habis sebelum pesanan baru tiba (stockout), menyebabkan kehilangan penjualan.
-   - Di sisi lain, ada juga kelebihan stok yang mengakibatkan biaya penyimpanan tinggi.
+TechMart Electronics faces several challenges in its supply chain management:
 
-2. **Biaya Operasional Tinggi:**  
-   - Biaya pemesanan dan penyimpanan yang tidak terkelola dengan baik menyebabkan margin keuntungan menurun.
+1. **Suboptimal Inventory Levels:**  
+   - Sometimes, products run out of stock before new orders arrive (stockout), leading to lost sales.  
+   - On the other hand, excessive stock results in high storage costs.  
 
-3. **Ketidakpastian Permintaan:**  
-   - Permintaan produk berfluktuasi setiap bulannya, sehingga sulit untuk merencanakan produksi dan pengadaan.
+2. **High Operational Costs:**  
+   - Poorly managed ordering and storage costs reduce profit margins.  
 
-4. **Waktu Pengiriman yang Bervariasi:**  
-   - Lead time dari pemasok bervariasi, sehingga sulit untuk memprediksi kapan stok akan tiba.
+3. **Uncertain Demand:**  
+   - Product demand fluctuates monthly, making production and procurement planning difficult.  
 
-**Tujuan:**  
-TechMart Electronics ingin mengoptimalkan rantai pasoknya dengan:
-1. Menentukan **jumlah pesanan optimal** untuk setiap produk.
-2. Meminimalkan **total biaya operasional** (biaya pemesanan + biaya penyimpanan).
-3. Memastikan **ketersediaan stok** untuk memenuhi permintaan pelanggan.
-4. Meningkatkan **efisiensi rantai pasok** secara keseluruhan.
+4. **Variable Lead Times:**  
+   - Supplier lead times vary, making it difficult to predict when stock will arrive.  
 
-## Dataset
-Dataset ini terdiri dari **1000 baris** dan mencakup kolom-kolom berikut:
+### **Objectives**  
+TechMart Electronics aims to optimize its supply chain by:  
+1. Determining the **optimal order quantity** for each product.  
+2. Minimizing **total operational costs** (ordering cost + storage cost).  
+3. Ensuring **stock availability** to meet customer demand.  
+4. Improving **overall supply chain efficiency**.  
 
-| **Kolom**         | **Deskripsi**                                                                 |
-|--------------------|-------------------------------------------------------------------------------|
-| **Product_ID**     | ID unik untuk setiap produk.                                                 |
-| **Product_Name**   | Nama produk (Laptop, Smartphone, Tablet).                                    |
-| **Category**       | Kategori produk (Electronics).                                               |
-| **Demand**         | Jumlah permintaan produk per bulan.                                          |
-| **Inventory**      | Jumlah stok yang tersedia saat ini.                                          |
-| **Supplier_ID**    | ID pemasok.                                                                  |
-| **Supplier_Name**  | Nama pemasok.                                                                |
-| **Supplier_Cost**  | Biaya per unit dari pemasok.                                                 |
-| **Lead_Time**      | Waktu pengiriman dari pemasok (dalam hari).                                  |
-| **Holding_Cost**   | Biaya penyimpanan per unit per bulan.                                        |
-| **Order_Cost**     | Biaya pemesanan per order (fixed).                                           |
-| **Date**           | Tanggal pencatatan data.                                                     |
+## Dataset  
+The dataset consists of **1,000 rows** and includes the following columns:  
 
-### Contoh Data
-| Product_ID | Product_Name | Category   | Demand | Inventory | Supplier_ID | Supplier_Name           | Supplier_Cost | Lead_Time | Holding_Cost | Order_Cost | Date       |
-|------------|--------------|------------|--------|-----------|-------------|-------------------------|---------------|-----------|--------------|------------|------------|
-| P123       | Laptop       | Electronics| 200    | 50        | S001        | GlobalTech Supplies     | 500           | 7         | 10           | 100        | 2023-03-15 |
-| P456       | Smartphone   | Electronics| 150    | 30        | S002        | ElectroWorld Distributors| 300          | 5         | 8            | 100        | 2023-05-20 |
-| P789       | Tablet       | Electronics| 100    | 20        | S003        | GadgetHub Inc.          | 200           | 10        | 5            | 100        | 2023-07-10 |
+| **Column**        | **Description**                                                       |
+|-------------------|-----------------------------------------------------------------------|
+| **Product_ID**    | Unique ID for each product.                                         |
+| **Product_Name**  | Product name (Laptop, Smartphone, Tablet).                          |
+| **Category**      | Product category (Electronics).                                     |
+| **Demand**        | Monthly product demand.                                             |
+| **Inventory**     | Current stock availability.                                         |
+| **Supplier_ID**   | Supplier ID.                                                        |
+| **Supplier_Name** | Supplier name.                                                      |
+| **Supplier_Cost** | Cost per unit from the supplier.                                    |
+| **Lead_Time**     | Supplier delivery time (in days).                                   |
+| **Holding_Cost**  | Storage cost per unit per month.                                   |
+| **Order_Cost**    | Fixed ordering cost per order.                                     |
+| **Date**          | Date of data recording.                                            |
 
-## Pertanyaan Analisis (Analytics Questions)
-1. Berapa **jumlah pesanan optimal (EOQ)** untuk setiap produk?
-2. Berapa **total biaya** yang harus dikeluarkan untuk setiap produk?
-3. Bagaimana **lead time** memengaruhi tingkat inventaris?
-4. Apakah ada pola **permintaan musiman** yang dapat diidentifikasi?
-5. Bagaimana cara mengoptimalkan **tingkat inventaris** untuk menghindari stockout dan kelebihan stok?
+### **Sample Data**
+| Product_ID | Product_Name | Category    | Demand | Inventory | Supplier_ID | Supplier_Name             | Supplier_Cost | Lead_Time | Holding_Cost | Order_Cost | Date       |
+|------------|-------------|-------------|--------|-----------|-------------|---------------------------|---------------|-----------|--------------|------------|------------|
+| P123       | Laptop      | Electronics | 200    | 50        | S001        | GlobalTech Supplies       | 500           | 7         | 10           | 100        | 2023-03-15 |
+| P456       | Smartphone  | Electronics | 150    | 30        | S002        | ElectroWorld Distributors | 300           | 5         | 8            | 100        | 2023-05-20 |
+| P789       | Tablet      | Electronics | 100    | 20        | S003        | GadgetHub Inc.            | 200           | 10        | 5            | 100        | 2023-07-10 |
 
-## Metrik Kinerja (Key Performance Indicators - KPIs)
+## **Analysis Questions**
+1. What is the **optimal order quantity (EOQ)** for each product?  
+2. What is the **total cost** for each product?  
+3. How does **lead time** affect inventory levels?  
+4. Are there any **seasonal demand patterns** that can be identified?  
+5. How can inventory levels be optimized to avoid stockouts and excess stock?  
+
+## **Key Performance Indicators (KPIs)**
 1. **Economic Order Quantity (EOQ):**  
-   Jumlah pesanan optimal untuk setiap produk.
+   Optimal order quantity for each product.  
 
-2. **Total Biaya:**  
-   Biaya pemesanan + biaya penyimpanan.
+2. **Total Cost:**  
+   Ordering cost + storage cost.  
 
 3. **Service Level:**  
-   Persentase permintaan pelanggan yang dapat dipenuhi tanpa stockout.
+   Percentage of customer demand met without stockouts.  
 
 4. **Inventory Turnover Ratio:**  
-   Seberapa cepat inventaris terjual dan diganti.
+   How quickly inventory is sold and replenished.  
 
 5. **Lead Time Variability:**  
-   Variasi waktu pengiriman dari pemasok.
+   Variation in supplier delivery times.  
 
-## Cara Menggunakan Dataset
-1. **Hitung EOQ (Economic Order Quantity):**  
-   Gunakan kolom `Demand`, `Holding_Cost`, dan `Order_Cost` untuk menghitung EOQ.
+## **How to Use the Dataset**
+1. **Calculate EOQ (Economic Order Quantity):**  
+   Use the `Demand`, `Holding_Cost`, and `Order_Cost` columns to compute EOQ.  
 
-2. **Hitung Total Biaya:**  
-   Gunakan kolom `Demand`, `EOQ`, `Holding_Cost`, dan `Order_Cost` untuk menghitung total biaya.
+2. **Calculate Total Cost:**  
+   Use the `Demand`, `EOQ`, `Holding_Cost`, and `Order_Cost` columns to determine total costs.  
 
-3. **Analisis Lead Time:**  
-   Gunakan kolom `Lead_Time` untuk memastikan tidak ada stockout.
+3. **Analyze Lead Time:**  
+   Use the `Lead_Time` column to ensure stockout situations are minimized.  
 
-4. **Visualisasi Data:**  
-   Gunakan library seperti `matplotlib` atau `seaborn` untuk memvisualisasikan hubungan antara fitur-fitur.
+4. **Visualize Data:**  
+   Use libraries such as `matplotlib` or `seaborn` to visualize relationships between different features.
+

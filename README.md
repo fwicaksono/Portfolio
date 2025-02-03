@@ -17,7 +17,7 @@ Feel free to reach out to me for collaborations, inquiries, or project discussio
 - [ABC Analysis]()
 - [Supply Chain Optimization : Retail Store Case]()
 - [Tech Retailer Sales Performance Analysis] **TO BE RELEASED SOON**
-- [Bank Central Asia Stock Price Prediction (LSTM, ARIMA)] **TO BE RELEASED SOON**
+- [Bank Central Asia Stock Price Prediction] **TO BE RELEASED SOON**
 - [Fraud Detection in Transactions – Detect fraudulent transactions in financial data (Random Forest, Isolation Forest)] **TO BE RELEASED SOON**
 - [Product Recommendation System – Build a recommendation engine like Amazon (collaborative filtering, content-based filtering)] **TO BE RELEASED SOON**
 - [Customer Segmentation – Group customers based on purchasing behavior (K-Means, hierarchical clustering)] **TO BE RELEASED SOON**

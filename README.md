@@ -16,7 +16,6 @@ Feel free to reach out to me for collaborations, inquiries, or project discussio
 - [Pizza Sales Analysis and Dynamic Dashboard](https://github.com/fwicaksono/Portfolio/tree/main/Pizza%20Sales%20Analysis%20and%20Dashboard)
 - [ABC Analysis]()
 - [Supply Chain Optimization : Retail Store Case](https://github.com/fwicaksono/Portfolio/tree/main/Supply%20Chain%20Optimization)
-- [Tech Retailer Sales Performance Analysis](https://github.com/fwicaksono/Portfolio/tree/main/Tech%20Retailer%20Sales%20Performance%20Analysis) **TO BE RELEASED SOON**
 - [Bank Central Asia Stock Price Prediction](https://github.com/fwicaksono/Portfolio/tree/main/Bank%20Central%20Asia%20Stock%20Price%20Prediction)
 - [Fraud Detection in Transactions – Detect fraudulent transactions in financial data (Random Forest, Isolation Forest)] **TO BE RELEASED SOON**
 - [Product Recommendation System – Build a recommendation engine like Amazon (collaborative filtering, content-based filtering)] **TO BE RELEASED SOON**

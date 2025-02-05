@@ -1,30 +1,88 @@
-# Portfolio: Data Analyst, Data Scientist, and Business Analyst
+# Portfolio: Data Analyst, Data Scientist, and Business Analyst 📊🔍🤖
 
-Welcome to my portfolio! This repository features my work in **Data Analysis**, **Business Analysis** and also **Machine Learning**. Each project demonstrates my ability to solve real-world problems using a variety of tools and technologies.
+Welcome to my portfolio! 🎉 This repository showcases my expertise in **Data Analysis**, **Business Analysis**, and **Machine Learning**. Each project highlights my ability to tackle real-world challenges using a variety of tools and technologies. Let’s dive in! 🚀
 
-## Table of Contents
-### Contact
-Feel free to reach out to me for collaborations, inquiries, or project discussions:
-- **Email**: [wicaksono.21st@gmail.com](mailto:wicaksono.21st@gmail.com)
-- **LinkedIn**: [fadhilwicaksono](https://www.linkedin.com/in/fadhilwicaksononr/)
-- **GitHub**: [fwicaksono](https://github.com/fwicaksono)
+---
 
+## Table of Contents 📑
+- [Contact](#contact-)
+- [List of Projects](#list-of-projects-)
+  - [Completed Projects](#completed-projects-)
+  - [Upcoming Projects](#upcoming-projects-)
 
-### List of Projects
-- [Sentiment Analysis For Coffeeshop (Couvee Seturan)](https://github.com/fwicaksono/Portfolio/tree/main/sentiment_analysis_of_couvee_seturan_cofee_shop)
-- [Inventory Optimization and Demand Forecasting for Electronics in a Retail Store](https://github.com/fwicaksono/Portfolio/tree/main/Inventory%20Optimization%20and%20Demand%20Forecasting%20for%20Electronics%20in%20a%20Retail%20Store)
-- [Pizza Sales Analysis and Dynamic Dashboard](https://github.com/fwicaksono/Portfolio/tree/main/Pizza%20Sales%20Analysis%20and%20Dashboard)
-- [ABC Analysis]()
-- [Supply Chain Optimization : Retail Store Case](https://github.com/fwicaksono/Portfolio/tree/main/Supply%20Chain%20Optimization)
-- [Bank Central Asia Stock Price Prediction](https://github.com/fwicaksono/Portfolio/tree/main/Bank%20Central%20Asia%20Stock%20Price%20Prediction)
-- [Fraud Detection in Transactions – Detect fraudulent transactions in financial data (Random Forest, Isolation Forest)] **TO BE RELEASED SOON**
-- [Product Recommendation System – Build a recommendation engine like Amazon (collaborative filtering, content-based filtering)] **TO BE RELEASED SOON**
-- [Customer Segmentation – Group customers based on purchasing behavior (K-Means, hierarchical clustering)] **TO BE RELEASED SOON**
-- [Social Media Sentiment Analysis – Analyze brand perception using Twitter, Instagram, or TikTok data] **TO BE RELEASED SOON**
-- [Anomaly Detection in Business Data – Detect unusual transactions or patterns] **TO BE RELEASED SOON**
-- [Earthquake Prediction Model – Use past seismic data to predict earthquake occurrences] **TO BE RELEASED SOON**
-- [Sports Player Tracking – Track players in football, basketball, or tennis for performance analysis] **TO BE RELEASED SOON**
-- [Real-Time Object Detection with YOLO – Detect multiple objects in images and videos using YOLOv8] **TO BE RELEASED SOON**
-- [Identification of Merapi Volcano Rockfall Direction Using Seismic Signals with Random Search Optimizer and K-Nearest  Neighbors | Study Case: Geological Disaster Technology Research and Development Center (BPPTKG)] **TO BE RELEASED SOON**
+---
 
+## Contact 📩
+Feel free to reach out to me for collaborations, inquiries, or project discussions. I’d love to connect! 😊  
 
+- **Email**: [wicaksono.21st@gmail.com](mailto:wicaksono.21st@gmail.com) 📧  
+- **LinkedIn**: [fadhilwicaksono](https://www.linkedin.com/in/fadhilwicaksononr/) 💼  
+- **GitHub**: [fwicaksono](https://github.com/fwicaksono) 👨‍💻  
+
+---
+
+## List of Projects 🛠️  
+
+Here’s a glimpse of my work. Each project is a step toward solving real-world problems with data-driven insights!  
+
+### **Completed Projects** ✅  
+
+1. **Sentiment Analysis for Coffeeshop (Couvee Seturan)** ☕  
+   - Analyzed customer reviews to understand sentiment trends and improve customer experience.  
+   - [View Project](https://github.com/fwicaksono/Portfolio/tree/main/sentiment_analysis_of_couvee_seturan_cofee_shop)  
+
+2. **Inventory Optimization and Demand Forecasting for Electronics in a Retail Store** 📦📈  
+   - Optimized inventory levels and predicted future demand to reduce costs and improve efficiency.  
+   - [View Project](https://github.com/fwicaksono/Portfolio/tree/main/Inventory%20Optimization%20and%20Demand%20Forecasting%20for%20Electronics%20in%20a%20Retail%20Store)  
+
+3. **Pizza Sales Analysis and Dynamic Dashboard** 🍕📊  
+   - Created an interactive dashboard to visualize sales trends and provide actionable insights.  
+   - [View Project](https://github.com/fwicaksono/Portfolio/tree/main/Pizza%20Sales%20Analysis%20and%20Dashboard)  
+
+4. **ABC Analysis** 📊  
+   - Categorized inventory items based on their importance and value to optimize resource allocation.  
+   - [View Project]()  
+
+5. **Supply Chain Optimization: Retail Store Case** 🚚📦  
+   - Streamlined supply chain processes to enhance efficiency and reduce operational costs.  
+   - [View Project](https://github.com/fwicaksono/Portfolio/tree/main/Supply%20Chain%20Optimization)  
+
+6. **Bank Central Asia Stock Price Prediction** 📈💹  
+   - Built a predictive model to forecast stock prices using historical data.  
+   - [View Project](https://github.com/fwicaksono/Portfolio/tree/main/Bank%20Central%20Asia%20Stock%20Price%20Prediction)  
+
+---
+
+### **Upcoming Projects** 🚧  
+Stay tuned! These exciting projects are in the pipeline and will be released soon:  
+
+1. **Fraud Detection in Transactions** 🕵️‍♂️  
+   - Detect fraudulent transactions in financial data using Random Forest and Isolation Forest.  
+
+2. **Product Recommendation System** 🛒  
+   - Build a recommendation engine similar to Amazon using collaborative and content-based filtering.  
+
+3. **Customer Segmentation** 👥  
+   - Group customers based on purchasing behavior using K-Means and hierarchical clustering.  
+
+4. **Social Media Sentiment Analysis** 📱  
+   - Analyze brand perception using Twitter, Instagram, or TikTok data.  
+
+5. **Anomaly Detection in Business Data** 🔍  
+   - Detect unusual transactions or patterns in business datasets.  
+
+6. **Earthquake Prediction Model** 🌍  
+   - Use past seismic data to predict earthquake occurrences.  
+
+7. **Sports Player Tracking** 🏀⚽  
+   - Track players in football, basketball, or tennis for performance analysis.  
+
+8. **Real-Time Object Detection with YOLO** 🎥  
+   - Detect multiple objects in images and videos using YOLOv8.  
+
+9. **Identification of Merapi Volcano Rockfall Direction Using Seismic Signals** 🌋  
+   - A study case with the Geological Disaster Technology Research and Development Center (BPPTKG).  
+
+---
+
+Let’s turn data into insights and insights into action! 🌟 Feel free to explore my projects and reach out if you’d like to collaborate or discuss ideas. 😄  

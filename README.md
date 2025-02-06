@@ -1,6 +1,11 @@
 # Portfolio: Data Analyst, Data Scientist, and Business Analyst 📊🔍🤖
 
-Welcome to my portfolio! 🎉 This repository showcases my expertise in **Data Analysis**, **Business Analysis**, and **Machine Learning**. Each project highlights my ability to tackle real-world challenges using a variety of tools and technologies. Let’s dive in! 🚀
+# 🚀 Welcome to My Portfolio! 🎉  
+
+This repository highlights my skills in **Data Analysis**, **Business Analysis**, and **Machine Learning**, while also documenting my journey into **Data Engineering** to become a full-stack data expert.  
+
+Each project showcases my ability to tackle real-world problems using a diverse set of tools and technologies. Feel free to explore my work and follow along on this data-driven journey! 🚀  
+
 
 ---
 

@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    container_name: flask_app
+    ports:
+      - "5000:5000"
+    volumes:
+      - .:/app
+    environment:
+      FLASK_ENV: development
+      FLASK_APP: app.__init__  # Correct the path to the app module
+      DATABASE_URL: postgresql://postgres:123456@host.docker.internal:5432/registrasi_account  # Correct database URL

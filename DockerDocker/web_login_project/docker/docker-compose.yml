@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  web:
+    build:
+      context: ..  # Ini mengarah ke direktori parent (root proyek)
+      dockerfile: Dockerfile
+    ports:
+      - "5000:5000"
+    depends_on:
+      - db
+    environment:
+      - DATABASE_URL=postgresql://postgres:123456@db:5432/credentials  # Ganti password dan database name
+    volumes:
+      - ./app:/app
+  
+  db:
+    image: postgres:latest
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 123456
+      POSTGRES_DB: credentials  # Nama database yang digunakan
+    ports:
+      - "5432:5432"

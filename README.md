@@ -67,8 +67,8 @@ Stay tuned! These exciting projects are in the pipeline and will be released soo
 2. **Sentiment Analysis** 📱🔥
    - Analyze brand perception using Twitter, Instagram, TikTok, or API data.  
 
-3. **Real-Time Object Detection with YOLO (1)** 🎥🔥
-   - Detect multiple objects in images and videos using YOLOv8.
+3. **Real-Time Sign Language Detection with YOLO (1)** 🎥🔥
+   - Detect sign language in images and videos using YOLOv8.
   
 4. **Real-Time Object Detection with YOLO (2)** 🎥🔥
    - Detect multiple objects in images and videos using YOLOv8.  

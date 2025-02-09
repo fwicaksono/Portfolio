@@ -25,14 +25,10 @@ Feel free to reach out to me for collaborations, inquiries, or project discussio
 - **GitHub**: [fwicaksono](https://github.com/fwicaksono) 👨‍💻  
 
 ---
-
 ## List of Projects 🛠️  
-
-Here’s a glimpse of my work. Each project is a step toward solving real-world problems with data-driven insights!  
-
 ### **Completed Projects** ✅  
 
-1. **Sentiment Analysis for Coffeeshop (Couvee Seturan)** ☕  
+1. **Sentiment Analysis for Coffeeshop (Study Case : Couvee Seturan)** ☕  
    - Analyzed customer reviews to understand sentiment trends and improve customer experience.  
    - [View Project](https://github.com/fwicaksono/Portfolio/tree/main/sentiment_analysis_of_couvee_seturan_cofee_shop)  
 
@@ -56,38 +52,32 @@ Here’s a glimpse of my work. Each project is a step toward solving real-world 
    - Built a predictive model to forecast stock prices using historical data.  
    - [View Project](https://github.com/fwicaksono/Portfolio/tree/main/Bank%20Central%20Asia%20Stock%20Price%20Prediction)  
 
+7. **Hospital ER Analysis** **ON PROGRESS** 🚧⏳🔄🔜
+   - Conduct a detailed Hospital Emergency Room Analysis in Power BI, examining key metrics such as patient wait times, satisfaction scores,   admission trends, and referral sources.
+   - [View Project]()
+
 ---
 
 ### **Upcoming Projects** 🚧  
 Stay tuned! These exciting projects are in the pipeline and will be released soon:  
 
-1. **Fraud Detection in Transactions** 🕵️‍♂️  
-   - Detect fraudulent transactions in financial data using Random Forest and Isolation Forest.  
-
-2. **Product Recommendation System** 🛒  
-   - Build a recommendation engine similar to Amazon using collaborative and content-based filtering.  
-
-3. **Customer Segmentation** 👥  
+1. **Customer Segmentation** 👥🔥
    - Group customers based on purchasing behavior using K-Means and hierarchical clustering.  
 
-4. **Social Media Sentiment Analysis** 📱  
-   - Analyze brand perception using Twitter, Instagram, or TikTok data.  
+2. **Sentiment Analysis** 📱🔥
+   - Analyze brand perception using Twitter, Instagram, TikTok, or API data.  
 
-5. **Anomaly Detection in Business Data** 🔍  
-   - Detect unusual transactions or patterns in business datasets.  
-
-6. **Earthquake Prediction Model** 🌍  
-   - Use past seismic data to predict earthquake occurrences.  
-
-7. **Sports Player Tracking** 🏀⚽  
-   - Track players in football, basketball, or tennis for performance analysis.  
-
-8. **Real-Time Object Detection with YOLO** 🎥  
+3. **Real-Time Sign Language Detection with YOLO (1)** 🎥🔥
+   - Detect sign language in images and videos using YOLOv8.
+  
+4. **Real-Time Object Detection with YOLO (2)** 🎥🔥
    - Detect multiple objects in images and videos using YOLOv8.  
 
-9. **Identification of Merapi Volcano Rockfall Direction Using Seismic Signals** 🌋  
+5. **Identification of Merapi Volcano Rockfall Direction Using Seismic Signals** 🌋🔥
    - A study case with the Geological Disaster Technology Research and Development Center (BPPTKG).  
 
+6. **Data Visualization PowerBI (2)** 🎥🔥
+   - Data viz using PowerBI
 ---
 
 Let’s turn data into insights and insights into action! 🌟 Feel free to explore my projects and reach out if you’d like to collaborate or discuss ideas. 😄  

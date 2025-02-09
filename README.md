@@ -52,6 +52,10 @@ Feel free to reach out to me for collaborations, inquiries, or project discussio
    - Built a predictive model to forecast stock prices using historical data.  
    - [View Project](https://github.com/fwicaksono/Portfolio/tree/main/Bank%20Central%20Asia%20Stock%20Price%20Prediction)  
 
+7. **Hospital ER Analysis** **ON PROGRESS** 🚧⏳🔄🔜
+   - Conduct a detailed Hospital Emergency Room Analysis in Power BI, examining key metrics such as patient wait times, satisfaction scores,   admission trends, and referral sources.
+   - [View Project]()
+
 ---
 
 ### **Upcoming Projects** 🚧  

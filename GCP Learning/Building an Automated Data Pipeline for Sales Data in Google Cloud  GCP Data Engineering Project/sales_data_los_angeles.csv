@@ -1,0 +1,501 @@
+Transaction_ID,Date,Customer_Name,Product,Price,Quantity,Total_Sale,Payment_Method,City
+1,2024-10-27,James Vasquez,Coupe,35000,1,35000,PayPal,Los Angeles
+2,2024-04-04,Nathan Wheeler,Sports Car,60000,2,120000,Cash,Los Angeles
+3,2024-06-29,Jamie Martin,Hatchback,18000,2,36000,Bank Transfer,Los Angeles
+4,2024-05-19,Carrie Rocha,Truck,40000,2,80000,Debit Card,Los Angeles
+5,2024-04-24,Anne Salazar,Sedan,20000,1,20000,Debit Card,Los Angeles
+6,2024-08-30,Linda Ochoa,SUV,30000,1,30000,Cash,Los Angeles
+7,2024-09-23,Alexis Cooke,Electric Car,45000,1,45000,Debit Card,Los Angeles
+8,2024-08-04,Stacey Simmons,Luxury Car,70000,2,140000,Credit Card,Los Angeles
+9,2024-11-22,Michelle Carroll,Electric Car,45000,1,45000,Cash,Los Angeles
+10,2024-11-11,Leah Richard,Coupe,35000,2,70000,Credit Card,Los Angeles
+11,2024-12-30,Marc Cox,Convertible,50000,1,50000,PayPal,Los Angeles
+12,2024-04-24,Angela Orozco,Sports Car,60000,1,60000,Cash,Los Angeles
+13,2024-06-15,Larry Allen,Minivan,25000,1,25000,Debit Card,Los Angeles
+14,2025-01-07,Linda White,Sedan,20000,2,40000,Cash,Los Angeles
+15,2024-08-09,Joanna Booth,Luxury Car,70000,1,70000,Debit Card,Los Angeles
+16,2024-12-07,Edwin Collins,Coupe,35000,1,35000,PayPal,Los Angeles
+17,2024-07-28,Brianna Atkinson,Sedan,20000,1,20000,PayPal,Los Angeles
+18,2024-11-03,Barbara Robinson,Minivan,25000,1,25000,PayPal,Los Angeles
+19,2024-07-01,Jerry Bailey,Coupe,35000,2,70000,PayPal,Los Angeles
+20,2024-08-10,Patrick Cantu,Coupe,35000,2,70000,Credit Card,Los Angeles
+21,2024-08-23,Nathan Cooper,Sedan,20000,1,20000,PayPal,Los Angeles
+22,2024-07-03,Ricky King,Sports Car,60000,1,60000,Credit Card,Los Angeles
+23,2024-05-20,Jennifer Clements,Hatchback,18000,2,36000,Bank Transfer,Los Angeles
+24,2024-03-19,Joseph Welch,Sports Car,60000,1,60000,Bank Transfer,Los Angeles
+25,2024-07-24,Leslie Schmidt,Hatchback,18000,1,18000,PayPal,Los Angeles
+26,2024-11-30,Adam Anderson,Luxury Car,70000,1,70000,Debit Card,Los Angeles
+27,2024-04-05,Michael Stokes,Minivan,25000,2,50000,Bank Transfer,Los Angeles
+28,2024-12-28,Stephanie Hughes,Sedan,20000,1,20000,Bank Transfer,Los Angeles
+29,2024-10-22,Katelyn Evans,Sedan,20000,1,20000,Bank Transfer,Los Angeles
+30,2024-10-28,Taylor Luna,Coupe,35000,2,70000,Bank Transfer,Los Angeles
+31,2024-07-11,Cassandra Harding,Convertible,50000,1,50000,Bank Transfer,Los Angeles
+32,2024-10-13,Allen Washington,SUV,30000,1,30000,Bank Transfer,Los Angeles
+33,2024-12-04,Sean Campbell,SUV,30000,1,30000,Cash,Los Angeles
+34,2024-09-23,Rebecca Francis,Sports Car,60000,2,120000,Debit Card,Los Angeles
+35,2024-08-28,John Glenn,Minivan,25000,2,50000,PayPal,Los Angeles
+36,2024-07-17,Robert Dickson,Luxury Car,70000,1,70000,PayPal,Los Angeles
+37,2025-02-05,Robin Ray,Coupe,35000,2,70000,Bank Transfer,Los Angeles
+38,2024-05-09,Mary Hill,Hatchback,18000,2,36000,Credit Card,Los Angeles
+39,2024-09-13,Joseph Graves,Sedan,20000,2,40000,Bank Transfer,Los Angeles
+40,2024-06-03,Rebecca Bell,Minivan,25000,2,50000,Cash,Los Angeles
+41,2024-05-16,James Webb,Sedan,20000,2,40000,Credit Card,Los Angeles
+42,2024-12-10,Sandra Graham,SUV,30000,1,30000,Credit Card,Los Angeles
+43,2024-11-10,Hayley Wilson,Electric Car,45000,1,45000,Cash,Los Angeles
+44,2024-07-08,James Hamilton,Truck,40000,1,40000,Bank Transfer,Los Angeles
+45,2024-03-26,Cathy Krause,Truck,40000,2,80000,Cash,Los Angeles
+46,2024-09-05,Valerie Davies,Truck,40000,2,80000,Cash,Los Angeles
+47,2024-12-13,Bridget Miles,Minivan,25000,1,25000,Debit Card,Los Angeles
+48,2025-01-02,Kathryn Blackburn,Luxury Car,70000,2,140000,Debit Card,Los Angeles
+49,2024-10-23,Selena Gordon,Coupe,35000,1,35000,Credit Card,Los Angeles
+50,2024-12-30,Timothy Hogan,Minivan,25000,1,25000,Credit Card,Los Angeles
+51,2024-08-15,Mary Garcia,Sedan,20000,2,40000,PayPal,Los Angeles
+52,2024-04-15,Kenneth Walls,SUV,30000,1,30000,Cash,Los Angeles
+53,2024-06-12,Trevor Miller MD,Luxury Car,70000,1,70000,Debit Card,Los Angeles
+54,2024-08-10,Kurt Callahan,Luxury Car,70000,2,140000,PayPal,Los Angeles
+55,2024-04-17,Justin Russo,Luxury Car,70000,2,140000,Bank Transfer,Los Angeles
+56,2025-01-31,Sandra King,Truck,40000,2,80000,Debit Card,Los Angeles
+57,2024-07-05,Bobby White,SUV,30000,2,60000,Credit Card,Los Angeles
+58,2024-05-16,David Harmon,Hatchback,18000,2,36000,Debit Card,Los Angeles
+59,2024-07-11,James Duncan,Sports Car,60000,2,120000,Credit Card,Los Angeles
+60,2024-12-06,Andrew Cardenas,Sports Car,60000,1,60000,Credit Card,Los Angeles
+61,2025-02-11,Matthew Nguyen,SUV,30000,1,30000,Credit Card,Los Angeles
+62,2024-08-11,Donna Kelly,Minivan,25000,2,50000,PayPal,Los Angeles
+63,2024-06-25,Krista Pennington,Convertible,50000,2,100000,Debit Card,Los Angeles
+64,2025-01-24,Adam Burch,SUV,30000,2,60000,Cash,Los Angeles
+65,2025-01-03,Jill Lawrence,Coupe,35000,1,35000,Credit Card,Los Angeles
+66,2024-05-27,Michael Davis,Truck,40000,2,80000,Bank Transfer,Los Angeles
+67,2025-01-28,Traci Evans,Luxury Car,70000,2,140000,Debit Card,Los Angeles
+68,2024-06-08,John Chambers,Sports Car,60000,1,60000,Debit Card,Los Angeles
+69,2024-02-26,Michael Johnson,Sedan,20000,2,40000,Cash,Los Angeles
+70,2025-01-04,Emily Mendez,Sports Car,60000,1,60000,Bank Transfer,Los Angeles
+71,2024-09-02,Diane Schmitt,SUV,30000,2,60000,Debit Card,Los Angeles
+72,2024-08-09,Brian Gutierrez,Convertible,50000,1,50000,Cash,Los Angeles
+73,2024-03-15,Regina Hinton,Convertible,50000,1,50000,Cash,Los Angeles
+74,2024-05-17,Joseph Smith,Hatchback,18000,1,18000,PayPal,Los Angeles
+75,2025-01-27,Elizabeth George,Luxury Car,70000,2,140000,Cash,Los Angeles
+76,2024-05-24,Kellie Mathis,Electric Car,45000,2,90000,PayPal,Los Angeles
+77,2024-10-07,Anthony Thomas,Electric Car,45000,1,45000,Cash,Los Angeles
+78,2024-11-19,Susan Wilson,Sports Car,60000,2,120000,Cash,Los Angeles
+79,2024-08-14,Joshua Fernandez,Minivan,25000,1,25000,Credit Card,Los Angeles
+80,2024-03-07,Danielle Gonzalez,Coupe,35000,1,35000,Bank Transfer,Los Angeles
+81,2024-08-19,Ashley Reyes,Truck,40000,1,40000,Bank Transfer,Los Angeles
+82,2024-05-22,Alfred Hall,Electric Car,45000,2,90000,Debit Card,Los Angeles
+83,2024-10-30,Melissa Gonzalez,Luxury Car,70000,2,140000,Bank Transfer,Los Angeles
+84,2024-10-16,Patricia Washington,Truck,40000,2,80000,Debit Card,Los Angeles
+85,2024-08-06,Charles Dean,Luxury Car,70000,1,70000,Bank Transfer,Los Angeles
+86,2025-01-25,Kathy Martin DDS,Convertible,50000,2,100000,Credit Card,Los Angeles
+87,2024-07-31,Kimberly Campbell,Minivan,25000,2,50000,Credit Card,Los Angeles
+88,2024-07-22,Pamela Mcdowell,Truck,40000,2,80000,Bank Transfer,Los Angeles
+89,2024-06-16,James Davis,Electric Car,45000,2,90000,Bank Transfer,Los Angeles
+90,2024-03-07,Dana Pierce,Convertible,50000,1,50000,Credit Card,Los Angeles
+91,2024-11-13,Joshua Larson,Minivan,25000,1,25000,Debit Card,Los Angeles
+92,2024-09-12,Brendan Morales,Hatchback,18000,1,18000,PayPal,Los Angeles
+93,2024-04-10,Jennifer King,Luxury Car,70000,1,70000,Credit Card,Los Angeles
+94,2024-04-08,Timothy Martinez,Sedan,20000,1,20000,PayPal,Los Angeles
+95,2024-07-13,Bobby Montgomery,Hatchback,18000,2,36000,Credit Card,Los Angeles
+96,2024-05-25,Kimberly Barker,Coupe,35000,1,35000,Credit Card,Los Angeles
+97,2024-04-28,Kenneth Newman,Electric Car,45000,1,45000,Cash,Los Angeles
+98,2024-08-30,Maria Thompson,SUV,30000,1,30000,Cash,Los Angeles
+99,2024-04-04,Jose Holloway,Coupe,35000,2,70000,Bank Transfer,Los Angeles
+100,2024-11-21,Gabrielle Mendez,SUV,30000,2,60000,Cash,Los Angeles
+101,2024-10-11,James Logan,Electric Car,45000,2,90000,PayPal,Los Angeles
+102,2024-09-26,Daniel Rogers,Electric Car,45000,1,45000,Debit Card,Los Angeles
+103,2024-11-03,Brandon Marsh,Hatchback,18000,2,36000,Bank Transfer,Los Angeles
+104,2024-11-30,Mrs. Christy Fowler,Convertible,50000,2,100000,Bank Transfer,Los Angeles
+105,2024-09-21,Louis Ashley,Coupe,35000,1,35000,Debit Card,Los Angeles
+106,2024-03-04,Seth Thomas,Luxury Car,70000,1,70000,Bank Transfer,Los Angeles
+107,2024-09-13,Brandon Patel,Sedan,20000,2,40000,Cash,Los Angeles
+108,2024-06-16,Mr. Jeremy Hahn,Truck,40000,1,40000,Debit Card,Los Angeles
+109,2024-12-08,Douglas Walker,Hatchback,18000,1,18000,Credit Card,Los Angeles
+110,2024-12-19,Tracy Foster,Minivan,25000,1,25000,Credit Card,Los Angeles
+111,2024-11-15,Eduardo Reid,Electric Car,45000,2,90000,Bank Transfer,Los Angeles
+112,2024-03-17,Steven Diaz,Sedan,20000,2,40000,Debit Card,Los Angeles
+113,2024-03-09,Amy Rodriguez,Convertible,50000,1,50000,Bank Transfer,Los Angeles
+114,2024-12-15,Morgan Torres,Coupe,35000,2,70000,Credit Card,Los Angeles
+115,2025-02-16,Kathryn Ramos,Truck,40000,1,40000,Credit Card,Los Angeles
+116,2025-02-12,Jodi Marshall,Sports Car,60000,2,120000,PayPal,Los Angeles
+117,2024-11-25,Tiffany Lindsey,Hatchback,18000,2,36000,Credit Card,Los Angeles
+118,2024-05-04,Aaron Murphy,Convertible,50000,1,50000,Cash,Los Angeles
+119,2024-03-14,William Nguyen,Convertible,50000,1,50000,Debit Card,Los Angeles
+120,2024-08-09,Sarah Rhodes,SUV,30000,1,30000,PayPal,Los Angeles
+121,2025-02-01,Kathleen Williams,Convertible,50000,2,100000,Credit Card,Los Angeles
+122,2024-12-16,Kimberly Morgan,Electric Car,45000,2,90000,PayPal,Los Angeles
+123,2024-09-02,Sara Roach,Luxury Car,70000,1,70000,Debit Card,Los Angeles
+124,2024-12-14,Aaron Jones,Convertible,50000,1,50000,Cash,Los Angeles
+125,2024-06-01,Jenna Smith,Sedan,20000,2,40000,Debit Card,Los Angeles
+126,2024-04-09,Sarah Smith,Sedan,20000,1,20000,Debit Card,Los Angeles
+127,2024-07-21,Heidi Williams,Electric Car,45000,2,90000,Debit Card,Los Angeles
+128,2025-01-26,Mr. Richard Gutierrez,Luxury Car,70000,1,70000,Debit Card,Los Angeles
+129,2024-07-12,Colton Oliver,Hatchback,18000,2,36000,PayPal,Los Angeles
+130,2024-03-05,James Schneider,Luxury Car,70000,1,70000,Debit Card,Los Angeles
+131,2024-06-18,Brian Lopez,Electric Car,45000,1,45000,PayPal,Los Angeles
+132,2024-10-05,Andrea Smith,Convertible,50000,2,100000,Cash,Los Angeles
+133,2024-08-01,Brad Jones,Electric Car,45000,1,45000,Credit Card,Los Angeles
+134,2024-10-08,Darrell Booth,Truck,40000,2,80000,Debit Card,Los Angeles
+135,2024-04-24,Justin Reed,Truck,40000,1,40000,PayPal,Los Angeles
+136,2024-08-17,Emily Johnson,Hatchback,18000,2,36000,Cash,Los Angeles
+137,2024-03-10,Justin Singh,Hatchback,18000,1,18000,Credit Card,Los Angeles
+138,2025-01-22,Damon Li,Hatchback,18000,2,36000,Debit Card,Los Angeles
+139,2024-03-09,Tiffany Powell,Sedan,20000,1,20000,Debit Card,Los Angeles
+140,2024-07-30,Robin Simmons,Minivan,25000,1,25000,Credit Card,Los Angeles
+141,2024-07-06,Taylor Kaiser,Convertible,50000,1,50000,Cash,Los Angeles
+142,2024-12-28,Michael Miles,Luxury Car,70000,2,140000,Credit Card,Los Angeles
+143,2025-01-23,Joshua Jones,Minivan,25000,1,25000,PayPal,Los Angeles
+144,2024-06-29,Kenneth Ramirez,SUV,30000,2,60000,Cash,Los Angeles
+145,2024-08-24,Brittany Cruz,SUV,30000,1,30000,Cash,Los Angeles
+146,2024-10-07,Tina Underwood,Coupe,35000,2,70000,Bank Transfer,Los Angeles
+147,2024-03-02,Joy Beasley,SUV,30000,2,60000,Cash,Los Angeles
+148,2024-08-26,Julie Garcia,Minivan,25000,1,25000,Credit Card,Los Angeles
+149,2024-05-05,Dorothy White,SUV,30000,1,30000,Debit Card,Los Angeles
+150,2025-01-19,Molly Ramirez,Sedan,20000,2,40000,Bank Transfer,Los Angeles
+151,2024-10-19,Samantha Pennington,Convertible,50000,2,100000,Debit Card,Los Angeles
+152,2025-01-01,Craig Anderson,Minivan,25000,1,25000,Debit Card,Los Angeles
+153,2024-09-21,Daniel Garza,Minivan,25000,2,50000,Credit Card,Los Angeles
+154,2024-03-10,James Ferguson,Sedan,20000,2,40000,Cash,Los Angeles
+155,2024-10-11,Ricardo Garrett MD,SUV,30000,1,30000,Cash,Los Angeles
+156,2024-07-13,Dylan Duran,Sedan,20000,1,20000,Credit Card,Los Angeles
+157,2025-02-15,Jeffrey Fowler,Hatchback,18000,2,36000,Debit Card,Los Angeles
+158,2025-01-27,Peter Jackson,Truck,40000,1,40000,Credit Card,Los Angeles
+159,2024-12-15,Valerie Thomas,Sports Car,60000,1,60000,Credit Card,Los Angeles
+160,2024-10-06,Jessica Compton,Hatchback,18000,2,36000,Credit Card,Los Angeles
+161,2025-02-16,Rachel Williams,Truck,40000,2,80000,Bank Transfer,Los Angeles
+162,2024-12-06,Christopher Price,SUV,30000,2,60000,Credit Card,Los Angeles
+163,2024-12-20,Dr. Jennifer Edwards,Electric Car,45000,2,90000,Debit Card,Los Angeles
+164,2024-05-21,Craig House,Sedan,20000,2,40000,PayPal,Los Angeles
+165,2024-07-03,Paul Daniels,Sports Car,60000,1,60000,Debit Card,Los Angeles
+166,2024-03-26,James Perez,Electric Car,45000,2,90000,Cash,Los Angeles
+167,2024-06-24,Andre Jimenez,Sedan,20000,1,20000,Bank Transfer,Los Angeles
+168,2025-01-07,Pam Wise,Convertible,50000,2,100000,Credit Card,Los Angeles
+169,2024-12-08,Walter Steele,Coupe,35000,2,70000,Bank Transfer,Los Angeles
+170,2024-09-06,Preston Ray,Luxury Car,70000,1,70000,Cash,Los Angeles
+171,2025-02-03,Michelle Garza,Sports Car,60000,2,120000,PayPal,Los Angeles
+172,2024-06-24,Emily Reid,Hatchback,18000,2,36000,PayPal,Los Angeles
+173,2024-05-21,Kristen Odonnell,Minivan,25000,1,25000,Cash,Los Angeles
+174,2024-09-22,Sarah Cox,Truck,40000,2,80000,Cash,Los Angeles
+175,2024-09-24,Kyle Medina,Sports Car,60000,2,120000,PayPal,Los Angeles
+176,2025-02-07,Sheri Moore,Luxury Car,70000,2,140000,Credit Card,Los Angeles
+177,2024-12-26,Carol Garcia,Electric Car,45000,2,90000,Bank Transfer,Los Angeles
+178,2024-11-11,Steven Navarro,Truck,40000,1,40000,Credit Card,Los Angeles
+179,2024-12-31,Lisa Meadows,Sports Car,60000,1,60000,Credit Card,Los Angeles
+180,2024-10-15,Jean Wong,Electric Car,45000,2,90000,Cash,Los Angeles
+181,2024-08-13,Nicole Berry,Coupe,35000,1,35000,Debit Card,Los Angeles
+182,2024-06-24,Michelle Nichols,Hatchback,18000,1,18000,Bank Transfer,Los Angeles
+183,2024-11-14,Tricia Marshall,Minivan,25000,2,50000,Credit Card,Los Angeles
+184,2024-12-21,Teresa Turner,Hatchback,18000,1,18000,Debit Card,Los Angeles
+185,2024-12-16,Michael Mendoza,Convertible,50000,1,50000,PayPal,Los Angeles
+186,2024-10-01,Christian Carlson,Minivan,25000,2,50000,Cash,Los Angeles
+187,2024-12-03,Christopher Romero,Sports Car,60000,2,120000,Credit Card,Los Angeles
+188,2024-08-17,Karen Rhodes,Hatchback,18000,2,36000,Cash,Los Angeles
+189,2024-05-20,Chad Cobb,Luxury Car,70000,2,140000,PayPal,Los Angeles
+190,2024-05-01,Max Baker,Sedan,20000,1,20000,Debit Card,Los Angeles
+191,2025-01-21,Penny Lawrence,Sedan,20000,2,40000,Credit Card,Los Angeles
+192,2025-02-14,Elizabeth Wright,Electric Car,45000,2,90000,Credit Card,Los Angeles
+193,2024-10-09,Debra Holloway,Minivan,25000,1,25000,Bank Transfer,Los Angeles
+194,2024-04-01,Christina King,Truck,40000,1,40000,Debit Card,Los Angeles
+195,2024-07-03,Edward Buck,Electric Car,45000,2,90000,Credit Card,Los Angeles
+196,2024-08-25,Wendy Bruce,Electric Car,45000,2,90000,Bank Transfer,Los Angeles
+197,2024-09-28,Christopher Mendoza,Sedan,20000,2,40000,Cash,Los Angeles
+198,2025-02-03,Emily Thompson,Coupe,35000,2,70000,Bank Transfer,Los Angeles
+199,2024-06-06,George Morgan,Luxury Car,70000,2,140000,Credit Card,Los Angeles
+200,2024-12-01,Michelle Fuller,Luxury Car,70000,1,70000,Cash,Los Angeles
+201,2024-06-24,Brett Smith,Sedan,20000,1,20000,PayPal,Los Angeles
+202,2024-11-19,Caleb Miller,Coupe,35000,2,70000,Credit Card,Los Angeles
+203,2024-07-28,Isabella Griffin,Luxury Car,70000,2,140000,Debit Card,Los Angeles
+204,2024-11-13,Donna Noble,Sports Car,60000,2,120000,PayPal,Los Angeles
+205,2024-12-09,Joseph Glover,SUV,30000,1,30000,Debit Card,Los Angeles
+206,2024-06-29,Travis Patel,Sports Car,60000,1,60000,PayPal,Los Angeles
+207,2024-06-24,Carol Dean,Truck,40000,2,80000,Cash,Los Angeles
+208,2024-08-24,Alejandra Best,Luxury Car,70000,1,70000,Debit Card,Los Angeles
+209,2024-10-05,Laura Duncan,Electric Car,45000,1,45000,Cash,Los Angeles
+210,2024-10-22,Julie Romero,Minivan,25000,1,25000,Debit Card,Los Angeles
+211,2024-10-04,Connie Snyder,Truck,40000,2,80000,Cash,Los Angeles
+212,2024-04-05,Mia Robinson,Minivan,25000,2,50000,PayPal,Los Angeles
+213,2025-01-18,Caitlin Acosta,Sports Car,60000,1,60000,Credit Card,Los Angeles
+214,2024-08-23,Amber Dunn,Truck,40000,1,40000,Debit Card,Los Angeles
+215,2024-11-22,Billy Holmes,Coupe,35000,2,70000,Cash,Los Angeles
+216,2024-10-19,Malik Lewis,Electric Car,45000,1,45000,Cash,Los Angeles
+217,2024-03-22,Jamie Owen,Coupe,35000,1,35000,Cash,Los Angeles
+218,2024-09-08,Justin Reynolds,Truck,40000,2,80000,PayPal,Los Angeles
+219,2024-08-02,Megan Cox,Sports Car,60000,2,120000,Cash,Los Angeles
+220,2024-04-09,Melissa Hernandez,Sports Car,60000,1,60000,Credit Card,Los Angeles
+221,2024-05-28,Stephanie Burns,Electric Car,45000,1,45000,Debit Card,Los Angeles
+222,2024-11-19,Melanie Harris,Sports Car,60000,1,60000,Credit Card,Los Angeles
+223,2024-10-14,Scott Taylor,Minivan,25000,1,25000,PayPal,Los Angeles
+224,2024-06-15,Hannah Martin,SUV,30000,1,30000,Credit Card,Los Angeles
+225,2024-08-24,Danielle Underwood,Truck,40000,2,80000,Debit Card,Los Angeles
+226,2025-01-03,April Knox,Convertible,50000,2,100000,Debit Card,Los Angeles
+227,2025-01-13,Chris Harding,Hatchback,18000,1,18000,Debit Card,Los Angeles
+228,2024-07-05,Justin Holmes,Coupe,35000,1,35000,Debit Card,Los Angeles
+229,2025-02-14,Michelle Chan,Sedan,20000,1,20000,Bank Transfer,Los Angeles
+230,2024-05-09,Marc Ortiz,SUV,30000,2,60000,Debit Card,Los Angeles
+231,2024-12-05,Nicholas Rivas,Hatchback,18000,1,18000,Debit Card,Los Angeles
+232,2024-04-20,Philip Stokes,Sedan,20000,1,20000,Cash,Los Angeles
+233,2025-01-28,Jessica Hartman,Sports Car,60000,2,120000,Credit Card,Los Angeles
+234,2024-07-19,Elizabeth Lee,Hatchback,18000,1,18000,Credit Card,Los Angeles
+235,2025-01-27,Susan Barnes,Truck,40000,1,40000,Cash,Los Angeles
+236,2024-07-10,Daniel Mcpherson,Luxury Car,70000,2,140000,Cash,Los Angeles
+237,2024-03-25,Roy Boone,Truck,40000,1,40000,PayPal,Los Angeles
+238,2025-01-20,Caleb Moore,Sports Car,60000,1,60000,Bank Transfer,Los Angeles
+239,2024-09-12,John Peterson,Coupe,35000,2,70000,Cash,Los Angeles
+240,2025-02-17,Michael Mcdaniel,Coupe,35000,1,35000,Credit Card,Los Angeles
+241,2024-10-21,Derek Lee,Hatchback,18000,2,36000,Credit Card,Los Angeles
+242,2024-12-04,Ryan Johnson,SUV,30000,2,60000,PayPal,Los Angeles
+243,2024-07-31,Mark Kaiser,Electric Car,45000,2,90000,Debit Card,Los Angeles
+244,2024-08-07,Jennifer Williams,Minivan,25000,1,25000,Bank Transfer,Los Angeles
+245,2024-09-22,Ryan Cortez,Luxury Car,70000,2,140000,Bank Transfer,Los Angeles
+246,2024-03-22,Taylor Miller,Luxury Car,70000,1,70000,Debit Card,Los Angeles
+247,2025-01-13,Brandon Rodriguez,SUV,30000,1,30000,Debit Card,Los Angeles
+248,2024-05-25,Samuel Jones,Minivan,25000,2,50000,Cash,Los Angeles
+249,2025-01-28,Jacob Russell,Luxury Car,70000,1,70000,Bank Transfer,Los Angeles
+250,2024-12-30,Eric Hernandez,Sports Car,60000,1,60000,Debit Card,Los Angeles
+251,2024-06-20,Mr. Michael Harrison DVM,SUV,30000,2,60000,Cash,Los Angeles
+252,2024-06-04,Philip Wagner,Luxury Car,70000,2,140000,Cash,Los Angeles
+253,2025-01-14,Leonard Irwin,SUV,30000,2,60000,Debit Card,Los Angeles
+254,2024-04-07,Brandon Riddle,Hatchback,18000,1,18000,Credit Card,Los Angeles
+255,2024-05-07,Mary Perkins,Truck,40000,1,40000,PayPal,Los Angeles
+256,2024-05-09,Anna Stein,Luxury Car,70000,2,140000,Credit Card,Los Angeles
+257,2025-01-03,Danielle Gomez,Hatchback,18000,1,18000,Debit Card,Los Angeles
+258,2024-06-16,Lindsey Cook,Truck,40000,2,80000,PayPal,Los Angeles
+259,2024-07-09,Eric Smith,SUV,30000,2,60000,PayPal,Los Angeles
+260,2024-08-25,Linda Garner,Sedan,20000,1,20000,Credit Card,Los Angeles
+261,2024-04-16,Kevin Ramirez,Coupe,35000,1,35000,Credit Card,Los Angeles
+262,2024-12-07,Aaron Scott,Truck,40000,2,80000,PayPal,Los Angeles
+263,2024-08-29,Lorraine Spencer,Sports Car,60000,1,60000,Cash,Los Angeles
+264,2024-07-13,Justin Morgan,Sports Car,60000,2,120000,Cash,Los Angeles
+265,2024-10-24,Rachael Bailey,Hatchback,18000,2,36000,Bank Transfer,Los Angeles
+266,2024-10-16,Dylan West,Luxury Car,70000,2,140000,Cash,Los Angeles
+267,2024-07-29,Alec Neal,Electric Car,45000,1,45000,Credit Card,Los Angeles
+268,2025-01-02,Brenda Goodwin,Luxury Car,70000,2,140000,PayPal,Los Angeles
+269,2024-05-04,Miguel Reid,Minivan,25000,1,25000,PayPal,Los Angeles
+270,2024-02-29,Angela Jones,Hatchback,18000,2,36000,Debit Card,Los Angeles
+271,2024-07-18,Jessica Wilcox,Electric Car,45000,2,90000,PayPal,Los Angeles
+272,2024-06-12,Lauren Becker,Convertible,50000,1,50000,Cash,Los Angeles
+273,2025-01-17,Sandra Sutton,Minivan,25000,2,50000,PayPal,Los Angeles
+274,2024-10-02,Veronica Roberts,Truck,40000,1,40000,PayPal,Los Angeles
+275,2024-08-14,Brian Martinez,Coupe,35000,2,70000,PayPal,Los Angeles
+276,2025-01-10,Kaylee Rodriguez,Convertible,50000,1,50000,Credit Card,Los Angeles
+277,2025-02-08,Jacqueline Sanchez,Sports Car,60000,2,120000,Bank Transfer,Los Angeles
+278,2024-02-23,Nicole Powers,Truck,40000,1,40000,Credit Card,Los Angeles
+279,2024-09-14,Nicole Harris,Truck,40000,2,80000,PayPal,Los Angeles
+280,2024-05-24,Dana Miller,Luxury Car,70000,2,140000,Credit Card,Los Angeles
+281,2024-03-27,Christopher Watts,Hatchback,18000,2,36000,Debit Card,Los Angeles
+282,2024-08-18,William Johnson,SUV,30000,2,60000,PayPal,Los Angeles
+283,2024-04-18,Michael Le,SUV,30000,2,60000,Credit Card,Los Angeles
+284,2024-04-19,Michael Harris,Coupe,35000,1,35000,Bank Transfer,Los Angeles
+285,2024-11-30,Joseph Hawkins,Luxury Car,70000,1,70000,Debit Card,Los Angeles
+286,2024-04-19,Laura Peterson,Truck,40000,2,80000,PayPal,Los Angeles
+287,2024-10-05,Jessica Ford,Minivan,25000,1,25000,Debit Card,Los Angeles
+288,2024-04-10,Paul Williams,Convertible,50000,2,100000,Credit Card,Los Angeles
+289,2024-04-08,Sandra Ramirez,Sedan,20000,2,40000,Cash,Los Angeles
+290,2025-01-06,Stephen Wu,Hatchback,18000,1,18000,Bank Transfer,Los Angeles
+291,2024-09-09,Krista Smith,SUV,30000,1,30000,Bank Transfer,Los Angeles
+292,2024-11-28,Nicholas Vazquez,Hatchback,18000,2,36000,Debit Card,Los Angeles
+293,2024-11-03,Sean Maxwell,Luxury Car,70000,2,140000,PayPal,Los Angeles
+294,2024-10-12,George Travis,Truck,40000,2,80000,PayPal,Los Angeles
+295,2024-08-07,Mrs. Mariah Moran,Sports Car,60000,2,120000,PayPal,Los Angeles
+296,2024-06-28,Eric Summers,Sedan,20000,2,40000,Credit Card,Los Angeles
+297,2024-11-01,Michelle Cooper,Luxury Car,70000,2,140000,Cash,Los Angeles
+298,2024-06-16,Anthony Ponce,Sedan,20000,2,40000,Cash,Los Angeles
+299,2025-02-12,Danny Brown,Electric Car,45000,1,45000,Credit Card,Los Angeles
+300,2024-06-07,Nancy Hernandez,Coupe,35000,1,35000,Bank Transfer,Los Angeles
+301,2024-05-15,Scott Nguyen,Minivan,25000,2,50000,Cash,Los Angeles
+302,2025-02-01,Erika Charles,Sports Car,60000,1,60000,Credit Card,Los Angeles
+303,2024-11-17,Matthew Burns,Sedan,20000,2,40000,Debit Card,Los Angeles
+304,2025-01-05,Mr. George Brock,Hatchback,18000,2,36000,Credit Card,Los Angeles
+305,2024-07-08,Jennifer Taylor,Coupe,35000,1,35000,PayPal,Los Angeles
+306,2024-10-19,Tanya Whitehead,SUV,30000,2,60000,Bank Transfer,Los Angeles
+307,2024-03-12,Jennifer Ramirez,Sedan,20000,2,40000,Bank Transfer,Los Angeles
+308,2024-12-06,Kathryn Young,Electric Car,45000,2,90000,Credit Card,Los Angeles
+309,2024-07-03,Ricky Nolan,Luxury Car,70000,2,140000,Cash,Los Angeles
+310,2024-08-14,Lisa Torres,Truck,40000,1,40000,Cash,Los Angeles
+311,2024-09-03,Ashley Willis,Electric Car,45000,1,45000,PayPal,Los Angeles
+312,2024-06-26,Ashley Jones,Convertible,50000,1,50000,Cash,Los Angeles
+313,2024-08-17,Erin Gregory,Sports Car,60000,2,120000,Cash,Los Angeles
+314,2024-05-25,Jonathan Nelson,Truck,40000,1,40000,Cash,Los Angeles
+315,2024-12-06,Joshua Vaughn,Electric Car,45000,1,45000,Credit Card,Los Angeles
+316,2024-12-18,Derrick Coffey,Coupe,35000,1,35000,Cash,Los Angeles
+317,2024-02-22,Penny Hensley,Convertible,50000,2,100000,Cash,Los Angeles
+318,2024-07-29,Lisa Dickerson,Minivan,25000,2,50000,Cash,Los Angeles
+319,2024-12-25,Brandon Ayala,Hatchback,18000,2,36000,Debit Card,Los Angeles
+320,2024-10-12,Mario Hays,Electric Car,45000,1,45000,Cash,Los Angeles
+321,2024-03-09,Elizabeth Moody,Sports Car,60000,1,60000,Credit Card,Los Angeles
+322,2024-03-30,Nathan Mccoy,Hatchback,18000,1,18000,Bank Transfer,Los Angeles
+323,2025-01-14,Melissa Nielsen,Minivan,25000,1,25000,Cash,Los Angeles
+324,2025-02-02,Steven Burke,Sedan,20000,1,20000,PayPal,Los Angeles
+325,2024-11-05,Amanda Phillips,SUV,30000,1,30000,PayPal,Los Angeles
+326,2024-12-26,David Smith MD,Convertible,50000,1,50000,Credit Card,Los Angeles
+327,2024-07-08,Rachel Hansen,Truck,40000,2,80000,Bank Transfer,Los Angeles
+328,2024-05-04,Robert Craig,Luxury Car,70000,2,140000,Cash,Los Angeles
+329,2025-01-21,Tammy Schroeder,Minivan,25000,1,25000,PayPal,Los Angeles
+330,2024-08-30,Lindsay Boyer,SUV,30000,1,30000,PayPal,Los Angeles
+331,2025-01-15,Randall Butler,Coupe,35000,1,35000,PayPal,Los Angeles
+332,2024-11-25,Paul Jackson,Coupe,35000,1,35000,Credit Card,Los Angeles
+333,2024-11-24,Jasmine Welch,Coupe,35000,2,70000,Debit Card,Los Angeles
+334,2024-09-13,Christina Morgan,Convertible,50000,1,50000,PayPal,Los Angeles
+335,2024-06-15,Juan Johnston,Convertible,50000,2,100000,Debit Card,Los Angeles
+336,2025-02-18,Ellen Williams,Luxury Car,70000,1,70000,Debit Card,Los Angeles
+337,2024-08-28,Brian Mccall,Coupe,35000,2,70000,Bank Transfer,Los Angeles
+338,2024-07-19,Jason Little,Minivan,25000,1,25000,PayPal,Los Angeles
+339,2024-08-01,Christina Perry,Luxury Car,70000,2,140000,Debit Card,Los Angeles
+340,2024-03-17,Timothy Higgins,Luxury Car,70000,1,70000,Cash,Los Angeles
+341,2024-11-24,William Little,Sedan,20000,1,20000,Credit Card,Los Angeles
+342,2024-10-07,Michael Cox,Sports Car,60000,2,120000,Credit Card,Los Angeles
+343,2024-12-22,Jason Reid,Electric Car,45000,1,45000,Bank Transfer,Los Angeles
+344,2024-04-02,Gregory Brown,SUV,30000,2,60000,Credit Card,Los Angeles
+345,2024-08-17,Cynthia Fisher,Luxury Car,70000,2,140000,Debit Card,Los Angeles
+346,2024-12-09,Michael Lang,Truck,40000,2,80000,Credit Card,Los Angeles
+347,2024-05-10,James Jackson,Hatchback,18000,1,18000,Debit Card,Los Angeles
+348,2024-04-01,Wendy Harris,Sedan,20000,1,20000,Debit Card,Los Angeles
+349,2024-12-31,Vanessa Pierce,Sedan,20000,1,20000,Debit Card,Los Angeles
+350,2024-09-05,Tyler Summers,Coupe,35000,1,35000,PayPal,Los Angeles
+351,2024-10-28,Dana Curtis,Convertible,50000,1,50000,Credit Card,Los Angeles
+352,2024-03-14,Jason Morgan,Electric Car,45000,2,90000,Debit Card,Los Angeles
+353,2024-07-01,Christina Simmons,Luxury Car,70000,1,70000,Debit Card,Los Angeles
+354,2024-07-06,Grace Sweeney,Truck,40000,2,80000,Bank Transfer,Los Angeles
+355,2024-03-17,James Green,Coupe,35000,1,35000,Debit Card,Los Angeles
+356,2024-09-28,Kelsey Shaw,Coupe,35000,1,35000,Credit Card,Los Angeles
+357,2024-10-21,Ronald Silva,Coupe,35000,2,70000,Bank Transfer,Los Angeles
+358,2024-07-16,Andrea Wheeler,Minivan,25000,1,25000,PayPal,Los Angeles
+359,2024-04-19,Martha Navarro,Coupe,35000,1,35000,Bank Transfer,Los Angeles
+360,2024-07-17,Jeanne Wright,Convertible,50000,2,100000,Cash,Los Angeles
+361,2024-11-29,Hannah Schneider,Electric Car,45000,2,90000,Credit Card,Los Angeles
+362,2024-04-05,William Blackburn,Minivan,25000,2,50000,Bank Transfer,Los Angeles
+363,2024-12-04,Kirsten Ibarra,Sports Car,60000,1,60000,Credit Card,Los Angeles
+364,2024-05-01,Brittany Simpson,Truck,40000,2,80000,PayPal,Los Angeles
+365,2025-01-22,Heather White,Luxury Car,70000,1,70000,PayPal,Los Angeles
+366,2025-01-13,Anthony Martin,Sedan,20000,2,40000,Credit Card,Los Angeles
+367,2024-09-04,Miguel Pearson,Minivan,25000,2,50000,Credit Card,Los Angeles
+368,2024-09-11,John Campbell,Hatchback,18000,1,18000,Debit Card,Los Angeles
+369,2024-08-15,Alexandria Moore,Sedan,20000,1,20000,Cash,Los Angeles
+370,2024-10-13,Tyler Peters,Convertible,50000,1,50000,Credit Card,Los Angeles
+371,2025-01-28,Roy Mckenzie,Convertible,50000,2,100000,Credit Card,Los Angeles
+372,2024-12-06,Marvin Keith,Hatchback,18000,1,18000,Cash,Los Angeles
+373,2024-12-15,John Dodson,Electric Car,45000,2,90000,Debit Card,Los Angeles
+374,2024-08-27,Shawn Ramos,Luxury Car,70000,2,140000,Credit Card,Los Angeles
+375,2024-05-24,Meredith Wood,Truck,40000,2,80000,PayPal,Los Angeles
+376,2024-02-26,Jeanne Finley,Minivan,25000,2,50000,PayPal,Los Angeles
+377,2024-10-01,April Roman,Luxury Car,70000,1,70000,Credit Card,Los Angeles
+378,2024-07-19,Javier Downs,Electric Car,45000,2,90000,Debit Card,Los Angeles
+379,2024-11-30,Bryan Farrell,Hatchback,18000,2,36000,Debit Card,Los Angeles
+380,2024-11-22,Erik White,Electric Car,45000,2,90000,PayPal,Los Angeles
+381,2024-04-30,Maureen Sutton,SUV,30000,1,30000,Bank Transfer,Los Angeles
+382,2024-09-20,John Flores,Minivan,25000,1,25000,Credit Card,Los Angeles
+383,2024-11-23,Erica Nolan,Convertible,50000,2,100000,PayPal,Los Angeles
+384,2024-04-24,Mr. Christopher Harris,Truck,40000,2,80000,PayPal,Los Angeles
+385,2024-09-18,Courtney Mitchell,Sedan,20000,1,20000,Debit Card,Los Angeles
+386,2024-04-20,Lisa Martinez,Hatchback,18000,1,18000,Bank Transfer,Los Angeles
+387,2024-10-16,Shannon Lowe,SUV,30000,2,60000,Debit Card,Los Angeles
+388,2024-06-15,Walter Williams,Luxury Car,70000,2,140000,Debit Card,Los Angeles
+389,2024-09-04,James Brown,SUV,30000,1,30000,Debit Card,Los Angeles
+390,2024-08-01,Hannah Mcgee,Sports Car,60000,1,60000,Debit Card,Los Angeles
+391,2024-04-12,Mitchell Velasquez,Minivan,25000,1,25000,Bank Transfer,Los Angeles
+392,2024-05-03,Steven Ruiz,Convertible,50000,2,100000,Debit Card,Los Angeles
+393,2024-05-27,Steven Perez,Hatchback,18000,2,36000,Bank Transfer,Los Angeles
+394,2024-07-30,Kelly Malone,SUV,30000,1,30000,PayPal,Los Angeles
+395,2024-06-09,Glen Ferguson,Truck,40000,1,40000,PayPal,Los Angeles
+396,2024-09-15,Cassandra Brown,Coupe,35000,1,35000,Bank Transfer,Los Angeles
+397,2024-12-05,Charles Garza,Truck,40000,2,80000,PayPal,Los Angeles
+398,2024-04-07,Kaitlin Williams,Luxury Car,70000,1,70000,Bank Transfer,Los Angeles
+399,2025-01-18,Jennifer Lewis,Coupe,35000,1,35000,Debit Card,Los Angeles
+400,2025-01-08,Paul Robinson,Sedan,20000,2,40000,Bank Transfer,Los Angeles
+401,2024-12-14,Andrew Roberts,Convertible,50000,1,50000,Cash,Los Angeles
+402,2024-04-01,Ronald Brown,Electric Car,45000,2,90000,Credit Card,Los Angeles
+403,2024-10-13,David Parks,Sports Car,60000,1,60000,Credit Card,Los Angeles
+404,2025-01-01,Kristi Bartlett,Hatchback,18000,2,36000,Credit Card,Los Angeles
+405,2024-10-26,Donna Pierce,Coupe,35000,2,70000,PayPal,Los Angeles
+406,2024-08-16,Sheila Miller,Convertible,50000,1,50000,Debit Card,Los Angeles
+407,2024-11-18,Samuel Burke,Sports Car,60000,2,120000,Bank Transfer,Los Angeles
+408,2024-06-03,Susan Wilson,Truck,40000,1,40000,Debit Card,Los Angeles
+409,2024-12-10,Tanya Garrett,Minivan,25000,2,50000,Bank Transfer,Los Angeles
+410,2024-10-08,Thomas Nelson,Hatchback,18000,2,36000,Credit Card,Los Angeles
+411,2024-09-21,Tricia Perry,Minivan,25000,2,50000,PayPal,Los Angeles
+412,2024-05-08,Jared Davis,Hatchback,18000,1,18000,Cash,Los Angeles
+413,2024-03-21,Kenneth Elliott,Convertible,50000,2,100000,Credit Card,Los Angeles
+414,2025-02-04,Grace Scott,Hatchback,18000,2,36000,Credit Card,Los Angeles
+415,2024-12-07,Dr. Joseph Miller,Convertible,50000,2,100000,Debit Card,Los Angeles
+416,2024-06-07,Ashley Graham,Sedan,20000,2,40000,Credit Card,Los Angeles
+417,2024-12-01,Jordan Reyes,Luxury Car,70000,1,70000,Bank Transfer,Los Angeles
+418,2024-08-16,Rebecca Nash,Hatchback,18000,2,36000,Debit Card,Los Angeles
+419,2024-06-12,Tiffany Mccarty,Minivan,25000,1,25000,Bank Transfer,Los Angeles
+420,2024-12-10,Lori Long,Coupe,35000,1,35000,Debit Card,Los Angeles
+421,2024-08-24,Blake Pittman,Luxury Car,70000,2,140000,Credit Card,Los Angeles
+422,2024-08-08,Carla Cohen,Minivan,25000,2,50000,Bank Transfer,Los Angeles
+423,2024-10-25,David Martinez,Sports Car,60000,1,60000,Cash,Los Angeles
+424,2024-03-27,Nicole Kline,Coupe,35000,1,35000,Credit Card,Los Angeles
+425,2024-11-13,Angel Brooks,SUV,30000,2,60000,Credit Card,Los Angeles
+426,2024-07-26,Erika Meyers,Electric Car,45000,1,45000,Credit Card,Los Angeles
+427,2024-04-28,James Stephens,Luxury Car,70000,2,140000,Credit Card,Los Angeles
+428,2024-06-18,Jesus Smith,Sedan,20000,2,40000,PayPal,Los Angeles
+429,2024-10-15,William Contreras,Convertible,50000,2,100000,Debit Card,Los Angeles
+430,2024-09-02,Michelle Rogers,Electric Car,45000,2,90000,Cash,Los Angeles
+431,2024-06-24,Laura Castillo,Sedan,20000,1,20000,PayPal,Los Angeles
+432,2024-09-16,Alyssa Turner,Sports Car,60000,1,60000,Credit Card,Los Angeles
+433,2024-09-09,Jamie Ewing,Coupe,35000,1,35000,PayPal,Los Angeles
+434,2024-04-10,Troy Camacho,Luxury Car,70000,1,70000,Cash,Los Angeles
+435,2024-07-01,Jesse Gibson,Sports Car,60000,1,60000,Credit Card,Los Angeles
+436,2025-01-28,Stephanie Ramos,Luxury Car,70000,1,70000,Debit Card,Los Angeles
+437,2025-01-20,Taylor Perez,Minivan,25000,1,25000,PayPal,Los Angeles
+438,2024-03-05,Matthew Thompson,Minivan,25000,2,50000,PayPal,Los Angeles
+439,2024-06-30,Keith Martinez,SUV,30000,2,60000,Cash,Los Angeles
+440,2024-07-12,Alexandra Wyatt,Electric Car,45000,2,90000,PayPal,Los Angeles
+441,2024-10-27,James Moore,Hatchback,18000,2,36000,Debit Card,Los Angeles
+442,2024-09-30,Kara Thompson,Coupe,35000,2,70000,Credit Card,Los Angeles
+443,2024-09-22,Sarah Little,Convertible,50000,2,100000,PayPal,Los Angeles
+444,2024-12-18,Tyler Mayer,Truck,40000,1,40000,PayPal,Los Angeles
+445,2024-07-15,Olivia Ferrell,Electric Car,45000,1,45000,Credit Card,Los Angeles
+446,2024-09-30,Meghan Torres,Truck,40000,2,80000,Cash,Los Angeles
+447,2024-09-28,Amy Turner,Convertible,50000,1,50000,Debit Card,Los Angeles
+448,2024-05-16,Denise Newman,Electric Car,45000,1,45000,Cash,Los Angeles
+449,2024-05-14,Elizabeth Lewis,Coupe,35000,2,70000,Credit Card,Los Angeles
+450,2024-12-27,Jessica Vaughn,Minivan,25000,2,50000,Bank Transfer,Los Angeles
+451,2024-10-08,Kyle Parks MD,Coupe,35000,1,35000,Debit Card,Los Angeles
+452,2025-01-20,Ashley Hardy,Hatchback,18000,1,18000,Cash,Los Angeles
+453,2024-03-24,Jamie Blankenship,Truck,40000,1,40000,Cash,Los Angeles
+454,2024-05-21,Calvin Hines,Electric Car,45000,1,45000,PayPal,Los Angeles
+455,2024-06-04,Craig Thompson,SUV,30000,2,60000,Bank Transfer,Los Angeles
+456,2024-08-05,Chad Patton,Sports Car,60000,2,120000,Bank Transfer,Los Angeles
+457,2024-05-07,Kimberly Peterson,Luxury Car,70000,1,70000,Debit Card,Los Angeles
+458,2025-01-29,Lisa Mcdonald,Truck,40000,2,80000,Debit Card,Los Angeles
+459,2024-04-28,Jeremiah Rivera,SUV,30000,1,30000,Bank Transfer,Los Angeles
+460,2024-09-26,Ruth Garcia,Coupe,35000,1,35000,Bank Transfer,Los Angeles
+461,2024-11-13,Jack Kemp,Hatchback,18000,1,18000,Cash,Los Angeles
+462,2024-12-27,Michael Leonard,Truck,40000,1,40000,Bank Transfer,Los Angeles
+463,2024-05-16,Gregory Moore,Coupe,35000,2,70000,Bank Transfer,Los Angeles
+464,2025-01-09,Bruce Cruz,Sports Car,60000,2,120000,Credit Card,Los Angeles
+465,2024-04-18,Drew Glover,Minivan,25000,1,25000,Cash,Los Angeles
+466,2024-06-15,Jamie Woods,Minivan,25000,2,50000,Bank Transfer,Los Angeles
+467,2024-07-06,Michael Espinoza,Minivan,25000,1,25000,Bank Transfer,Los Angeles
+468,2024-07-04,Brian Rose,Convertible,50000,1,50000,Debit Card,Los Angeles
+469,2024-03-11,Timothy Clark,Coupe,35000,1,35000,Credit Card,Los Angeles
+470,2024-07-24,Jessica Robinson,Truck,40000,1,40000,Cash,Los Angeles
+471,2024-06-26,Brian Lowe,Sports Car,60000,1,60000,Debit Card,Los Angeles
+472,2024-10-13,Natasha Howard,Luxury Car,70000,2,140000,Cash,Los Angeles
+473,2025-01-22,Edward Turner,Coupe,35000,2,70000,Debit Card,Los Angeles
+474,2024-03-19,Jason Torres,Sports Car,60000,2,120000,Credit Card,Los Angeles
+475,2025-01-25,Edward Payne,Minivan,25000,1,25000,PayPal,Los Angeles
+476,2024-12-14,Michael Gutierrez,Electric Car,45000,2,90000,Debit Card,Los Angeles
+477,2024-12-23,Ryan Smith,Truck,40000,2,80000,Credit Card,Los Angeles
+478,2024-08-11,Leslie Spears,Electric Car,45000,1,45000,Debit Card,Los Angeles
+479,2024-12-07,Laura Mosley,Coupe,35000,2,70000,Bank Transfer,Los Angeles
+480,2024-07-28,Daniel Rodriguez,Luxury Car,70000,1,70000,Credit Card,Los Angeles
+481,2024-05-11,Tim Miller,Luxury Car,70000,2,140000,PayPal,Los Angeles
+482,2024-07-21,Jennifer Schmidt,Luxury Car,70000,1,70000,Credit Card,Los Angeles
+483,2024-12-16,Juan Kennedy,Electric Car,45000,2,90000,Debit Card,Los Angeles
+484,2024-07-30,Frank Nolan,Sports Car,60000,1,60000,Cash,Los Angeles
+485,2024-08-21,Donna Mcbride,Sports Car,60000,1,60000,Bank Transfer,Los Angeles
+486,2024-09-10,Patrick Henry,Hatchback,18000,1,18000,Debit Card,Los Angeles
+487,2025-01-20,Crystal Wallace,Truck,40000,2,80000,Debit Card,Los Angeles
+488,2024-07-22,Alyssa Davis,Electric Car,45000,2,90000,Bank Transfer,Los Angeles
+489,2025-02-14,Angela Hopkins,Electric Car,45000,1,45000,PayPal,Los Angeles
+490,2025-01-03,Todd Griffin,Luxury Car,70000,1,70000,Debit Card,Los Angeles
+491,2024-07-15,Ronald Stewart MD,Coupe,35000,1,35000,Credit Card,Los Angeles
+492,2024-04-29,Megan Ramirez,SUV,30000,1,30000,Debit Card,Los Angeles
+493,2024-11-22,Carolyn Hughes,Minivan,25000,2,50000,Debit Card,Los Angeles
+494,2024-04-24,Sara Cook,Electric Car,45000,1,45000,Bank Transfer,Los Angeles
+495,2024-05-31,Angie Hood,Electric Car,45000,1,45000,Credit Card,Los Angeles
+496,2024-05-09,Lisa Torres,Coupe,35000,2,70000,Debit Card,Los Angeles
+497,2025-01-30,Joshua Allison,Electric Car,45000,2,90000,Credit Card,Los Angeles
+498,2024-04-03,Ryan Perez,Electric Car,45000,1,45000,Debit Card,Los Angeles
+499,2024-04-08,Adriana Rivera,Minivan,25000,1,25000,PayPal,Los Angeles
+500,2024-12-20,Raymond Garcia,Hatchback,18000,1,18000,Bank Transfer,Los Angeles

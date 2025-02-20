@@ -1,0 +1,501 @@
+Transaction_ID,Date,Customer_Name,Product,Price,Quantity,Total_Sale,Payment_Method,City
+1,2024-07-13,Michelle Brewer MD,Sports Car,60000,2,120000,Bank Transfer,Philadelphia
+2,2024-03-28,Melissa Barrera,Electric Car,45000,1,45000,Cash,Philadelphia
+3,2024-02-26,Carlos Hensley,Luxury Car,70000,1,70000,PayPal,Philadelphia
+4,2024-03-10,Maria Price MD,SUV,30000,1,30000,PayPal,Philadelphia
+5,2024-03-04,Susan Smith,Convertible,50000,2,100000,Bank Transfer,Philadelphia
+6,2024-09-18,Kevin Foster,Electric Car,45000,2,90000,PayPal,Philadelphia
+7,2025-02-04,Steven Castillo,SUV,30000,1,30000,Cash,Philadelphia
+8,2024-11-02,Kathryn Webb,Electric Car,45000,1,45000,Bank Transfer,Philadelphia
+9,2024-03-29,Harold Sawyer,SUV,30000,2,60000,PayPal,Philadelphia
+10,2024-05-20,Juan Taylor,Hatchback,18000,1,18000,Credit Card,Philadelphia
+11,2024-09-20,Brenda Torres,Electric Car,45000,2,90000,Bank Transfer,Philadelphia
+12,2024-08-21,Julie Mcdowell,Sports Car,60000,2,120000,Bank Transfer,Philadelphia
+13,2024-02-21,Robert Juarez,Sedan,20000,2,40000,PayPal,Philadelphia
+14,2024-08-14,William Garcia,Sports Car,60000,1,60000,PayPal,Philadelphia
+15,2024-03-11,Joshua White,Electric Car,45000,2,90000,Debit Card,Philadelphia
+16,2024-07-14,Deborah Juarez,Luxury Car,70000,1,70000,Cash,Philadelphia
+17,2024-12-27,Rodney Cherry,Sedan,20000,1,20000,Credit Card,Philadelphia
+18,2024-08-07,Victoria Fisher,Electric Car,45000,2,90000,Bank Transfer,Philadelphia
+19,2024-09-12,Donna Johnson,Luxury Car,70000,2,140000,Bank Transfer,Philadelphia
+20,2024-09-14,Jeffrey Williamson,Hatchback,18000,2,36000,Bank Transfer,Philadelphia
+21,2025-02-10,Wendy Rodriguez,Truck,40000,1,40000,Credit Card,Philadelphia
+22,2024-08-03,Joyce Blackburn,SUV,30000,1,30000,Cash,Philadelphia
+23,2024-12-12,Caroline Miller,Hatchback,18000,1,18000,PayPal,Philadelphia
+24,2024-09-22,Tamara White,Convertible,50000,2,100000,Cash,Philadelphia
+25,2024-08-20,Cameron Montes,Luxury Car,70000,2,140000,Bank Transfer,Philadelphia
+26,2024-11-04,Jennifer Dunlap PhD,Minivan,25000,2,50000,Cash,Philadelphia
+27,2024-09-26,Christopher Neal,Luxury Car,70000,2,140000,PayPal,Philadelphia
+28,2024-09-30,Richard Preston,Electric Car,45000,1,45000,Cash,Philadelphia
+29,2025-01-28,Anthony Nichols,Truck,40000,1,40000,Credit Card,Philadelphia
+30,2024-06-05,Paul Heath,SUV,30000,1,30000,PayPal,Philadelphia
+31,2024-11-29,Vincent Gonzales,Hatchback,18000,2,36000,Credit Card,Philadelphia
+32,2024-09-27,Edwin Mcdonald,SUV,30000,1,30000,Cash,Philadelphia
+33,2024-08-07,Sheryl Vincent,Coupe,35000,2,70000,Cash,Philadelphia
+34,2024-09-27,Jennifer Sherman,Luxury Car,70000,1,70000,Cash,Philadelphia
+35,2024-05-21,Katherine Davis,Luxury Car,70000,1,70000,Cash,Philadelphia
+36,2024-11-12,Nicholas Bennett,Coupe,35000,1,35000,Cash,Philadelphia
+37,2025-02-07,Charles Walters PhD,Sedan,20000,1,20000,Debit Card,Philadelphia
+38,2024-06-25,Jacob Smith,Convertible,50000,2,100000,Debit Card,Philadelphia
+39,2024-05-30,Kyle Cruz,Minivan,25000,1,25000,Debit Card,Philadelphia
+40,2024-12-20,Emily Thomas,Minivan,25000,2,50000,Bank Transfer,Philadelphia
+41,2025-01-21,Wendy Mccann,Sedan,20000,2,40000,Debit Card,Philadelphia
+42,2024-05-18,Kathy Castaneda,Luxury Car,70000,1,70000,Debit Card,Philadelphia
+43,2025-01-15,Darlene Ramirez,Coupe,35000,2,70000,PayPal,Philadelphia
+44,2024-06-03,Cheryl Roberts,Convertible,50000,1,50000,Debit Card,Philadelphia
+45,2024-08-30,Julie Thompson,Convertible,50000,2,100000,PayPal,Philadelphia
+46,2024-04-16,Antonio Hall,Luxury Car,70000,1,70000,PayPal,Philadelphia
+47,2024-10-15,Monique Carr,Hatchback,18000,1,18000,Bank Transfer,Philadelphia
+48,2024-05-20,Miranda Fleming,Coupe,35000,2,70000,Credit Card,Philadelphia
+49,2024-07-06,Guy Morgan,Hatchback,18000,2,36000,Debit Card,Philadelphia
+50,2025-01-18,Elizabeth Campbell,Truck,40000,1,40000,PayPal,Philadelphia
+51,2024-03-02,Jennifer Green,Sports Car,60000,2,120000,Credit Card,Philadelphia
+52,2024-06-30,Julie Norris,SUV,30000,2,60000,PayPal,Philadelphia
+53,2024-08-07,Kevin Oliver,Electric Car,45000,2,90000,Bank Transfer,Philadelphia
+54,2024-05-26,Mr. Jeffrey Anderson,Coupe,35000,1,35000,Debit Card,Philadelphia
+55,2024-04-25,Dwayne Williams,Luxury Car,70000,2,140000,Cash,Philadelphia
+56,2024-08-28,Steven King,Truck,40000,1,40000,Debit Card,Philadelphia
+57,2024-03-29,Carla Anderson,Electric Car,45000,1,45000,Bank Transfer,Philadelphia
+58,2024-04-02,Robert Anderson,SUV,30000,1,30000,Cash,Philadelphia
+59,2024-03-05,Julie Garcia,Coupe,35000,2,70000,Bank Transfer,Philadelphia
+60,2024-04-02,Priscilla Underwood,Electric Car,45000,1,45000,Bank Transfer,Philadelphia
+61,2024-12-18,Michael Lozano,Luxury Car,70000,1,70000,Bank Transfer,Philadelphia
+62,2024-04-01,Linda Graham,Minivan,25000,2,50000,Cash,Philadelphia
+63,2024-03-24,Pamela Smith,Convertible,50000,1,50000,Credit Card,Philadelphia
+64,2024-10-09,Stephanie Delgado,Hatchback,18000,2,36000,Bank Transfer,Philadelphia
+65,2024-03-06,Alec Ford,Luxury Car,70000,1,70000,PayPal,Philadelphia
+66,2024-02-28,Joseph Brown,Truck,40000,2,80000,Debit Card,Philadelphia
+67,2025-01-03,James Lara,Minivan,25000,1,25000,PayPal,Philadelphia
+68,2025-01-27,Kristin Gilbert,Hatchback,18000,1,18000,PayPal,Philadelphia
+69,2024-06-04,Christopher Holden,Sedan,20000,1,20000,Cash,Philadelphia
+70,2024-08-27,Dennis Herring,Electric Car,45000,2,90000,Cash,Philadelphia
+71,2024-09-14,Mark Chavez,Electric Car,45000,1,45000,PayPal,Philadelphia
+72,2024-06-04,Joshua Wheeler,Convertible,50000,2,100000,Debit Card,Philadelphia
+73,2024-12-20,Melissa Stewart,Truck,40000,1,40000,PayPal,Philadelphia
+74,2024-05-11,Tamara Ellis,Truck,40000,2,80000,Cash,Philadelphia
+75,2024-12-06,Hannah Adkins,SUV,30000,1,30000,Bank Transfer,Philadelphia
+76,2024-12-26,Timothy Martinez,Coupe,35000,2,70000,Cash,Philadelphia
+77,2025-01-12,Jennifer Sandoval,Electric Car,45000,2,90000,Debit Card,Philadelphia
+78,2024-07-14,Amy Howard,Coupe,35000,2,70000,Debit Card,Philadelphia
+79,2024-11-21,Dominic Lawrence,SUV,30000,2,60000,PayPal,Philadelphia
+80,2024-07-21,Tammy Davis,SUV,30000,2,60000,Debit Card,Philadelphia
+81,2025-01-06,Robert Benitez,Hatchback,18000,1,18000,Bank Transfer,Philadelphia
+82,2024-08-01,Benjamin Scott,Minivan,25000,2,50000,Debit Card,Philadelphia
+83,2024-11-01,James Combs,Luxury Car,70000,2,140000,Cash,Philadelphia
+84,2024-07-15,Daniel Smith,SUV,30000,2,60000,Bank Transfer,Philadelphia
+85,2024-11-12,Tara Wright,Sports Car,60000,2,120000,Credit Card,Philadelphia
+86,2024-07-16,Roger Little,Coupe,35000,2,70000,Cash,Philadelphia
+87,2024-04-28,April Walker,Truck,40000,2,80000,PayPal,Philadelphia
+88,2025-01-28,Sean Carlson,Truck,40000,2,80000,Bank Transfer,Philadelphia
+89,2024-09-13,Carrie Robinson,Convertible,50000,1,50000,Credit Card,Philadelphia
+90,2024-11-15,Maria Hall,Electric Car,45000,1,45000,Credit Card,Philadelphia
+91,2024-09-13,Jodi Rodriguez,Sports Car,60000,2,120000,Bank Transfer,Philadelphia
+92,2025-02-03,Jesse Brown,Truck,40000,1,40000,Cash,Philadelphia
+93,2024-03-06,Curtis Solis,SUV,30000,2,60000,Cash,Philadelphia
+94,2024-06-27,Melinda Boyer,Convertible,50000,1,50000,Bank Transfer,Philadelphia
+95,2024-06-13,Brian Farmer,Electric Car,45000,1,45000,Debit Card,Philadelphia
+96,2024-07-28,Cindy Kane,Electric Car,45000,1,45000,Credit Card,Philadelphia
+97,2024-03-25,Amanda Clark,Convertible,50000,1,50000,Credit Card,Philadelphia
+98,2024-08-25,Carl Smith,Luxury Car,70000,1,70000,Cash,Philadelphia
+99,2024-12-11,Stephanie Miller,Sports Car,60000,1,60000,Debit Card,Philadelphia
+100,2024-06-24,Kimberly Smith,Sedan,20000,2,40000,PayPal,Philadelphia
+101,2024-03-24,James Gomez,SUV,30000,1,30000,Cash,Philadelphia
+102,2024-10-10,Lauren Knight,Electric Car,45000,2,90000,PayPal,Philadelphia
+103,2024-08-10,Karen Donaldson,Minivan,25000,2,50000,Cash,Philadelphia
+104,2025-02-09,Teresa Cruz,Coupe,35000,2,70000,Cash,Philadelphia
+105,2024-09-01,Erin Williams,Coupe,35000,1,35000,PayPal,Philadelphia
+106,2024-06-09,Kim Brown,Sedan,20000,2,40000,Bank Transfer,Philadelphia
+107,2024-04-06,Aaron Lewis,Minivan,25000,2,50000,Cash,Philadelphia
+108,2024-05-11,Beverly Green,Truck,40000,2,80000,Cash,Philadelphia
+109,2024-07-08,Hunter Delgado,Minivan,25000,1,25000,Credit Card,Philadelphia
+110,2024-09-13,Ryan Simmons,Truck,40000,1,40000,Debit Card,Philadelphia
+111,2025-01-30,Kaitlin Moore,Convertible,50000,2,100000,Credit Card,Philadelphia
+112,2024-03-07,Anne Beck,Truck,40000,1,40000,Cash,Philadelphia
+113,2024-05-16,Anne Michael,Coupe,35000,2,70000,PayPal,Philadelphia
+114,2024-08-03,Christina Jacobson,Luxury Car,70000,1,70000,Cash,Philadelphia
+115,2025-01-08,Christopher Scott,Truck,40000,1,40000,PayPal,Philadelphia
+116,2024-07-15,Rebecca Keller,Hatchback,18000,1,18000,Credit Card,Philadelphia
+117,2025-01-11,Jenna Brewer,Coupe,35000,1,35000,Debit Card,Philadelphia
+118,2025-01-31,Mark Walsh,Minivan,25000,1,25000,Cash,Philadelphia
+119,2024-08-07,Evelyn Dawson,Convertible,50000,2,100000,Credit Card,Philadelphia
+120,2024-07-21,Alisha Nguyen,SUV,30000,2,60000,Debit Card,Philadelphia
+121,2024-07-16,Christopher Ortega,Sedan,20000,2,40000,Cash,Philadelphia
+122,2024-10-07,Jasmine Williamson,Sedan,20000,2,40000,Bank Transfer,Philadelphia
+123,2024-07-06,Rachael Rivera,Minivan,25000,2,50000,Cash,Philadelphia
+124,2024-06-14,Suzanne Arnold,SUV,30000,2,60000,Cash,Philadelphia
+125,2024-11-02,Kathy Jones,Sports Car,60000,1,60000,Credit Card,Philadelphia
+126,2024-05-13,Mario Morgan,Luxury Car,70000,2,140000,Cash,Philadelphia
+127,2025-01-04,Molly Maxwell,Sports Car,60000,1,60000,Bank Transfer,Philadelphia
+128,2024-03-28,Michael Hood,Minivan,25000,2,50000,PayPal,Philadelphia
+129,2024-05-08,Brianna Wood,Sports Car,60000,1,60000,Bank Transfer,Philadelphia
+130,2024-08-10,Rhonda King,Minivan,25000,1,25000,Credit Card,Philadelphia
+131,2024-03-26,Devin Clay,Coupe,35000,2,70000,Debit Card,Philadelphia
+132,2025-02-15,Jordan Dunn,Convertible,50000,1,50000,Bank Transfer,Philadelphia
+133,2024-03-10,Rachel Johnson,Convertible,50000,1,50000,Debit Card,Philadelphia
+134,2025-01-29,Jennifer Pineda,Minivan,25000,2,50000,Credit Card,Philadelphia
+135,2024-07-21,Christopher Cruz,SUV,30000,2,60000,Bank Transfer,Philadelphia
+136,2024-03-09,Rhonda Edwards,Sedan,20000,1,20000,Credit Card,Philadelphia
+137,2024-08-10,Breanna Kennedy,Electric Car,45000,1,45000,Bank Transfer,Philadelphia
+138,2024-10-13,Mrs. Rachel Weaver,Sedan,20000,2,40000,Cash,Philadelphia
+139,2024-09-30,Megan Williams,Hatchback,18000,1,18000,Bank Transfer,Philadelphia
+140,2025-02-19,Lisa Rojas,Luxury Car,70000,2,140000,PayPal,Philadelphia
+141,2024-12-04,Jonathan Pratt,Sedan,20000,1,20000,Credit Card,Philadelphia
+142,2024-08-28,Megan Diaz,SUV,30000,2,60000,Cash,Philadelphia
+143,2024-04-27,Cory Sosa,Convertible,50000,1,50000,Debit Card,Philadelphia
+144,2024-07-28,Stephanie Nguyen,Sports Car,60000,1,60000,Credit Card,Philadelphia
+145,2025-01-31,Carlos Fisher,Coupe,35000,2,70000,Cash,Philadelphia
+146,2024-03-05,Patrick Bailey,Sports Car,60000,1,60000,Debit Card,Philadelphia
+147,2024-11-06,William Horton,Hatchback,18000,2,36000,Bank Transfer,Philadelphia
+148,2024-02-20,Laurie Ellis,Hatchback,18000,2,36000,Debit Card,Philadelphia
+149,2024-06-14,Amy Fritz,Truck,40000,2,80000,Bank Transfer,Philadelphia
+150,2024-08-03,Nicole Figueroa,Convertible,50000,1,50000,Cash,Philadelphia
+151,2024-03-14,Jason Johnson,Sedan,20000,1,20000,Debit Card,Philadelphia
+152,2024-12-12,Patrick King,Hatchback,18000,2,36000,Bank Transfer,Philadelphia
+153,2024-08-09,Dawn Wells,Hatchback,18000,1,18000,PayPal,Philadelphia
+154,2024-08-24,Phillip Turner,Luxury Car,70000,2,140000,PayPal,Philadelphia
+155,2025-01-15,Donald Chambers,Sports Car,60000,2,120000,Debit Card,Philadelphia
+156,2024-11-13,Andrew White,Sports Car,60000,2,120000,Debit Card,Philadelphia
+157,2024-05-19,Robert Smith,Convertible,50000,1,50000,Cash,Philadelphia
+158,2024-10-21,Cheryl Jones,Hatchback,18000,2,36000,Bank Transfer,Philadelphia
+159,2025-02-11,Amber Hunter,SUV,30000,1,30000,Debit Card,Philadelphia
+160,2024-03-26,Kathleen Cox,Hatchback,18000,2,36000,Bank Transfer,Philadelphia
+161,2024-12-16,Peter Bell,Minivan,25000,1,25000,PayPal,Philadelphia
+162,2025-01-12,Jay Norris,Luxury Car,70000,1,70000,Bank Transfer,Philadelphia
+163,2025-02-17,Ian Tucker,Minivan,25000,2,50000,Credit Card,Philadelphia
+164,2025-02-04,Lisa Sims,Electric Car,45000,1,45000,PayPal,Philadelphia
+165,2024-02-20,Margaret Waters,Minivan,25000,2,50000,Bank Transfer,Philadelphia
+166,2024-10-07,Jared Perez,Hatchback,18000,2,36000,Credit Card,Philadelphia
+167,2025-02-04,Nathan Williams,Hatchback,18000,2,36000,Debit Card,Philadelphia
+168,2025-01-05,Richard Jones,Truck,40000,1,40000,Debit Card,Philadelphia
+169,2024-07-02,Jennifer Hughes,Minivan,25000,1,25000,PayPal,Philadelphia
+170,2024-07-06,Rachel Kelly,Electric Car,45000,2,90000,Debit Card,Philadelphia
+171,2024-07-13,Donna Downs,Minivan,25000,1,25000,Debit Card,Philadelphia
+172,2024-11-05,Susan Brown,Sedan,20000,2,40000,PayPal,Philadelphia
+173,2024-05-01,Christian Bullock,Hatchback,18000,1,18000,PayPal,Philadelphia
+174,2025-01-21,Monica Chase,Sports Car,60000,1,60000,Cash,Philadelphia
+175,2025-01-15,Manuel Smith,Sedan,20000,2,40000,Bank Transfer,Philadelphia
+176,2024-09-08,Richard White,Sedan,20000,1,20000,Cash,Philadelphia
+177,2024-11-26,Amber Phillips,Luxury Car,70000,2,140000,Bank Transfer,Philadelphia
+178,2024-06-02,Jacqueline Hopkins,SUV,30000,2,60000,Bank Transfer,Philadelphia
+179,2024-05-04,Kelly Jensen,Luxury Car,70000,1,70000,Cash,Philadelphia
+180,2024-09-20,Megan Robinson,SUV,30000,2,60000,PayPal,Philadelphia
+181,2024-11-01,Brittany Fox,Minivan,25000,2,50000,PayPal,Philadelphia
+182,2024-12-19,Samantha Powell,Sedan,20000,2,40000,Cash,Philadelphia
+183,2024-10-15,Michelle Alexander,Convertible,50000,2,100000,PayPal,Philadelphia
+184,2025-01-14,Richard Lamb,Sedan,20000,1,20000,Bank Transfer,Philadelphia
+185,2024-11-22,Patricia Barnes,Minivan,25000,1,25000,Credit Card,Philadelphia
+186,2024-02-22,Matthew Fowler,Coupe,35000,2,70000,Debit Card,Philadelphia
+187,2024-03-15,Heather Yu,Convertible,50000,1,50000,Bank Transfer,Philadelphia
+188,2024-06-15,Amy Walters,Convertible,50000,1,50000,Debit Card,Philadelphia
+189,2024-12-04,Jeffrey Patterson,Truck,40000,1,40000,Debit Card,Philadelphia
+190,2024-10-21,Jeffrey Hunter,Luxury Car,70000,2,140000,Bank Transfer,Philadelphia
+191,2024-10-19,Chad Martin,Sedan,20000,1,20000,Bank Transfer,Philadelphia
+192,2025-02-15,Sharon Kennedy,Truck,40000,2,80000,Cash,Philadelphia
+193,2024-07-31,Shane Leon,Coupe,35000,2,70000,Credit Card,Philadelphia
+194,2024-06-05,Kevin Williams,Sports Car,60000,2,120000,PayPal,Philadelphia
+195,2024-08-26,Alyssa Shaffer,Minivan,25000,1,25000,Cash,Philadelphia
+196,2024-12-24,Travis Brown,Coupe,35000,1,35000,Cash,Philadelphia
+197,2024-07-15,Courtney Phillips,Convertible,50000,2,100000,Bank Transfer,Philadelphia
+198,2025-01-06,Ann Leonard,SUV,30000,1,30000,Cash,Philadelphia
+199,2024-12-10,Mary Cox,Electric Car,45000,1,45000,Credit Card,Philadelphia
+200,2024-09-14,Carrie Butler,Luxury Car,70000,2,140000,PayPal,Philadelphia
+201,2024-03-29,Brian Martinez,Minivan,25000,2,50000,Bank Transfer,Philadelphia
+202,2024-04-15,Thomas Larson,Coupe,35000,2,70000,Debit Card,Philadelphia
+203,2024-11-03,Michael Navarro,Electric Car,45000,1,45000,Bank Transfer,Philadelphia
+204,2024-07-17,Samantha Cox,Electric Car,45000,2,90000,Bank Transfer,Philadelphia
+205,2024-06-15,Andrew Elliott,Sedan,20000,1,20000,Cash,Philadelphia
+206,2024-12-09,Jeremy Nichols,Sports Car,60000,1,60000,Bank Transfer,Philadelphia
+207,2024-06-14,Christina Thomas,Truck,40000,1,40000,Credit Card,Philadelphia
+208,2024-08-15,Sara Phillips,Convertible,50000,1,50000,Debit Card,Philadelphia
+209,2024-08-17,Tim King,Minivan,25000,2,50000,PayPal,Philadelphia
+210,2024-02-20,Sara Booker,Coupe,35000,2,70000,Debit Card,Philadelphia
+211,2024-03-16,Aaron Vazquez,Coupe,35000,1,35000,Cash,Philadelphia
+212,2025-01-14,Rachel Anderson,Minivan,25000,1,25000,Cash,Philadelphia
+213,2025-01-17,David Hernandez,SUV,30000,2,60000,Credit Card,Philadelphia
+214,2024-05-22,Marcia Santana,Coupe,35000,1,35000,PayPal,Philadelphia
+215,2024-08-14,Jaime Douglas,Sedan,20000,2,40000,Cash,Philadelphia
+216,2024-05-08,Michael Robinson,Luxury Car,70000,2,140000,Bank Transfer,Philadelphia
+217,2024-03-09,Hannah Campbell,Sedan,20000,2,40000,PayPal,Philadelphia
+218,2024-08-26,Paul Henderson,Sports Car,60000,2,120000,Credit Card,Philadelphia
+219,2024-03-02,Jody Wiggins,Luxury Car,70000,1,70000,Credit Card,Philadelphia
+220,2024-08-20,Nicholas Wallace,Convertible,50000,1,50000,Debit Card,Philadelphia
+221,2024-11-29,Rickey Conway,Electric Car,45000,2,90000,Debit Card,Philadelphia
+222,2024-09-05,Michael Davis,Sports Car,60000,2,120000,Debit Card,Philadelphia
+223,2024-06-17,Anthony Goodman,Hatchback,18000,2,36000,Credit Card,Philadelphia
+224,2024-11-04,Dustin Rose,Truck,40000,2,80000,Debit Card,Philadelphia
+225,2024-10-11,Mary Weaver,Hatchback,18000,2,36000,PayPal,Philadelphia
+226,2024-12-06,Blake Harper,Convertible,50000,1,50000,PayPal,Philadelphia
+227,2025-02-03,Samuel Woodard,Electric Car,45000,1,45000,PayPal,Philadelphia
+228,2025-01-15,Tracy Long,Coupe,35000,1,35000,Cash,Philadelphia
+229,2024-12-23,Angel Conner,SUV,30000,1,30000,Bank Transfer,Philadelphia
+230,2024-04-09,Laura Curry,Truck,40000,2,80000,Cash,Philadelphia
+231,2024-04-11,Dawn Dominguez,Coupe,35000,2,70000,Cash,Philadelphia
+232,2024-12-07,Katherine Turner,Convertible,50000,1,50000,PayPal,Philadelphia
+233,2024-04-26,Nicole Carter,Convertible,50000,1,50000,Bank Transfer,Philadelphia
+234,2024-11-21,Renee Branch,SUV,30000,2,60000,Credit Card,Philadelphia
+235,2024-03-14,Shawn Bowen,Truck,40000,1,40000,Credit Card,Philadelphia
+236,2025-01-07,Bryan Beasley,Electric Car,45000,1,45000,PayPal,Philadelphia
+237,2024-12-28,Claudia Sutton,Sedan,20000,1,20000,Cash,Philadelphia
+238,2024-12-04,Carmen Bell,Convertible,50000,2,100000,Cash,Philadelphia
+239,2024-05-08,Matthew Brown,Hatchback,18000,1,18000,Bank Transfer,Philadelphia
+240,2024-12-31,Stefanie Thomas,Sports Car,60000,2,120000,Debit Card,Philadelphia
+241,2024-04-06,Cindy Brown,SUV,30000,2,60000,Bank Transfer,Philadelphia
+242,2024-10-27,Eric Shaw,SUV,30000,2,60000,PayPal,Philadelphia
+243,2024-10-22,Lawrence Porter,Convertible,50000,1,50000,Bank Transfer,Philadelphia
+244,2024-11-01,Christine Gray,Minivan,25000,1,25000,Bank Transfer,Philadelphia
+245,2024-03-31,Leslie Thomas,Sports Car,60000,1,60000,PayPal,Philadelphia
+246,2024-11-10,Benjamin Simon,Sedan,20000,1,20000,Bank Transfer,Philadelphia
+247,2024-07-06,Kelly Diaz,Convertible,50000,1,50000,Credit Card,Philadelphia
+248,2025-01-17,Mr. Paul Thomas,Luxury Car,70000,2,140000,PayPal,Philadelphia
+249,2024-05-21,Rita Wheeler,Electric Car,45000,1,45000,Credit Card,Philadelphia
+250,2024-08-14,Lori Hamilton,Electric Car,45000,2,90000,PayPal,Philadelphia
+251,2024-08-08,Christopher Richardson,SUV,30000,1,30000,Debit Card,Philadelphia
+252,2024-12-22,Sara Jenkins,Hatchback,18000,1,18000,Debit Card,Philadelphia
+253,2024-04-17,Paula Alvarado,Sedan,20000,1,20000,Cash,Philadelphia
+254,2024-10-21,Melissa Ramirez,Luxury Car,70000,1,70000,Debit Card,Philadelphia
+255,2024-06-05,Victoria Mayer,SUV,30000,2,60000,Debit Card,Philadelphia
+256,2024-07-24,Victoria Brown,Sports Car,60000,1,60000,Bank Transfer,Philadelphia
+257,2024-10-21,Diana Smith,Convertible,50000,2,100000,PayPal,Philadelphia
+258,2024-07-28,Allison Lopez,Truck,40000,1,40000,Bank Transfer,Philadelphia
+259,2025-01-01,Mark Frederick,Minivan,25000,2,50000,PayPal,Philadelphia
+260,2024-07-15,Diane Brooks DDS,Truck,40000,1,40000,Credit Card,Philadelphia
+261,2024-09-16,Antonio Lambert,Electric Car,45000,1,45000,Cash,Philadelphia
+262,2024-06-09,Kimberly Meyer,Sedan,20000,2,40000,Debit Card,Philadelphia
+263,2024-08-11,Brenda Li,Sedan,20000,1,20000,Credit Card,Philadelphia
+264,2024-09-13,Carol Estes,Sedan,20000,2,40000,PayPal,Philadelphia
+265,2024-04-10,Rebecca Gonzalez,Luxury Car,70000,1,70000,Cash,Philadelphia
+266,2024-07-14,Louis Clayton,Luxury Car,70000,1,70000,Debit Card,Philadelphia
+267,2024-10-31,Jennifer Stevens,Sports Car,60000,1,60000,PayPal,Philadelphia
+268,2025-01-26,Tammy Schultz,Hatchback,18000,1,18000,PayPal,Philadelphia
+269,2024-04-13,Matthew Garrett,Electric Car,45000,2,90000,Bank Transfer,Philadelphia
+270,2024-03-29,Aimee Wagner,Hatchback,18000,2,36000,Bank Transfer,Philadelphia
+271,2024-03-25,Mr. Matthew Collins,Convertible,50000,1,50000,Credit Card,Philadelphia
+272,2024-08-08,Kathy Martin,SUV,30000,2,60000,Credit Card,Philadelphia
+273,2024-12-11,John Goodwin,Coupe,35000,1,35000,Debit Card,Philadelphia
+274,2024-10-31,Courtney Kelly,Sedan,20000,1,20000,Cash,Philadelphia
+275,2024-04-22,Gregory Thomas,Minivan,25000,1,25000,Bank Transfer,Philadelphia
+276,2024-09-03,Jessica Williams,Coupe,35000,1,35000,Credit Card,Philadelphia
+277,2024-09-30,Kathryn Hebert,Electric Car,45000,1,45000,Cash,Philadelphia
+278,2025-01-03,Heather Francis,Convertible,50000,2,100000,Bank Transfer,Philadelphia
+279,2024-11-03,Jordan Hardin,Electric Car,45000,1,45000,Credit Card,Philadelphia
+280,2024-05-12,Dr. Theresa Rhodes,SUV,30000,2,60000,Credit Card,Philadelphia
+281,2024-10-07,April Bryant,Minivan,25000,2,50000,Bank Transfer,Philadelphia
+282,2024-02-25,James Smith,Sedan,20000,2,40000,Credit Card,Philadelphia
+283,2024-09-26,Nathaniel Hall,Luxury Car,70000,1,70000,Bank Transfer,Philadelphia
+284,2024-04-14,Tonya Moore,Convertible,50000,2,100000,PayPal,Philadelphia
+285,2024-04-12,Maria Ferguson,Convertible,50000,1,50000,Debit Card,Philadelphia
+286,2024-07-10,Alexandra Mitchell,Convertible,50000,2,100000,Credit Card,Philadelphia
+287,2025-02-06,Mark Day,Coupe,35000,1,35000,Credit Card,Philadelphia
+288,2024-04-02,Timothy Hartman,Sedan,20000,2,40000,Debit Card,Philadelphia
+289,2024-03-28,Benjamin Fowler,Sedan,20000,2,40000,Debit Card,Philadelphia
+290,2025-02-05,Lindsay Fowler,Electric Car,45000,2,90000,Cash,Philadelphia
+291,2024-05-24,Dalton Rodriguez,Coupe,35000,1,35000,Debit Card,Philadelphia
+292,2024-12-05,Kirsten Barker,Truck,40000,1,40000,Debit Card,Philadelphia
+293,2024-11-14,Dana Wilson,Sports Car,60000,2,120000,Debit Card,Philadelphia
+294,2025-02-06,Samuel Fernandez,Minivan,25000,2,50000,PayPal,Philadelphia
+295,2024-12-04,Sheila Pierce,Luxury Car,70000,1,70000,Bank Transfer,Philadelphia
+296,2024-09-09,Justin Ford,Coupe,35000,1,35000,Debit Card,Philadelphia
+297,2024-06-23,Lisa Nelson,Truck,40000,2,80000,Cash,Philadelphia
+298,2024-05-01,Kevin Green,Truck,40000,2,80000,Bank Transfer,Philadelphia
+299,2024-09-09,Steven Haas,Luxury Car,70000,2,140000,PayPal,Philadelphia
+300,2024-10-13,Keith Rice,Truck,40000,2,80000,Debit Card,Philadelphia
+301,2024-03-06,Charlotte Buckley,Hatchback,18000,1,18000,Bank Transfer,Philadelphia
+302,2024-02-24,Mark Cole,Minivan,25000,1,25000,Debit Card,Philadelphia
+303,2024-07-08,Joyce Brown,Electric Car,45000,2,90000,Debit Card,Philadelphia
+304,2024-04-02,Mitchell Johnson,Minivan,25000,2,50000,Cash,Philadelphia
+305,2024-05-30,Stephanie Watts,Electric Car,45000,2,90000,Cash,Philadelphia
+306,2024-08-03,Sarah Montgomery,Minivan,25000,2,50000,Bank Transfer,Philadelphia
+307,2024-11-19,Kayla Davis,Hatchback,18000,1,18000,Debit Card,Philadelphia
+308,2024-11-24,Philip Dixon,Sports Car,60000,2,120000,Credit Card,Philadelphia
+309,2024-08-20,Shannon Barry,Sports Car,60000,1,60000,Debit Card,Philadelphia
+310,2024-05-16,Ashley Krueger,SUV,30000,2,60000,Bank Transfer,Philadelphia
+311,2024-04-01,Blake Vasquez,SUV,30000,2,60000,PayPal,Philadelphia
+312,2024-09-11,Melissa Jackson,Electric Car,45000,1,45000,Debit Card,Philadelphia
+313,2024-03-25,Breanna Andrade,Convertible,50000,2,100000,Credit Card,Philadelphia
+314,2024-03-19,Charles Fuller,Coupe,35000,2,70000,PayPal,Philadelphia
+315,2025-01-07,Andrew Chavez,Coupe,35000,1,35000,PayPal,Philadelphia
+316,2025-01-11,Jennifer Randall,Luxury Car,70000,2,140000,PayPal,Philadelphia
+317,2025-02-19,Joshua Smith,Hatchback,18000,1,18000,Credit Card,Philadelphia
+318,2024-09-20,Edward Trujillo,Sedan,20000,1,20000,Credit Card,Philadelphia
+319,2024-05-29,Shane Cook,SUV,30000,1,30000,Bank Transfer,Philadelphia
+320,2024-09-15,Rebecca Jackson,Electric Car,45000,2,90000,Bank Transfer,Philadelphia
+321,2024-06-07,Carrie Brown,SUV,30000,2,60000,Cash,Philadelphia
+322,2024-03-07,Jean Wise,Electric Car,45000,1,45000,Credit Card,Philadelphia
+323,2024-10-22,Ricky Mckinney,Sedan,20000,1,20000,Credit Card,Philadelphia
+324,2025-01-19,Robin Ewing,Sports Car,60000,1,60000,Cash,Philadelphia
+325,2024-03-17,Cheryl Aguilar,Coupe,35000,2,70000,Debit Card,Philadelphia
+326,2025-01-13,Timothy Smith,Coupe,35000,2,70000,Cash,Philadelphia
+327,2024-05-28,Dr. Vernon Martinez,Minivan,25000,2,50000,PayPal,Philadelphia
+328,2024-10-19,William Keith,Coupe,35000,1,35000,PayPal,Philadelphia
+329,2024-08-02,Roger Brown,Truck,40000,1,40000,PayPal,Philadelphia
+330,2024-05-19,Martin Martin,Coupe,35000,2,70000,PayPal,Philadelphia
+331,2024-10-20,Wendy Glass,Sedan,20000,1,20000,PayPal,Philadelphia
+332,2024-07-02,Samantha Berger,Coupe,35000,1,35000,Debit Card,Philadelphia
+333,2024-06-20,Darlene Smith,Sports Car,60000,2,120000,Cash,Philadelphia
+334,2024-05-01,Claudia Johnson,SUV,30000,2,60000,Debit Card,Philadelphia
+335,2024-12-22,Dean Collins,Luxury Car,70000,2,140000,Cash,Philadelphia
+336,2024-03-17,David Johnson,Convertible,50000,1,50000,Bank Transfer,Philadelphia
+337,2024-02-28,John Glover,Electric Car,45000,2,90000,PayPal,Philadelphia
+338,2024-05-02,Taylor Parks,Truck,40000,1,40000,Cash,Philadelphia
+339,2024-03-12,Dustin Daniels,SUV,30000,1,30000,Credit Card,Philadelphia
+340,2024-04-29,Paul Russell,Sports Car,60000,1,60000,PayPal,Philadelphia
+341,2024-07-28,Leslie Gonzalez,Coupe,35000,1,35000,PayPal,Philadelphia
+342,2024-10-27,Bryan Cohen,Minivan,25000,2,50000,PayPal,Philadelphia
+343,2024-07-24,Suzanne Carr,Convertible,50000,1,50000,Cash,Philadelphia
+344,2024-09-18,Brian Hart,Luxury Car,70000,2,140000,Bank Transfer,Philadelphia
+345,2024-04-19,Suzanne White,Minivan,25000,2,50000,Bank Transfer,Philadelphia
+346,2025-02-18,Scott Murphy,Convertible,50000,1,50000,Debit Card,Philadelphia
+347,2024-06-08,Thomas Bradford,Minivan,25000,2,50000,Cash,Philadelphia
+348,2024-06-14,Colleen Thornton,Hatchback,18000,1,18000,Cash,Philadelphia
+349,2024-11-01,Anthony Santiago,Luxury Car,70000,1,70000,Bank Transfer,Philadelphia
+350,2024-05-17,Ms. Michelle Ewing,Minivan,25000,1,25000,Credit Card,Philadelphia
+351,2024-10-17,Monique Welch,Electric Car,45000,2,90000,Cash,Philadelphia
+352,2024-11-08,Brent Brooks,Convertible,50000,1,50000,PayPal,Philadelphia
+353,2024-04-12,Charles Williams,Coupe,35000,1,35000,PayPal,Philadelphia
+354,2024-04-30,Peggy Thornton,Truck,40000,2,80000,PayPal,Philadelphia
+355,2024-11-20,Erik Crawford,Sports Car,60000,2,120000,Debit Card,Philadelphia
+356,2024-12-10,Kevin Chen DVM,Truck,40000,2,80000,PayPal,Philadelphia
+357,2024-08-29,Cindy Lewis,SUV,30000,1,30000,Debit Card,Philadelphia
+358,2024-03-18,Joshua Smith,Electric Car,45000,1,45000,Credit Card,Philadelphia
+359,2024-12-31,Elizabeth Henry,Luxury Car,70000,1,70000,PayPal,Philadelphia
+360,2024-11-07,Derek Mills,Electric Car,45000,1,45000,Bank Transfer,Philadelphia
+361,2024-09-18,Christopher Larsen,Sports Car,60000,2,120000,Debit Card,Philadelphia
+362,2024-10-21,John Jones,Convertible,50000,1,50000,PayPal,Philadelphia
+363,2025-01-29,Edward Parker,Luxury Car,70000,2,140000,Credit Card,Philadelphia
+364,2024-02-25,Mr. Ronald Benson,Luxury Car,70000,1,70000,Debit Card,Philadelphia
+365,2024-06-26,Kirsten Morrow,Electric Car,45000,2,90000,Credit Card,Philadelphia
+366,2024-06-18,Betty Mcknight MD,Convertible,50000,1,50000,Cash,Philadelphia
+367,2025-02-03,Christine Richard,Luxury Car,70000,1,70000,Cash,Philadelphia
+368,2024-03-26,Stephen Estrada,Convertible,50000,1,50000,PayPal,Philadelphia
+369,2024-04-06,Angela Turner,SUV,30000,2,60000,Debit Card,Philadelphia
+370,2024-12-19,Danny Knight,Coupe,35000,2,70000,Bank Transfer,Philadelphia
+371,2024-11-25,Robert Lynch,SUV,30000,1,30000,PayPal,Philadelphia
+372,2024-04-08,Alexandria Best,Electric Car,45000,1,45000,Debit Card,Philadelphia
+373,2024-04-05,Karen Aguirre,SUV,30000,2,60000,Debit Card,Philadelphia
+374,2024-02-24,Jesse Madden,Coupe,35000,2,70000,Credit Card,Philadelphia
+375,2024-09-20,Julie Stewart,Sedan,20000,1,20000,Cash,Philadelphia
+376,2024-03-24,Jaime Lawson,Hatchback,18000,1,18000,Bank Transfer,Philadelphia
+377,2024-12-15,Jessica Barajas,SUV,30000,2,60000,Cash,Philadelphia
+378,2024-06-19,Amanda May,Sports Car,60000,2,120000,Credit Card,Philadelphia
+379,2024-04-30,Christine Mcclain,SUV,30000,2,60000,Debit Card,Philadelphia
+380,2024-11-25,Bradley Carroll,Luxury Car,70000,1,70000,Cash,Philadelphia
+381,2024-07-08,Glen Blair,SUV,30000,2,60000,Debit Card,Philadelphia
+382,2024-06-28,Joshua Fields,Minivan,25000,2,50000,Debit Card,Philadelphia
+383,2024-11-25,Timothy Davis,Truck,40000,2,80000,Debit Card,Philadelphia
+384,2025-02-04,Penny Johnson,Luxury Car,70000,1,70000,Bank Transfer,Philadelphia
+385,2024-05-27,Mrs. Brenda Young,Truck,40000,1,40000,Cash,Philadelphia
+386,2024-06-28,Anthony Hill,Electric Car,45000,2,90000,Bank Transfer,Philadelphia
+387,2024-05-27,Benjamin Gallagher,Luxury Car,70000,1,70000,Cash,Philadelphia
+388,2024-07-11,Jessica Conner,SUV,30000,1,30000,Cash,Philadelphia
+389,2024-12-12,Sarah Green,Coupe,35000,1,35000,Credit Card,Philadelphia
+390,2024-10-26,Mason Torres,Sports Car,60000,1,60000,Cash,Philadelphia
+391,2024-07-08,Ashley Camacho,SUV,30000,2,60000,Bank Transfer,Philadelphia
+392,2024-10-14,Virginia Hunter,Truck,40000,1,40000,Debit Card,Philadelphia
+393,2024-07-12,Mark Hawkins,Hatchback,18000,1,18000,PayPal,Philadelphia
+394,2024-08-16,Angela Barton,Convertible,50000,1,50000,Credit Card,Philadelphia
+395,2025-02-12,Jose Miller,Hatchback,18000,1,18000,PayPal,Philadelphia
+396,2024-05-11,Henry Evans,Sedan,20000,1,20000,Bank Transfer,Philadelphia
+397,2024-11-07,Michael Petersen,Convertible,50000,2,100000,PayPal,Philadelphia
+398,2024-05-29,Kristy Villarreal,Electric Car,45000,1,45000,Credit Card,Philadelphia
+399,2024-08-27,Richard Raymond PhD,Electric Car,45000,1,45000,Bank Transfer,Philadelphia
+400,2025-01-26,Joann York,Convertible,50000,2,100000,Bank Transfer,Philadelphia
+401,2024-07-07,Amy Hernandez,Sedan,20000,2,40000,Cash,Philadelphia
+402,2024-07-19,Brian White,Electric Car,45000,2,90000,Cash,Philadelphia
+403,2024-06-29,Donna Williams,Coupe,35000,1,35000,Debit Card,Philadelphia
+404,2025-02-15,Roger Rosario,Electric Car,45000,1,45000,Cash,Philadelphia
+405,2024-07-24,Nathan Elliott,Coupe,35000,2,70000,Cash,Philadelphia
+406,2024-12-22,James Juarez,Coupe,35000,1,35000,Credit Card,Philadelphia
+407,2024-06-16,Allison Weaver,Sports Car,60000,2,120000,Debit Card,Philadelphia
+408,2024-10-14,Brittany Williamson,Minivan,25000,1,25000,Cash,Philadelphia
+409,2024-08-04,Mark Gardner,Truck,40000,1,40000,Bank Transfer,Philadelphia
+410,2025-01-16,Edward Kennedy,Hatchback,18000,1,18000,Cash,Philadelphia
+411,2024-04-14,Christopher Martinez,Convertible,50000,1,50000,Cash,Philadelphia
+412,2024-10-09,Willie Williamson,Truck,40000,2,80000,Credit Card,Philadelphia
+413,2024-11-14,Michael Wright,Electric Car,45000,2,90000,Debit Card,Philadelphia
+414,2024-10-09,Mr. Ronald Hood DDS,Electric Car,45000,1,45000,Credit Card,Philadelphia
+415,2024-06-01,Karen Nielsen,Coupe,35000,1,35000,Credit Card,Philadelphia
+416,2024-06-20,Todd Walter DDS,Sedan,20000,1,20000,Debit Card,Philadelphia
+417,2025-01-24,Rhonda Jackson,Hatchback,18000,1,18000,Debit Card,Philadelphia
+418,2024-08-14,Justin Vaughn,SUV,30000,2,60000,Credit Card,Philadelphia
+419,2024-10-14,Alexandra Gordon,Hatchback,18000,1,18000,Credit Card,Philadelphia
+420,2024-10-24,David Martinez,Coupe,35000,2,70000,PayPal,Philadelphia
+421,2024-11-23,Austin Smith,SUV,30000,1,30000,PayPal,Philadelphia
+422,2024-06-20,Eileen Cummings,Sports Car,60000,1,60000,Bank Transfer,Philadelphia
+423,2024-04-01,Maurice Cobb,Coupe,35000,2,70000,Credit Card,Philadelphia
+424,2024-09-19,Mr. Jason Howell,Electric Car,45000,2,90000,PayPal,Philadelphia
+425,2024-06-20,Benjamin Chan,Sedan,20000,2,40000,Cash,Philadelphia
+426,2024-07-04,William Mitchell,Hatchback,18000,2,36000,Credit Card,Philadelphia
+427,2025-02-05,Justin Davis,Sedan,20000,1,20000,PayPal,Philadelphia
+428,2024-12-14,Connie Powell,Electric Car,45000,2,90000,Credit Card,Philadelphia
+429,2024-10-04,Katie Alexander,Electric Car,45000,1,45000,Credit Card,Philadelphia
+430,2025-01-17,Debra Miller,Truck,40000,1,40000,PayPal,Philadelphia
+431,2025-02-03,Rebecca Hernandez,Minivan,25000,1,25000,Debit Card,Philadelphia
+432,2024-03-02,Kristy Jones,Sports Car,60000,1,60000,Debit Card,Philadelphia
+433,2024-08-12,Samantha Henry,Sports Car,60000,1,60000,Debit Card,Philadelphia
+434,2024-06-21,Scott Ortiz,Hatchback,18000,2,36000,PayPal,Philadelphia
+435,2024-05-03,Derek Richards,Convertible,50000,1,50000,Credit Card,Philadelphia
+436,2024-07-15,Jerome Duarte,Truck,40000,1,40000,Credit Card,Philadelphia
+437,2024-07-25,Erin Wells,Luxury Car,70000,2,140000,Debit Card,Philadelphia
+438,2024-10-04,Juan Williams,SUV,30000,1,30000,Credit Card,Philadelphia
+439,2024-05-15,Nicole Williams,Truck,40000,2,80000,Cash,Philadelphia
+440,2024-03-01,Allison Henry,Electric Car,45000,2,90000,Debit Card,Philadelphia
+441,2024-05-25,Crystal Mcfarland,Minivan,25000,1,25000,Cash,Philadelphia
+442,2024-10-26,Jacqueline Williams,Minivan,25000,2,50000,Bank Transfer,Philadelphia
+443,2025-01-25,Ryan Jordan,Electric Car,45000,2,90000,Bank Transfer,Philadelphia
+444,2024-07-26,Lindsay Bennett,Minivan,25000,1,25000,Bank Transfer,Philadelphia
+445,2024-11-22,Carol Alvarado,Coupe,35000,1,35000,Bank Transfer,Philadelphia
+446,2024-12-26,Michael Thomas,Hatchback,18000,1,18000,Cash,Philadelphia
+447,2024-10-13,James Cobb,Minivan,25000,1,25000,PayPal,Philadelphia
+448,2024-05-09,Jonathan Smith,Minivan,25000,2,50000,Debit Card,Philadelphia
+449,2024-12-12,Phillip Ellis,Electric Car,45000,2,90000,Bank Transfer,Philadelphia
+450,2024-10-27,Michael Gonzalez,Minivan,25000,1,25000,Credit Card,Philadelphia
+451,2024-05-02,Keith Moody,Hatchback,18000,2,36000,Bank Transfer,Philadelphia
+452,2024-09-08,Aaron Garcia,Truck,40000,2,80000,Debit Card,Philadelphia
+453,2024-02-21,Charles Norton,Coupe,35000,2,70000,Bank Transfer,Philadelphia
+454,2024-11-13,Lauren Holder,Luxury Car,70000,1,70000,Credit Card,Philadelphia
+455,2024-08-27,Christopher Garner,Sports Car,60000,1,60000,Cash,Philadelphia
+456,2025-02-08,Jennifer Dean,Convertible,50000,2,100000,PayPal,Philadelphia
+457,2024-10-05,Antonio Anderson,Sedan,20000,1,20000,Cash,Philadelphia
+458,2024-06-03,Haley Duran,Minivan,25000,2,50000,PayPal,Philadelphia
+459,2024-04-11,Patrick Butler,Truck,40000,2,80000,PayPal,Philadelphia
+460,2024-09-23,Jennifer Warner,Electric Car,45000,2,90000,Cash,Philadelphia
+461,2024-11-17,Daniel Sims,Convertible,50000,2,100000,PayPal,Philadelphia
+462,2024-06-11,Jennifer Porter,Luxury Car,70000,2,140000,Bank Transfer,Philadelphia
+463,2024-06-03,Katherine Alvarado,Electric Car,45000,1,45000,PayPal,Philadelphia
+464,2024-10-02,Michael Jimenez,Minivan,25000,2,50000,Bank Transfer,Philadelphia
+465,2024-04-13,Lindsay Hodges,Sports Car,60000,1,60000,Bank Transfer,Philadelphia
+466,2024-06-23,Morgan Ferguson,SUV,30000,1,30000,PayPal,Philadelphia
+467,2024-11-24,John Davis,Convertible,50000,1,50000,PayPal,Philadelphia
+468,2025-02-01,David Hendricks,Hatchback,18000,2,36000,Debit Card,Philadelphia
+469,2024-11-02,Kevin Mitchell,Coupe,35000,2,70000,Debit Card,Philadelphia
+470,2024-03-17,Ashley Robinson,Sports Car,60000,2,120000,PayPal,Philadelphia
+471,2024-06-29,Christopher Richardson,Sedan,20000,2,40000,PayPal,Philadelphia
+472,2025-01-25,Erica Rodgers,Coupe,35000,2,70000,Bank Transfer,Philadelphia
+473,2025-02-07,Andre Hernandez,Sedan,20000,2,40000,Cash,Philadelphia
+474,2024-11-02,Mr. Daniel Davis,Electric Car,45000,2,90000,PayPal,Philadelphia
+475,2024-08-05,Patricia Sanchez,Convertible,50000,1,50000,Debit Card,Philadelphia
+476,2024-03-19,David Wilson,Hatchback,18000,2,36000,Cash,Philadelphia
+477,2024-06-23,Brian Olsen,Truck,40000,2,80000,Debit Card,Philadelphia
+478,2024-10-04,David Osborne,Electric Car,45000,1,45000,Bank Transfer,Philadelphia
+479,2024-11-13,Veronica Santiago MD,Minivan,25000,2,50000,Credit Card,Philadelphia
+480,2024-12-10,William Evans,Electric Car,45000,1,45000,PayPal,Philadelphia
+481,2024-09-07,Joseph Strickland,Luxury Car,70000,1,70000,Credit Card,Philadelphia
+482,2024-07-08,Zachary Kennedy,Sedan,20000,1,20000,Bank Transfer,Philadelphia
+483,2025-02-18,Sarah Ellis,SUV,30000,2,60000,Cash,Philadelphia
+484,2024-09-10,Jose Brown,Truck,40000,1,40000,PayPal,Philadelphia
+485,2024-12-13,Patricia Bennett,Coupe,35000,2,70000,Debit Card,Philadelphia
+486,2024-07-05,Mark Carter,Truck,40000,2,80000,PayPal,Philadelphia
+487,2025-01-11,Jamie Young,Convertible,50000,1,50000,Credit Card,Philadelphia
+488,2024-07-05,Mary Gillespie,SUV,30000,2,60000,PayPal,Philadelphia
+489,2024-10-07,Martha Robertson,Truck,40000,2,80000,Cash,Philadelphia
+490,2024-08-30,Aaron Vasquez,Luxury Car,70000,1,70000,Cash,Philadelphia
+491,2024-12-23,Nancy Leonard,Electric Car,45000,1,45000,Debit Card,Philadelphia
+492,2025-01-21,Javier Armstrong,Convertible,50000,2,100000,Bank Transfer,Philadelphia
+493,2024-05-15,Jessica Maddox,Sedan,20000,2,40000,Cash,Philadelphia
+494,2025-01-11,Katherine Barajas,Hatchback,18000,2,36000,PayPal,Philadelphia
+495,2024-10-16,Alexandra Barajas,SUV,30000,2,60000,PayPal,Philadelphia
+496,2024-04-01,Albert White,Luxury Car,70000,1,70000,Cash,Philadelphia
+497,2024-08-14,Edward Vega,Truck,40000,1,40000,Cash,Philadelphia
+498,2024-09-30,Melanie Adams,Sports Car,60000,2,120000,Cash,Philadelphia
+499,2024-07-30,Angela Melton,SUV,30000,1,30000,PayPal,Philadelphia
+500,2024-07-13,Robin Gilbert MD,Convertible,50000,1,50000,Bank Transfer,Philadelphia

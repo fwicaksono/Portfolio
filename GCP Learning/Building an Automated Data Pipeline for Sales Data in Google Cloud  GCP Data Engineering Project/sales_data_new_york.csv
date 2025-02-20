@@ -1,0 +1,501 @@
+Transaction_ID,Date,Customer_Name,Product,Price,Quantity,Total_Sale,Payment_Method,City
+1,2024-03-16,Erin Richards,Minivan,25000,1,25000,Bank Transfer,New York
+2,2024-02-27,Terri Villegas,Truck,40000,2,80000,Credit Card,New York
+3,2024-04-28,Joshua Sanchez,Hatchback,18000,2,36000,Bank Transfer,New York
+4,2024-07-06,Taylor Kline,Coupe,35000,1,35000,Bank Transfer,New York
+5,2025-01-08,Rebekah Thompson,SUV,30000,2,60000,Bank Transfer,New York
+6,2024-08-10,Kyle Fleming,Electric Car,45000,2,90000,Credit Card,New York
+7,2024-03-21,Debra Mills,Sedan,20000,2,40000,PayPal,New York
+8,2024-12-26,Blake Nixon,Sports Car,60000,1,60000,Cash,New York
+9,2024-06-24,Jorge Shelton,Minivan,25000,2,50000,Credit Card,New York
+10,2024-12-19,Veronica Diaz,Sedan,20000,2,40000,Credit Card,New York
+11,2024-03-04,Nicholas Gonzalez,Luxury Car,70000,1,70000,Cash,New York
+12,2024-11-21,Darren Rowland,Luxury Car,70000,2,140000,PayPal,New York
+13,2024-08-09,Kevin Mercado,Convertible,50000,1,50000,PayPal,New York
+14,2024-11-29,Jeffrey Lang,Sedan,20000,1,20000,Credit Card,New York
+15,2024-07-05,Lauren Garcia,Luxury Car,70000,1,70000,Debit Card,New York
+16,2024-09-20,Danielle Sullivan,SUV,30000,1,30000,Credit Card,New York
+17,2024-06-28,Dorothy Lucas,Minivan,25000,2,50000,Cash,New York
+18,2025-01-23,Lisa Walker,Truck,40000,1,40000,Cash,New York
+19,2024-09-23,Brian Marks,SUV,30000,2,60000,Bank Transfer,New York
+20,2025-01-13,Sonya Sandoval,SUV,30000,1,30000,PayPal,New York
+21,2025-02-16,John Guerrero,Sports Car,60000,1,60000,Credit Card,New York
+22,2024-12-15,Crystal Gonzalez,Convertible,50000,1,50000,PayPal,New York
+23,2024-05-14,Jessica Williamson,Minivan,25000,2,50000,Cash,New York
+24,2024-05-04,Mary Randall,Sports Car,60000,1,60000,PayPal,New York
+25,2024-10-13,Jessica Bruce,Sports Car,60000,2,120000,Debit Card,New York
+26,2024-02-25,Erin Parks,Sports Car,60000,1,60000,Bank Transfer,New York
+27,2024-11-01,John Gray,Sedan,20000,1,20000,Bank Transfer,New York
+28,2024-10-07,David Adams,Electric Car,45000,1,45000,PayPal,New York
+29,2024-04-03,Max Brown,Sedan,20000,1,20000,Debit Card,New York
+30,2024-08-08,John Craig,Coupe,35000,1,35000,Credit Card,New York
+31,2024-11-22,Tanner Gross,Electric Car,45000,2,90000,Bank Transfer,New York
+32,2024-07-01,Robert Parker,Luxury Car,70000,1,70000,PayPal,New York
+33,2024-09-27,William Day,Electric Car,45000,1,45000,PayPal,New York
+34,2024-05-08,Mr. Jeremy Chapman,Luxury Car,70000,2,140000,Bank Transfer,New York
+35,2024-05-01,Brianna Phelps,Sedan,20000,1,20000,PayPal,New York
+36,2024-03-20,Stacy Chambers,Sports Car,60000,2,120000,PayPal,New York
+37,2024-12-29,Keith Wood,Luxury Car,70000,2,140000,Credit Card,New York
+38,2025-01-13,Thomas Newman,Truck,40000,2,80000,Debit Card,New York
+39,2025-01-09,Joseph Haynes,Hatchback,18000,2,36000,Credit Card,New York
+40,2025-01-28,Amber Zamora,Luxury Car,70000,2,140000,Debit Card,New York
+41,2025-01-15,Kristi Bishop,Coupe,35000,2,70000,Bank Transfer,New York
+42,2024-11-07,Steven Townsend,Convertible,50000,1,50000,Cash,New York
+43,2024-04-04,Sue Watts,Sedan,20000,2,40000,Debit Card,New York
+44,2025-02-08,Stuart West,Sports Car,60000,2,120000,Cash,New York
+45,2025-02-17,Justin Beard,Sports Car,60000,2,120000,Bank Transfer,New York
+46,2025-02-17,Dean Riddle,Electric Car,45000,1,45000,Debit Card,New York
+47,2024-12-02,Anita Solis,Sedan,20000,2,40000,Bank Transfer,New York
+48,2024-04-03,Cynthia Porter,Convertible,50000,1,50000,Bank Transfer,New York
+49,2024-09-22,Mr. Peter Michael PhD,SUV,30000,1,30000,Bank Transfer,New York
+50,2024-09-25,Tammy Martin,Sports Car,60000,2,120000,Cash,New York
+51,2025-02-19,John Conner,Convertible,50000,2,100000,Bank Transfer,New York
+52,2024-11-29,Theresa Compton,Electric Car,45000,1,45000,Bank Transfer,New York
+53,2024-10-31,Steven Schmidt,Luxury Car,70000,2,140000,Cash,New York
+54,2024-12-22,Joseph Novak,SUV,30000,1,30000,Debit Card,New York
+55,2024-04-22,Valerie Walton,Convertible,50000,1,50000,Debit Card,New York
+56,2024-08-19,Melissa Schmidt,SUV,30000,2,60000,Cash,New York
+57,2025-01-31,Colton Coleman,Hatchback,18000,1,18000,Debit Card,New York
+58,2024-06-23,Roger Brewer,Convertible,50000,2,100000,Debit Card,New York
+59,2024-03-16,William West,Luxury Car,70000,1,70000,Debit Card,New York
+60,2024-09-16,Gary Jones,Sedan,20000,2,40000,Bank Transfer,New York
+61,2024-11-04,James Carpenter,Sedan,20000,2,40000,Credit Card,New York
+62,2024-08-26,Kerry Todd,Sports Car,60000,1,60000,Bank Transfer,New York
+63,2024-07-12,Allen Owens,Truck,40000,1,40000,Bank Transfer,New York
+64,2024-06-30,Raymond Reed,Hatchback,18000,2,36000,Credit Card,New York
+65,2024-09-10,Vanessa Smith,Minivan,25000,1,25000,PayPal,New York
+66,2024-06-18,Randall Pruitt,SUV,30000,1,30000,Debit Card,New York
+67,2024-05-29,Danielle Pugh,Hatchback,18000,2,36000,Debit Card,New York
+68,2025-01-27,Eric Lee MD,Truck,40000,1,40000,Bank Transfer,New York
+69,2024-05-08,Ashley Heath,Hatchback,18000,1,18000,Cash,New York
+70,2025-01-13,Kevin Hansen,Truck,40000,1,40000,Bank Transfer,New York
+71,2024-11-03,Christy Garner,Minivan,25000,1,25000,Debit Card,New York
+72,2024-11-15,Adrian Tate,Convertible,50000,1,50000,Credit Card,New York
+73,2024-08-17,Cynthia Cohen,Truck,40000,2,80000,Debit Card,New York
+74,2024-12-07,Kristen Long,Truck,40000,2,80000,Credit Card,New York
+75,2025-01-21,Debra Sanchez,Luxury Car,70000,2,140000,PayPal,New York
+76,2024-07-19,William Wagner,Hatchback,18000,1,18000,PayPal,New York
+77,2025-02-09,Randy Parker,Convertible,50000,2,100000,Credit Card,New York
+78,2025-01-14,Dr. David Solis Jr.,SUV,30000,2,60000,Credit Card,New York
+79,2024-12-01,Edwin Martinez,Electric Car,45000,2,90000,Bank Transfer,New York
+80,2024-03-15,Martin Mcdonald,Sports Car,60000,2,120000,Credit Card,New York
+81,2024-08-21,Paul Hall,Minivan,25000,1,25000,PayPal,New York
+82,2024-05-17,Kelly Johnson,SUV,30000,2,60000,Cash,New York
+83,2024-03-31,Anthony Boyd,Convertible,50000,2,100000,Debit Card,New York
+84,2024-08-29,Julian Gonzalez,Hatchback,18000,1,18000,PayPal,New York
+85,2024-10-31,Melanie Johnson,Convertible,50000,2,100000,PayPal,New York
+86,2024-07-05,Kim Baker,Sports Car,60000,1,60000,PayPal,New York
+87,2024-02-23,Elizabeth Doyle,Electric Car,45000,1,45000,Cash,New York
+88,2024-04-20,Nathan Fields,Luxury Car,70000,2,140000,Bank Transfer,New York
+89,2024-10-23,Amber Howe,Sports Car,60000,1,60000,Bank Transfer,New York
+90,2024-06-03,Timothy Smith,Convertible,50000,1,50000,PayPal,New York
+91,2024-06-04,Maureen Yang DDS,Luxury Car,70000,2,140000,Bank Transfer,New York
+92,2025-02-13,Michelle Baker,Convertible,50000,2,100000,Debit Card,New York
+93,2024-07-25,John White,Sports Car,60000,2,120000,PayPal,New York
+94,2024-03-09,Amber Martinez,SUV,30000,1,30000,Cash,New York
+95,2024-07-10,Timothy Barber,Minivan,25000,1,25000,Debit Card,New York
+96,2024-05-21,Steve Dominguez,Convertible,50000,2,100000,Bank Transfer,New York
+97,2024-07-11,Christine Velez,Truck,40000,2,80000,PayPal,New York
+98,2025-01-02,Susan Short,Convertible,50000,2,100000,Bank Transfer,New York
+99,2024-10-07,Joseph Maldonado,Convertible,50000,1,50000,Debit Card,New York
+100,2024-07-29,Joseph Holland,Coupe,35000,2,70000,PayPal,New York
+101,2025-02-13,Curtis Hicks,Hatchback,18000,1,18000,PayPal,New York
+102,2024-04-28,Paula Santos,Luxury Car,70000,1,70000,Bank Transfer,New York
+103,2024-06-06,Rebecca Hanna,Sports Car,60000,2,120000,Cash,New York
+104,2024-03-01,Julie Joyce,Electric Car,45000,1,45000,Cash,New York
+105,2024-12-06,Kyle Glass,Sports Car,60000,1,60000,Bank Transfer,New York
+106,2024-12-05,Meagan Butler,Minivan,25000,1,25000,PayPal,New York
+107,2024-12-10,Rhonda Wilson,Coupe,35000,2,70000,Debit Card,New York
+108,2024-10-22,Rachel Owens,Coupe,35000,1,35000,Debit Card,New York
+109,2024-10-22,Robin Elliott,Minivan,25000,2,50000,PayPal,New York
+110,2024-12-14,Robert Blevins,SUV,30000,1,30000,Debit Card,New York
+111,2025-01-04,Jennifer Martin,Sports Car,60000,2,120000,Cash,New York
+112,2024-12-08,Joel Clark,Convertible,50000,2,100000,Bank Transfer,New York
+113,2024-07-02,Rebecca Henry,Coupe,35000,2,70000,Credit Card,New York
+114,2024-06-07,Michele Rodriguez,SUV,30000,2,60000,PayPal,New York
+115,2024-08-19,Vincent Robinson,Convertible,50000,1,50000,Cash,New York
+116,2025-01-16,Michael Rodriguez,Hatchback,18000,1,18000,PayPal,New York
+117,2024-04-12,Matthew Stephens,SUV,30000,1,30000,Credit Card,New York
+118,2025-01-03,Aaron Mitchell,Minivan,25000,1,25000,Debit Card,New York
+119,2024-08-22,Joseph Patterson,Coupe,35000,1,35000,Debit Card,New York
+120,2024-04-07,Manuel Patel,Luxury Car,70000,1,70000,Cash,New York
+121,2024-06-05,Claire Carson,Coupe,35000,1,35000,Bank Transfer,New York
+122,2024-04-04,Tara Logan,Sports Car,60000,1,60000,Credit Card,New York
+123,2024-04-26,Christopher Walker,Electric Car,45000,2,90000,Credit Card,New York
+124,2025-02-01,Charlotte Mcclure,SUV,30000,1,30000,Credit Card,New York
+125,2024-05-27,Trevor Mayer,Truck,40000,2,80000,Cash,New York
+126,2024-09-15,Carol Kidd,Truck,40000,2,80000,Debit Card,New York
+127,2024-11-30,Kara Brown,Coupe,35000,1,35000,PayPal,New York
+128,2024-12-20,Aaron Gonzalez,Truck,40000,2,80000,Cash,New York
+129,2024-08-04,Jason Brewer,Convertible,50000,2,100000,PayPal,New York
+130,2024-09-17,Tonya Yu,Electric Car,45000,2,90000,Debit Card,New York
+131,2025-01-04,Sean Greene,Luxury Car,70000,1,70000,Credit Card,New York
+132,2024-05-04,Kaitlin Palmer,Sports Car,60000,1,60000,Bank Transfer,New York
+133,2024-11-01,Gabriella Pierce,Electric Car,45000,1,45000,PayPal,New York
+134,2024-08-13,Rachel Mendoza,SUV,30000,2,60000,Credit Card,New York
+135,2024-09-30,Bryan Johnson,Convertible,50000,2,100000,Debit Card,New York
+136,2024-09-19,Casey Hickman,SUV,30000,1,30000,Cash,New York
+137,2025-01-16,Jose Perry,Truck,40000,1,40000,Cash,New York
+138,2024-04-20,Danny Johnson,SUV,30000,1,30000,Debit Card,New York
+139,2025-02-14,Michele Keller,SUV,30000,2,60000,Credit Card,New York
+140,2024-12-29,Amanda Estrada,Hatchback,18000,2,36000,Debit Card,New York
+141,2024-09-11,Peter Morris,Electric Car,45000,1,45000,Debit Card,New York
+142,2024-12-16,Candice Ruiz,Coupe,35000,1,35000,Debit Card,New York
+143,2025-01-08,Kathy Banks,Minivan,25000,1,25000,Cash,New York
+144,2024-08-15,Samantha Charles,Coupe,35000,2,70000,Cash,New York
+145,2024-08-05,Xavier Harvey,Sedan,20000,2,40000,PayPal,New York
+146,2024-07-23,Erin Finley,Coupe,35000,1,35000,Debit Card,New York
+147,2024-11-16,Anne Caldwell,Hatchback,18000,2,36000,Cash,New York
+148,2024-07-25,Jessica Davis,Convertible,50000,1,50000,PayPal,New York
+149,2024-08-27,Ana Cuevas,Coupe,35000,1,35000,Bank Transfer,New York
+150,2024-11-22,David Jones,Minivan,25000,2,50000,PayPal,New York
+151,2025-01-20,Molly Bryan,Hatchback,18000,2,36000,PayPal,New York
+152,2024-03-18,Heather Jenkins,Electric Car,45000,1,45000,Bank Transfer,New York
+153,2024-03-21,Pamela Dean,Convertible,50000,1,50000,Debit Card,New York
+154,2024-06-04,Danielle Becker,Electric Car,45000,2,90000,Cash,New York
+155,2024-08-09,Sandra Meadows,Electric Car,45000,1,45000,Bank Transfer,New York
+156,2024-03-03,Stacey Cole,Sedan,20000,1,20000,Debit Card,New York
+157,2024-07-18,Anthony Pearson,Coupe,35000,2,70000,Debit Card,New York
+158,2024-12-17,Penny Brown,Truck,40000,2,80000,PayPal,New York
+159,2024-09-01,Christopher Pena,Electric Car,45000,1,45000,PayPal,New York
+160,2024-05-22,Chris Lee,Hatchback,18000,2,36000,Debit Card,New York
+161,2024-12-20,Jordan Conrad,Hatchback,18000,2,36000,Debit Card,New York
+162,2024-03-19,Tanner Price,Minivan,25000,1,25000,Cash,New York
+163,2024-08-31,Lisa Phillips,Truck,40000,2,80000,Credit Card,New York
+164,2024-10-11,Tiffany Allen,Coupe,35000,2,70000,Credit Card,New York
+165,2024-03-07,Jasmine Stein,Sports Car,60000,1,60000,PayPal,New York
+166,2024-06-05,Jennifer Mcmahon,Electric Car,45000,2,90000,Cash,New York
+167,2024-07-28,April Tyler,Sports Car,60000,1,60000,Bank Transfer,New York
+168,2024-08-06,Mr. Timothy Grant,Sedan,20000,2,40000,Credit Card,New York
+169,2024-11-27,Judith Bartlett,Truck,40000,1,40000,Credit Card,New York
+170,2024-03-21,Alicia Hill,Truck,40000,1,40000,PayPal,New York
+171,2024-04-03,Justin Lambert,Electric Car,45000,2,90000,Credit Card,New York
+172,2025-01-30,Jonathan Buck,Sports Car,60000,2,120000,Cash,New York
+173,2024-05-25,Eric Mathis,Sports Car,60000,1,60000,PayPal,New York
+174,2024-09-23,Kenneth Marshall,Hatchback,18000,2,36000,Bank Transfer,New York
+175,2024-08-05,Steven Payne,Hatchback,18000,1,18000,Bank Transfer,New York
+176,2024-03-31,Jeffrey Mcmahon,Sports Car,60000,2,120000,Bank Transfer,New York
+177,2024-05-12,Mr. Gary White,Electric Car,45000,2,90000,Bank Transfer,New York
+178,2024-07-16,Nathan Moore,Electric Car,45000,2,90000,Debit Card,New York
+179,2024-04-03,Stephanie Davis,Sports Car,60000,2,120000,Cash,New York
+180,2024-10-15,Terri Webster,Electric Car,45000,1,45000,PayPal,New York
+181,2024-10-04,Brandon Johnson,Minivan,25000,1,25000,Cash,New York
+182,2024-07-12,Chelsea Lawrence MD,Coupe,35000,2,70000,Bank Transfer,New York
+183,2025-01-11,Erin Morrison,Convertible,50000,2,100000,PayPal,New York
+184,2024-12-22,William Kelley,Luxury Car,70000,2,140000,PayPal,New York
+185,2024-09-19,David Daniel,Luxury Car,70000,2,140000,Bank Transfer,New York
+186,2024-09-09,Anthony Barron,SUV,30000,1,30000,Bank Transfer,New York
+187,2024-10-30,Amber Lane,SUV,30000,1,30000,PayPal,New York
+188,2025-01-29,Robert Morris,Hatchback,18000,2,36000,Bank Transfer,New York
+189,2024-12-19,Jasmin Allen,Hatchback,18000,1,18000,Bank Transfer,New York
+190,2024-06-05,Laura Collins,SUV,30000,2,60000,PayPal,New York
+191,2024-10-08,David Martinez,SUV,30000,1,30000,Credit Card,New York
+192,2024-08-17,Matthew Cox,Coupe,35000,1,35000,Credit Card,New York
+193,2024-12-02,Ashley Bautista,SUV,30000,2,60000,Cash,New York
+194,2024-06-04,Ricky Castillo,SUV,30000,1,30000,Debit Card,New York
+195,2024-04-17,Justin Rodriguez,Coupe,35000,2,70000,Debit Card,New York
+196,2024-06-09,Robert Salas,Sports Car,60000,1,60000,PayPal,New York
+197,2024-03-02,Robert Perez,Luxury Car,70000,2,140000,Credit Card,New York
+198,2024-06-20,Joan French,Sports Car,60000,2,120000,Debit Card,New York
+199,2024-12-22,David Smith,Luxury Car,70000,1,70000,Bank Transfer,New York
+200,2024-04-30,Tara Johnson,SUV,30000,1,30000,Cash,New York
+201,2025-01-24,Jason Smith,Truck,40000,1,40000,Bank Transfer,New York
+202,2024-12-22,Michael Miller,Truck,40000,1,40000,Bank Transfer,New York
+203,2024-03-27,David Johnson,Sedan,20000,2,40000,Debit Card,New York
+204,2024-08-10,Robin Edwards,Convertible,50000,1,50000,Credit Card,New York
+205,2024-08-16,Karen Leach,Sports Car,60000,2,120000,Credit Card,New York
+206,2024-03-23,Joshua Carter,Luxury Car,70000,1,70000,PayPal,New York
+207,2024-06-04,Catherine Hughes,Minivan,25000,1,25000,Bank Transfer,New York
+208,2024-06-29,Andrew Phillips,Hatchback,18000,1,18000,PayPal,New York
+209,2025-01-24,Ms. Jennifer Watson,Coupe,35000,1,35000,Cash,New York
+210,2024-11-06,Christina Torres,Luxury Car,70000,1,70000,Bank Transfer,New York
+211,2024-09-25,Shelia Walker,Sports Car,60000,2,120000,Bank Transfer,New York
+212,2025-02-15,Alan Hood,Convertible,50000,2,100000,Debit Card,New York
+213,2024-08-30,Jonathan Davis,Coupe,35000,2,70000,Cash,New York
+214,2025-02-12,Martha Gonzales,Minivan,25000,1,25000,Bank Transfer,New York
+215,2024-03-17,Robert Perry,Coupe,35000,2,70000,Cash,New York
+216,2024-07-31,Jamie Moss,Convertible,50000,2,100000,Debit Card,New York
+217,2024-06-15,Alexandra Carter,Truck,40000,1,40000,Debit Card,New York
+218,2024-03-06,Joseph Logan,Luxury Car,70000,2,140000,Cash,New York
+219,2024-09-19,Deborah Gonzales,Luxury Car,70000,1,70000,PayPal,New York
+220,2024-03-22,James Morris,Hatchback,18000,2,36000,PayPal,New York
+221,2024-07-28,Kevin Clayton,Sports Car,60000,2,120000,Bank Transfer,New York
+222,2024-08-02,Michaela Walker,Truck,40000,2,80000,Credit Card,New York
+223,2024-08-15,Colleen Smith,Electric Car,45000,1,45000,Bank Transfer,New York
+224,2024-10-02,Steven Hernandez,Sports Car,60000,2,120000,PayPal,New York
+225,2024-10-11,William Guerra,Sports Car,60000,2,120000,Bank Transfer,New York
+226,2024-09-07,Ashley Jackson,Hatchback,18000,1,18000,Cash,New York
+227,2025-01-04,Michele Carrillo,Hatchback,18000,2,36000,Cash,New York
+228,2024-10-10,Mark Ross,Sedan,20000,2,40000,Debit Card,New York
+229,2024-08-10,Susan Jones,Hatchback,18000,2,36000,Cash,New York
+230,2024-05-01,Linda Perez,Coupe,35000,1,35000,PayPal,New York
+231,2024-10-12,Scott Kirby,Coupe,35000,2,70000,Credit Card,New York
+232,2024-11-16,Robert Foster,SUV,30000,1,30000,Cash,New York
+233,2024-06-14,Anthony Howard,Hatchback,18000,1,18000,Cash,New York
+234,2024-12-24,Amy Lynch,SUV,30000,1,30000,Credit Card,New York
+235,2024-10-18,Marie Kennedy,Truck,40000,2,80000,Bank Transfer,New York
+236,2024-06-02,Rachel Ramirez,Sports Car,60000,2,120000,Bank Transfer,New York
+237,2024-10-03,Mrs. Caroline Williams,Sports Car,60000,2,120000,Cash,New York
+238,2024-07-01,Robert Williams,Sports Car,60000,2,120000,PayPal,New York
+239,2024-09-24,Chris Dunn,Convertible,50000,2,100000,PayPal,New York
+240,2024-09-18,Ashley Palmer,Coupe,35000,2,70000,Bank Transfer,New York
+241,2024-07-28,Thomas Henderson,Minivan,25000,1,25000,Debit Card,New York
+242,2024-03-12,Erin Garcia,Hatchback,18000,2,36000,Bank Transfer,New York
+243,2025-01-25,Brandon Williams,SUV,30000,1,30000,Bank Transfer,New York
+244,2024-03-28,Erica Morris,Coupe,35000,2,70000,Bank Transfer,New York
+245,2024-09-02,Teresa Hoffman,Sports Car,60000,1,60000,Debit Card,New York
+246,2024-10-08,Robert Nunez,Sedan,20000,2,40000,Debit Card,New York
+247,2024-05-15,Claire Heath,SUV,30000,2,60000,Debit Card,New York
+248,2024-03-08,Paula Ruiz,Truck,40000,1,40000,Debit Card,New York
+249,2024-04-20,Nicholas Davis,Sports Car,60000,1,60000,PayPal,New York
+250,2024-04-27,Michael Guzman,Convertible,50000,2,100000,Bank Transfer,New York
+251,2025-02-10,Angel Price,Sports Car,60000,1,60000,Debit Card,New York
+252,2024-07-14,Michelle James,Sedan,20000,1,20000,Cash,New York
+253,2025-01-11,Samuel Hawkins,Luxury Car,70000,1,70000,Debit Card,New York
+254,2024-02-20,Christopher Huff,Hatchback,18000,1,18000,Debit Card,New York
+255,2024-11-16,Elizabeth Brown,Convertible,50000,1,50000,Debit Card,New York
+256,2024-10-09,Ann Burch,Sedan,20000,2,40000,Cash,New York
+257,2024-11-29,Chad Cole,Coupe,35000,2,70000,Credit Card,New York
+258,2024-09-28,Catherine Williams,Sedan,20000,2,40000,Cash,New York
+259,2024-12-09,Kelly Edwards,SUV,30000,1,30000,Cash,New York
+260,2024-03-25,Mr. Eric Townsend,Hatchback,18000,1,18000,Bank Transfer,New York
+261,2024-11-21,Greg Bowen,Electric Car,45000,2,90000,Bank Transfer,New York
+262,2024-05-19,Michelle Hensley MD,Hatchback,18000,2,36000,Debit Card,New York
+263,2024-08-09,Barbara Cox,Truck,40000,1,40000,PayPal,New York
+264,2024-06-01,Evelyn Boyd,Minivan,25000,1,25000,Cash,New York
+265,2025-02-15,Maria Santos,Convertible,50000,1,50000,Cash,New York
+266,2025-02-05,Tracy Martinez,Sedan,20000,2,40000,Credit Card,New York
+267,2024-06-01,Maurice Young,Minivan,25000,1,25000,Cash,New York
+268,2024-07-04,Diane Smith,Truck,40000,2,80000,PayPal,New York
+269,2024-09-01,Donald Edwards,Minivan,25000,2,50000,PayPal,New York
+270,2024-06-09,Jonathan Christian,Hatchback,18000,2,36000,Credit Card,New York
+271,2024-07-11,Danielle Taylor,Minivan,25000,1,25000,Credit Card,New York
+272,2024-07-13,Todd Bean,Hatchback,18000,1,18000,Credit Card,New York
+273,2024-03-22,Victoria Lowery,SUV,30000,2,60000,Debit Card,New York
+274,2024-07-09,Dawn Wagner,Minivan,25000,2,50000,Bank Transfer,New York
+275,2024-04-23,Brenda Watts,Luxury Car,70000,2,140000,Bank Transfer,New York
+276,2024-07-28,James Harrison,SUV,30000,1,30000,Debit Card,New York
+277,2024-08-12,Katie Oconnor,Electric Car,45000,1,45000,Credit Card,New York
+278,2024-05-16,April Ashley,Coupe,35000,1,35000,Cash,New York
+279,2024-03-07,Ashley Herman,Coupe,35000,1,35000,Bank Transfer,New York
+280,2024-09-19,Angela Scott,SUV,30000,2,60000,Credit Card,New York
+281,2024-10-23,Danielle Douglas,Luxury Car,70000,1,70000,Cash,New York
+282,2024-04-15,Curtis Turner,Luxury Car,70000,2,140000,Credit Card,New York
+283,2024-06-30,Mary Mcgee,Truck,40000,2,80000,Bank Transfer,New York
+284,2024-03-25,Paul Kelly,Coupe,35000,1,35000,Credit Card,New York
+285,2024-06-20,Stuart Mitchell,Hatchback,18000,2,36000,Debit Card,New York
+286,2025-01-12,Shane Ruiz,Coupe,35000,2,70000,Bank Transfer,New York
+287,2024-10-07,Gregory Wells,Sports Car,60000,1,60000,PayPal,New York
+288,2024-11-26,Heather Flowers,Hatchback,18000,1,18000,PayPal,New York
+289,2024-04-02,Kevin Russo,Truck,40000,1,40000,Debit Card,New York
+290,2024-02-23,Todd Johnson,Coupe,35000,1,35000,Credit Card,New York
+291,2025-02-07,Tracy Brady,Sports Car,60000,2,120000,Credit Card,New York
+292,2024-11-02,Omar Pearson,Minivan,25000,2,50000,Cash,New York
+293,2024-07-29,Justin Wells,Sedan,20000,1,20000,PayPal,New York
+294,2024-10-11,Eric Moore,Coupe,35000,1,35000,Credit Card,New York
+295,2024-12-08,Katherine Gonzalez,Electric Car,45000,1,45000,Bank Transfer,New York
+296,2025-01-30,Martin Thomas,Coupe,35000,1,35000,Credit Card,New York
+297,2024-05-25,Jennifer Farley,SUV,30000,1,30000,PayPal,New York
+298,2024-07-14,Garrett Rodriguez,Minivan,25000,2,50000,Bank Transfer,New York
+299,2024-05-23,Daniel Flowers,Truck,40000,1,40000,Debit Card,New York
+300,2025-01-03,Jessica Smith,SUV,30000,1,30000,Debit Card,New York
+301,2024-11-07,Tyler Bennett,SUV,30000,2,60000,Bank Transfer,New York
+302,2024-11-11,Denise Esparza,SUV,30000,1,30000,Credit Card,New York
+303,2024-04-27,Natasha Paul,Truck,40000,2,80000,Debit Card,New York
+304,2024-04-29,David Martin,Convertible,50000,2,100000,Cash,New York
+305,2024-12-12,Sean Hess,Convertible,50000,2,100000,Debit Card,New York
+306,2025-01-10,Adrienne Davis,Sports Car,60000,1,60000,Bank Transfer,New York
+307,2024-08-03,Eric Ward,Electric Car,45000,1,45000,Cash,New York
+308,2024-08-23,Samuel Shields,Sports Car,60000,2,120000,Bank Transfer,New York
+309,2024-12-30,Michael Sullivan,Hatchback,18000,2,36000,Debit Card,New York
+310,2025-02-02,Stephen Gibson,Minivan,25000,2,50000,Credit Card,New York
+311,2025-01-22,John Kirby,Convertible,50000,1,50000,PayPal,New York
+312,2024-07-08,Devin Mclaughlin,Sedan,20000,2,40000,Bank Transfer,New York
+313,2024-08-26,Tammy Reid,SUV,30000,2,60000,Credit Card,New York
+314,2024-06-27,Casey Ray,Truck,40000,2,80000,PayPal,New York
+315,2025-01-27,Joshua Mcbride,Minivan,25000,2,50000,Cash,New York
+316,2025-02-14,Christopher Foster,Convertible,50000,2,100000,Bank Transfer,New York
+317,2024-04-24,Jennifer Wilson,Sedan,20000,1,20000,Credit Card,New York
+318,2024-02-27,Tina Mercer,Coupe,35000,2,70000,Cash,New York
+319,2024-03-13,Maria Marks DDS,Truck,40000,1,40000,Cash,New York
+320,2024-07-02,Alison Miller,Electric Car,45000,1,45000,Cash,New York
+321,2024-05-26,Dr. Brandon Smith,Convertible,50000,1,50000,Debit Card,New York
+322,2024-07-24,Karen Cox,Hatchback,18000,1,18000,Cash,New York
+323,2024-10-01,Joseph Rivera,Luxury Car,70000,1,70000,PayPal,New York
+324,2025-01-25,Dr. Brenda Curry DDS,Sedan,20000,1,20000,Debit Card,New York
+325,2024-11-28,Richard Hunt,Coupe,35000,2,70000,PayPal,New York
+326,2024-09-26,Todd Curtis,Truck,40000,2,80000,Cash,New York
+327,2024-07-18,James Phillips,Truck,40000,1,40000,PayPal,New York
+328,2024-06-30,Jamie Clark,Luxury Car,70000,1,70000,Credit Card,New York
+329,2024-03-18,Mallory Hubbard,Hatchback,18000,2,36000,PayPal,New York
+330,2024-11-12,Kevin Smith,Coupe,35000,2,70000,Bank Transfer,New York
+331,2024-05-13,Joseph Gamble,SUV,30000,1,30000,Cash,New York
+332,2024-04-20,Elizabeth Christensen,Coupe,35000,1,35000,Debit Card,New York
+333,2024-10-06,Christopher King,Luxury Car,70000,1,70000,Debit Card,New York
+334,2024-03-02,Kathleen Mccoy,Electric Car,45000,2,90000,Bank Transfer,New York
+335,2024-11-24,Timothy Strickland,Electric Car,45000,1,45000,Bank Transfer,New York
+336,2024-10-21,John Browning,Electric Car,45000,2,90000,Credit Card,New York
+337,2024-08-27,John Castillo,Hatchback,18000,2,36000,Bank Transfer,New York
+338,2024-12-25,Sharon Richmond,Hatchback,18000,2,36000,PayPal,New York
+339,2024-03-28,Courtney Bridges,Hatchback,18000,2,36000,Cash,New York
+340,2025-01-02,Brenda Jones,Sedan,20000,2,40000,PayPal,New York
+341,2024-09-03,Paige Patton,Hatchback,18000,2,36000,Credit Card,New York
+342,2024-09-11,Andrea Fernandez,Minivan,25000,1,25000,Debit Card,New York
+343,2024-07-31,Dr. Paul Wilson,SUV,30000,2,60000,PayPal,New York
+344,2024-07-30,Beverly Miller,Sports Car,60000,1,60000,Credit Card,New York
+345,2024-05-10,Michael Clark,Minivan,25000,1,25000,Debit Card,New York
+346,2024-11-28,Danielle Wright,Luxury Car,70000,2,140000,Cash,New York
+347,2024-04-16,Zachary Jones,Luxury Car,70000,1,70000,Debit Card,New York
+348,2024-05-21,Chad Small,SUV,30000,2,60000,PayPal,New York
+349,2025-01-21,Austin Hodge,Electric Car,45000,2,90000,PayPal,New York
+350,2025-01-24,Michael Gutierrez,Electric Car,45000,2,90000,Bank Transfer,New York
+351,2024-05-17,Ashley Macias,Hatchback,18000,2,36000,Bank Transfer,New York
+352,2024-10-22,Maureen Hall,Luxury Car,70000,2,140000,Cash,New York
+353,2025-01-19,Anthony Medina,Sports Car,60000,1,60000,Debit Card,New York
+354,2024-08-20,Nathan Hurst,Convertible,50000,1,50000,PayPal,New York
+355,2024-10-19,David Walker,Truck,40000,1,40000,Cash,New York
+356,2024-12-22,Julie Chan,Truck,40000,2,80000,Bank Transfer,New York
+357,2024-09-21,Noah Wells,Sedan,20000,1,20000,Debit Card,New York
+358,2024-04-09,Peter Aguilar,Sedan,20000,2,40000,Cash,New York
+359,2024-09-18,Jennifer Alexander,Coupe,35000,1,35000,Bank Transfer,New York
+360,2025-01-20,Robert Lawson,Convertible,50000,1,50000,Bank Transfer,New York
+361,2024-10-17,Joanne Chandler,Coupe,35000,2,70000,Bank Transfer,New York
+362,2024-04-08,Monica Gonzalez,Truck,40000,1,40000,Bank Transfer,New York
+363,2024-12-09,Donald Lopez,Luxury Car,70000,1,70000,Debit Card,New York
+364,2024-10-30,Melissa Brown,Minivan,25000,1,25000,Debit Card,New York
+365,2024-12-08,Robin Carroll,Sedan,20000,1,20000,Debit Card,New York
+366,2024-09-11,Nicholas Wheeler,Luxury Car,70000,2,140000,Credit Card,New York
+367,2024-09-15,Katherine Schwartz,Truck,40000,1,40000,Bank Transfer,New York
+368,2024-12-23,Adam Mahoney,Hatchback,18000,1,18000,Debit Card,New York
+369,2024-11-13,Thomas Jacobson,Hatchback,18000,1,18000,Cash,New York
+370,2024-11-18,Crystal Simon,Sedan,20000,1,20000,Credit Card,New York
+371,2024-09-16,Christopher Rice,Luxury Car,70000,2,140000,Credit Card,New York
+372,2024-09-04,Jonathan Howard,Coupe,35000,1,35000,Credit Card,New York
+373,2024-03-28,Melissa Baker,Truck,40000,1,40000,Bank Transfer,New York
+374,2024-10-22,Lisa Williams,SUV,30000,1,30000,PayPal,New York
+375,2025-01-15,Melissa Mathews,Sedan,20000,2,40000,Bank Transfer,New York
+376,2024-05-13,Roberto Jones,Luxury Car,70000,2,140000,Credit Card,New York
+377,2024-04-26,Karen Holland,Electric Car,45000,1,45000,Cash,New York
+378,2024-02-24,Zachary Peterson,Sedan,20000,2,40000,Cash,New York
+379,2024-10-08,Brandi Becker,Sports Car,60000,2,120000,Bank Transfer,New York
+380,2024-08-14,Kyle Gonzalez,Minivan,25000,2,50000,Cash,New York
+381,2024-04-22,Tamara Glover,Hatchback,18000,2,36000,Credit Card,New York
+382,2024-04-29,Mrs. Lisa Bond,Luxury Car,70000,2,140000,Debit Card,New York
+383,2024-06-11,Cody Parker,SUV,30000,2,60000,Debit Card,New York
+384,2024-09-24,Scott Adams,Sports Car,60000,2,120000,Debit Card,New York
+385,2024-05-24,Donald Scott,Convertible,50000,2,100000,PayPal,New York
+386,2024-05-15,Morgan Garcia,Sedan,20000,1,20000,PayPal,New York
+387,2024-05-26,Troy Wells,Electric Car,45000,2,90000,PayPal,New York
+388,2024-09-20,Kristin Watson,Coupe,35000,1,35000,Credit Card,New York
+389,2024-09-11,John Fisher,Minivan,25000,2,50000,Cash,New York
+390,2024-10-21,Anthony Lee,Truck,40000,1,40000,Credit Card,New York
+391,2024-04-07,Matthew Wright,Hatchback,18000,1,18000,Cash,New York
+392,2024-06-10,Barbara Smith,Sedan,20000,2,40000,PayPal,New York
+393,2024-07-17,Michelle Jacobson,Coupe,35000,2,70000,PayPal,New York
+394,2024-03-22,Whitney Burch,Sedan,20000,1,20000,PayPal,New York
+395,2024-11-10,John Brown,Minivan,25000,1,25000,Credit Card,New York
+396,2024-12-19,Vincent Davis,Sedan,20000,2,40000,Bank Transfer,New York
+397,2024-05-07,Crystal Miller,Hatchback,18000,1,18000,Bank Transfer,New York
+398,2024-12-25,Kelly Jordan,SUV,30000,2,60000,Credit Card,New York
+399,2025-01-31,Phillip Berg,Coupe,35000,2,70000,PayPal,New York
+400,2024-08-13,Ryan Brown,Sedan,20000,1,20000,Debit Card,New York
+401,2024-04-15,Richard Johnson,Coupe,35000,1,35000,Bank Transfer,New York
+402,2024-04-11,Kristin Marquez,Luxury Car,70000,2,140000,PayPal,New York
+403,2024-06-14,William Chapman,Sedan,20000,2,40000,Credit Card,New York
+404,2024-10-19,Devon Walsh,Coupe,35000,2,70000,Bank Transfer,New York
+405,2024-10-18,Kathryn Moore,SUV,30000,1,30000,Debit Card,New York
+406,2024-07-09,Lindsay Wilson,Minivan,25000,1,25000,PayPal,New York
+407,2024-03-01,Lisa Montes,Sedan,20000,2,40000,Cash,New York
+408,2024-03-14,Jeremiah Young,Electric Car,45000,2,90000,Bank Transfer,New York
+409,2024-10-26,Pam Steele,Hatchback,18000,2,36000,Credit Card,New York
+410,2024-05-29,Wendy Mcpherson,SUV,30000,2,60000,PayPal,New York
+411,2024-05-13,Raymond Lucas,SUV,30000,2,60000,Debit Card,New York
+412,2024-10-16,Bobby Garza,Truck,40000,2,80000,Debit Card,New York
+413,2024-02-21,Daniel Fletcher,Hatchback,18000,2,36000,PayPal,New York
+414,2024-07-07,Nathan Robinson,Electric Car,45000,1,45000,Bank Transfer,New York
+415,2024-04-10,William Sharp,Hatchback,18000,2,36000,PayPal,New York
+416,2024-11-15,Joseph Middleton,Truck,40000,1,40000,PayPal,New York
+417,2024-11-12,Becky Soto,Electric Car,45000,1,45000,PayPal,New York
+418,2025-01-07,Andrew Greene,Electric Car,45000,2,90000,Credit Card,New York
+419,2024-05-30,John Miles,SUV,30000,2,60000,Bank Transfer,New York
+420,2024-06-08,Heather Johnson,Minivan,25000,1,25000,Bank Transfer,New York
+421,2024-05-02,Amy King,Truck,40000,2,80000,Cash,New York
+422,2024-10-16,Scott Rodriguez,Sports Car,60000,1,60000,PayPal,New York
+423,2024-12-18,Willie Brown,SUV,30000,2,60000,PayPal,New York
+424,2024-06-03,Joshua Bates,Sedan,20000,2,40000,Credit Card,New York
+425,2024-08-13,Ryan Harmon,Sedan,20000,1,20000,PayPal,New York
+426,2024-04-30,Jennifer Barnett,Truck,40000,1,40000,Debit Card,New York
+427,2024-03-09,Roy Morse,SUV,30000,1,30000,PayPal,New York
+428,2024-12-28,Heather Thomas,Sedan,20000,1,20000,PayPal,New York
+429,2024-12-07,Dawn Dixon,SUV,30000,1,30000,Debit Card,New York
+430,2024-12-16,Amanda Carpenter,Convertible,50000,2,100000,Bank Transfer,New York
+431,2024-10-06,Paul Wiley,SUV,30000,1,30000,Bank Transfer,New York
+432,2024-08-19,Meredith Smith,Hatchback,18000,2,36000,Cash,New York
+433,2024-05-16,Bonnie Arnold,Minivan,25000,2,50000,Credit Card,New York
+434,2024-07-29,Ashley Allen,Convertible,50000,2,100000,Bank Transfer,New York
+435,2024-07-02,Heather Paul DVM,SUV,30000,1,30000,Bank Transfer,New York
+436,2024-12-24,Derrick Hernandez,Sports Car,60000,2,120000,Bank Transfer,New York
+437,2025-01-30,Hunter Mitchell,Convertible,50000,1,50000,Cash,New York
+438,2024-10-29,Mitchell Green,Minivan,25000,2,50000,PayPal,New York
+439,2024-12-18,Spencer Bailey,Electric Car,45000,2,90000,PayPal,New York
+440,2024-09-10,John Carter,Coupe,35000,1,35000,Cash,New York
+441,2024-05-29,John Brennan,Convertible,50000,2,100000,Bank Transfer,New York
+442,2024-08-15,Destiny Colon,SUV,30000,1,30000,Cash,New York
+443,2024-11-10,Lorraine Adkins,SUV,30000,2,60000,Cash,New York
+444,2024-12-20,Matthew Aguilar,Minivan,25000,2,50000,Cash,New York
+445,2024-08-20,Jessica Cooper,Luxury Car,70000,1,70000,Bank Transfer,New York
+446,2024-12-21,Mary Flores,Electric Car,45000,1,45000,PayPal,New York
+447,2025-02-01,Jason Jones,Coupe,35000,1,35000,Bank Transfer,New York
+448,2024-11-01,Whitney Hayden,Truck,40000,2,80000,PayPal,New York
+449,2024-06-02,Tonya Lee MD,Convertible,50000,1,50000,Debit Card,New York
+450,2024-06-25,Nancy Cochran,Hatchback,18000,1,18000,Debit Card,New York
+451,2024-10-15,Jack Burns,Minivan,25000,2,50000,Bank Transfer,New York
+452,2024-05-21,Elizabeth Alvarado,Hatchback,18000,1,18000,Bank Transfer,New York
+453,2024-04-27,Lisa Hernandez,Luxury Car,70000,1,70000,Debit Card,New York
+454,2024-09-18,Xavier King,Electric Car,45000,1,45000,Cash,New York
+455,2024-08-09,Matthew Hernandez,Truck,40000,2,80000,Credit Card,New York
+456,2024-08-01,Sandra Smith,SUV,30000,2,60000,Credit Card,New York
+457,2024-05-18,Eric Barrett,Luxury Car,70000,1,70000,Credit Card,New York
+458,2024-10-24,Alyssa Davis,Sports Car,60000,2,120000,Bank Transfer,New York
+459,2024-03-23,John Davidson,Truck,40000,2,80000,Cash,New York
+460,2024-09-29,Tony Johnson,Truck,40000,2,80000,Debit Card,New York
+461,2024-03-13,Richard Ball,Luxury Car,70000,2,140000,Debit Card,New York
+462,2025-01-01,Ian Hicks,Sports Car,60000,1,60000,Credit Card,New York
+463,2024-06-05,Paula Brown,Electric Car,45000,2,90000,Cash,New York
+464,2024-12-11,Douglas Clark,Minivan,25000,2,50000,Debit Card,New York
+465,2024-11-30,Amanda Atkinson,Sports Car,60000,2,120000,Credit Card,New York
+466,2025-02-19,Cynthia Greene,SUV,30000,2,60000,Debit Card,New York
+467,2024-06-07,Kimberly Wallace,Coupe,35000,2,70000,PayPal,New York
+468,2024-03-17,Bradley Jenkins,Coupe,35000,1,35000,Bank Transfer,New York
+469,2025-01-25,Isabel Schmidt,Coupe,35000,2,70000,Bank Transfer,New York
+470,2024-11-14,Robert Weeks,Sports Car,60000,2,120000,Credit Card,New York
+471,2024-11-23,Christina Weber,Hatchback,18000,2,36000,Debit Card,New York
+472,2024-09-12,Fred Rivas,Convertible,50000,2,100000,Cash,New York
+473,2024-11-15,Scott Lowe,Coupe,35000,1,35000,Cash,New York
+474,2024-10-31,Eric Holmes,Sedan,20000,1,20000,Debit Card,New York
+475,2024-12-16,Stephen Edwards,Coupe,35000,2,70000,Cash,New York
+476,2024-03-05,Ronald Mcgee,Hatchback,18000,1,18000,Credit Card,New York
+477,2025-02-16,James Sandoval,Sedan,20000,2,40000,PayPal,New York
+478,2025-02-16,Elizabeth Smith,Truck,40000,2,80000,Bank Transfer,New York
+479,2024-09-06,Mrs. Catherine Henderson DDS,Coupe,35000,2,70000,PayPal,New York
+480,2024-10-24,Sandra Gregory,Sedan,20000,1,20000,Bank Transfer,New York
+481,2024-10-16,William Durham,Electric Car,45000,1,45000,Cash,New York
+482,2024-09-23,Randy Hudson,Sedan,20000,2,40000,PayPal,New York
+483,2024-10-21,Danielle Pace,Sedan,20000,1,20000,Credit Card,New York
+484,2024-04-08,Alexis Davis,Electric Car,45000,2,90000,Debit Card,New York
+485,2024-04-24,Lisa Spence,Truck,40000,1,40000,Credit Card,New York
+486,2024-06-02,James Crane,SUV,30000,2,60000,PayPal,New York
+487,2024-03-24,Tiffany Smith,Sedan,20000,2,40000,Debit Card,New York
+488,2024-12-30,Brandi Curtis,Hatchback,18000,1,18000,Cash,New York
+489,2024-06-08,Sarah Watson,Luxury Car,70000,2,140000,Cash,New York
+490,2024-06-01,Vanessa Mccall DDS,SUV,30000,2,60000,Bank Transfer,New York
+491,2024-03-22,Keith Moore,Coupe,35000,2,70000,PayPal,New York
+492,2024-09-06,Edward Barnes,Minivan,25000,2,50000,Cash,New York
+493,2024-11-30,Stacie Bryant,Electric Car,45000,2,90000,Cash,New York
+494,2024-12-02,Derek Jones,Sports Car,60000,2,120000,Debit Card,New York
+495,2024-10-27,April Tucker,Truck,40000,1,40000,Cash,New York
+496,2024-05-26,Brandy Mills,Sports Car,60000,1,60000,Bank Transfer,New York
+497,2024-10-12,Kevin Roberts,Minivan,25000,2,50000,Debit Card,New York
+498,2024-08-31,Taylor Wilson,Coupe,35000,1,35000,Bank Transfer,New York
+499,2024-02-21,Vanessa Brown,Truck,40000,1,40000,PayPal,New York
+500,2024-12-04,Kerry Watson,Minivan,25000,1,25000,Debit Card,New York

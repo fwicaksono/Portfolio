@@ -1,0 +1,880 @@
+Location,Property_Type,Bedrooms,Amenities,Price_Per_Night,Occupancy_Rate,Total_Revenue,Month,Holiday_Season,Rating,Num_Reviews
+Bali,House,4,"Kitchen, Gym",187.72,0.93,5237.39,4,0,4.8,117
+Bandung,Apartment,5,"Kitchen, Parking, Pool, Gym, WiFi",287.35,0.8,6896.4,10,0,3.2,126
+Bandung,House,3,"Air Conditioning, WiFi, Kitchen, Pool",38.13,0.84,960.88,6,1,4.2,437
+Jakarta,Studio,2,"Parking, WiFi, Air Conditioning, Pool, Kitchen",58.37,0.84,1470.92,8,0,4.2,481
+Bali,Studio,5,"Gym, Parking",270.06,0.5,4050.9,8,0,3.1,189
+Bali,Villa,1,"Air Conditioning, Kitchen, Pool, Gym",217.21,0.5,3258.15,8,0,3.8,63
+Yogyakarta,Apartment,1,"Gym, Air Conditioning, Kitchen",110.28,0.91,3010.64,1,0,4.6,339
+Bali,Apartment,2,"Pool, Parking",265.5,0.71,5655.15,1,0,3.4,429
+Yogyakarta,Apartment,2,"Air Conditioning, Pool",126.84,0.65,2473.38,10,0,4.3,111
+Surabaya,Apartment,4,"WiFi, Kitchen, Pool, Gym",84.21,0.56,1414.73,3,0,3.9,250
+Surabaya,Studio,3,"WiFi, Kitchen",93.1,0.64,1787.52,2,0,3.4,157
+Bandung,House,2,"Kitchen, Pool",156.28,0.84,3938.26,2,0,4.8,244
+Bandung,Studio,1,"Kitchen, Parking, Pool",214.45,0.56,3602.76,7,1,3.0,419
+Surabaya,Villa,5,"Air Conditioning, Parking, WiFi, Gym, Kitchen",89.67,0.53,1425.75,7,1,3.8,18
+Surabaya,Studio,4,"Air Conditioning, Parking, Kitchen, Gym",181.46,0.79,4300.6,11,0,3.3,86
+Bali,Villa,3,"Gym, Kitchen, Parking, Pool, Air Conditioning",217.67,0.45,2938.55,12,1,3.2,447
+Surabaya,House,2,"Parking, WiFi, Kitchen, Air Conditioning",133.88,0.61,2450.0,5,0,4.8,335
+Yogyakarta,Studio,3,"Parking, WiFi",146.2,0.76,3333.36,4,0,3.6,11
+Bandung,Studio,3,"Pool, Parking, Gym, Air Conditioning",42.14,0.95,1200.99,9,0,5.0,247
+Bandung,Studio,2,"Gym, Pool, Air Conditioning",141.17,0.79,3345.73,6,1,4.7,139
+Jakarta,Studio,1,"Parking, Air Conditioning, WiFi",52.43,0.62,975.2,3,0,3.1,487
+Bandung,House,3,"Kitchen, Air Conditioning, Gym, Pool, Parking",176.2,0.58,3065.88,7,1,3.5,284
+Bandung,House,2,"Pool, Gym, Kitchen",60.5,0.51,925.65,4,0,4.2,309
+Bandung,Apartment,5,"Air Conditioning, WiFi",266.36,0.61,4874.39,1,0,4.2,55
+Bali,Apartment,3,"Air Conditioning, Parking, Kitchen, Pool, WiFi",75.35,0.87,1966.63,9,0,3.3,364
+Bandung,Apartment,4,"Pool, Kitchen, Parking",242.35,0.77,5598.28,12,1,4.3,101
+Jakarta,Villa,4,"Pool, WiFi",72.64,0.79,1721.57,3,0,4.3,184
+Surabaya,Studio,4,"Parking, Kitchen, Air Conditioning",260.31,0.69,5388.42,4,0,3.0,176
+Surabaya,Studio,4,"Parking, Pool, Kitchen",274.76,0.88,7253.66,8,0,3.0,389
+Bali,Apartment,2,"Gym, WiFi, Pool",89.89,0.67,1806.79,12,1,4.9,100
+Yogyakarta,Studio,3,"Kitchen, Gym, Pool",171.43,0.86,4422.89,9,0,3.9,320
+Surabaya,Villa,1,"Parking, WiFi, Pool",41.54,0.63,785.11,9,0,3.5,479
+Jakarta,Studio,5,"Parking, WiFi",183.44,0.93,5117.98,4,0,4.0,426
+Bali,Studio,4,"Parking, Gym, WiFi",164.95,0.81,4008.28,4,0,3.4,116
+Surabaya,Studio,1,"Gym, WiFi",244.93,0.74,5437.45,12,1,4.4,374
+Yogyakarta,House,5,"WiFi, Kitchen, Air Conditioning, Pool",284.5,0.77,6571.95,6,1,4.8,317
+Yogyakarta,Studio,1,"Kitchen, WiFi, Pool, Air Conditioning",133.41,0.63,2521.45,5,0,3.3,243
+Bandung,Studio,5,"Air Conditioning, Parking, Gym",278.49,0.84,7017.95,4,0,3.9,452
+Surabaya,Studio,4,"Gym, Pool, WiFi, Air Conditioning",183.61,0.67,3690.56,5,0,3.7,262
+Surabaya,Apartment,4,"Kitchen, Pool, Parking",84.45,0.75,1900.13,6,1,3.9,376
+Surabaya,Villa,1,"Kitchen, Gym, WiFi, Parking, Air Conditioning",52.39,0.92,1445.96,5,0,4.3,454
+Bandung,House,1,"Parking, Air Conditioning, Gym, Pool, Kitchen",75.91,0.77,1753.52,2,0,4.7,459
+Bali,Villa,1,"Gym, Parking, Pool",233.94,0.66,4632.01,3,0,4.2,38
+Surabaya,House,4,"Gym, Air Conditioning, WiFi, Parking, Pool",141.7,0.51,2168.01,12,1,4.2,419
+Jakarta,Villa,5,"Gym, WiFi, Pool, Parking",150.85,0.6,2715.3,1,0,3.3,17
+Surabaya,Apartment,4,"Pool, Gym, Kitchen",100.65,0.46,1388.97,3,0,3.6,177
+Surabaya,Villa,1,"WiFi, Air Conditioning, Kitchen, Pool, Parking",195.57,0.9,5280.39,7,1,3.3,130
+Jakarta,House,1,"Gym, Parking, Air Conditioning, Kitchen, WiFi",234.5,0.48,3376.8,1,0,4.2,360
+Bali,Apartment,3,"Air Conditioning, Gym, Parking",181.59,0.73,3976.82,5,0,4.0,298
+Surabaya,Studio,2,"Pool, Parking, Air Conditioning, Gym, WiFi",233.88,0.87,6104.27,11,0,3.1,110
+Bali,House,5,"Gym, WiFi, Pool",120.75,0.59,2137.27,12,1,3.3,33
+Bandung,Villa,2,"Air Conditioning, Gym, Pool, WiFi",264.73,0.51,4050.37,3,0,3.3,326
+Surabaya,Studio,3,"Kitchen, Pool, Parking",105.67,0.76,2409.28,6,1,4.8,418
+Yogyakarta,Villa,3,"Air Conditioning, Kitchen, WiFi, Parking",68.34,0.7,1435.14,11,0,3.5,450
+Bali,Villa,5,"WiFi, Air Conditioning, Pool, Kitchen",157.45,0.42,1983.87,2,0,3.2,389
+Yogyakarta,Studio,3,"Kitchen, Air Conditioning, Pool, WiFi",104.07,0.78,2435.24,1,0,4.5,175
+Bali,Apartment,1,"Pool, WiFi",51.34,0.42,646.88,9,0,4.3,495
+Jakarta,Apartment,1,"Gym, WiFi, Kitchen, Pool",201.65,0.43,2601.29,1,0,4.6,185
+Jakarta,Villa,4,"Kitchen, Parking, WiFi",62.03,0.41,762.97,4,0,4.2,433
+Jakarta,Villa,4,"WiFi, Parking, Kitchen, Air Conditioning",48.95,0.51,748.94,1,0,3.0,411
+Surabaya,House,2,"Gym, Air Conditioning, Parking",38.21,0.6,687.78,5,0,4.7,143
+Jakarta,House,4,"Kitchen, Gym, Parking, Pool, WiFi",282.39,0.41,3473.4,5,0,3.8,454
+Bandung,House,1,"Kitchen, Gym, Air Conditioning",177.45,0.7,3726.45,2,0,4.2,402
+Surabaya,House,2,"Pool, Gym, Kitchen, WiFi",284.7,0.89,7601.49,4,0,4.1,55
+Surabaya,Studio,2,"Air Conditioning, Gym, Pool, Kitchen, Parking",271.43,0.79,6432.89,5,0,3.2,272
+Surabaya,Studio,1,"Pool, Parking, Gym, Kitchen, Air Conditioning",87.55,0.81,2127.47,7,1,4.9,335
+Bandung,House,3,"Kitchen, Air Conditioning, WiFi, Parking, Pool",269.08,0.89,7184.44,3,0,3.4,321
+Surabaya,Apartment,3,"Parking, Gym, Air Conditioning, Pool",281.81,0.53,4480.78,12,1,3.3,293
+Surabaya,Apartment,5,"WiFi, Air Conditioning",39.95,0.94,1126.59,10,0,4.8,140
+Surabaya,Villa,3,"Parking, Gym",286.59,0.44,3782.99,10,0,4.5,296
+Jakarta,Apartment,4,"Pool, Gym",220.96,0.86,5700.77,2,0,4.5,477
+Jakarta,Apartment,2,"Air Conditioning, Gym, Parking",48.99,0.61,896.52,3,0,4.7,104
+Bali,Studio,1,"Gym, Kitchen, Pool, Air Conditioning, WiFi",88.22,0.61,1614.43,7,1,4.6,41
+Jakarta,Villa,4,"Kitchen, Air Conditioning, Parking, Pool",76.65,0.61,1402.7,12,1,3.1,387
+Bandung,House,1,"Kitchen, Gym, WiFi, Air Conditioning, Parking",51.81,0.64,994.75,6,1,3.6,47
+Bali,Villa,5,"Pool, Kitchen",175.71,0.82,4322.47,6,1,3.1,62
+Bali,Apartment,4,"Kitchen, WiFi, Air Conditioning",104.58,0.47,1474.58,3,0,3.2,203
+Surabaya,Apartment,3,"Gym, Kitchen",196.52,0.65,3832.14,10,0,4.8,20
+Bandung,Apartment,5,"Gym, Kitchen",135.66,0.53,2156.99,11,0,5.0,245
+Surabaya,Apartment,2,"WiFi, Gym, Pool, Kitchen, Parking",63.87,0.8,1532.88,2,0,3.3,102
+Yogyakarta,Studio,1,"Kitchen, WiFi, Air Conditioning, Gym",258.11,0.51,3949.08,6,1,3.1,392
+Bali,House,5,"WiFi, Air Conditioning",207.23,0.68,4227.49,8,0,4.2,134
+Surabaya,Apartment,2,"WiFi, Gym, Parking",215.39,0.5,3230.85,8,0,3.5,473
+Yogyakarta,House,1,"Pool, Air Conditioning",156.14,0.47,2201.57,1,0,3.4,236
+Bali,House,2,"Gym, WiFi",44.64,0.73,977.62,5,0,4.5,460
+Jakarta,Villa,5,"Parking, Pool, WiFi, Air Conditioning",152.85,0.65,2980.58,4,0,4.7,457
+Bandung,Villa,1,"Air Conditioning, Parking, Kitchen, Pool, WiFi",234.83,0.52,3663.35,4,0,3.1,316
+Yogyakarta,House,3,"Kitchen, Parking, WiFi",117.73,0.93,3284.67,3,0,3.3,393
+Bandung,Studio,1,"Parking, Air Conditioning, WiFi, Gym, Kitchen",101.55,0.69,2102.08,8,0,4.5,307
+Yogyakarta,House,1,"WiFi, Kitchen, Parking",73.99,0.42,932.27,11,0,5.0,292
+Bali,Apartment,2,"WiFi, Kitchen",200.23,0.7,4204.83,7,1,4.8,494
+Yogyakarta,House,2,"Gym, Pool",232.17,0.85,5920.33,5,0,4.3,283
+Surabaya,Studio,1,"Pool, Parking, Gym, Air Conditioning",219.18,0.92,6049.37,4,0,3.4,496
+Bandung,House,5,"Parking, Air Conditioning, Pool, Gym, Kitchen",210.68,0.47,2970.59,9,0,4.5,17
+Jakarta,Apartment,5,"Air Conditioning, Gym, Kitchen, Pool",197.22,0.51,3017.47,1,0,4.8,283
+Bandung,Apartment,5,"Kitchen, Pool",235.9,0.57,4033.89,8,0,4.4,420
+Yogyakarta,House,2,"Air Conditioning, Parking",281.82,0.89,7524.59,10,0,4.3,363
+Jakarta,Apartment,2,"Pool, WiFi, Parking, Air Conditioning",100.31,0.51,1534.74,8,0,3.9,410
+Surabaya,Villa,3,"WiFi, Parking, Gym, Kitchen, Air Conditioning",281.24,0.84,7087.25,8,0,3.9,454
+Surabaya,Apartment,2,"WiFi, Kitchen",230.56,0.7,4841.76,3,0,3.6,382
+Yogyakarta,Apartment,1,"Parking, Pool",273.68,0.67,5500.97,8,0,5.0,58
+Bandung,House,4,"Pool, Air Conditioning, WiFi",208.69,0.83,5196.38,6,1,4.2,254
+Jakarta,House,3,"WiFi, Air Conditioning",286.92,0.49,4217.72,4,0,4.6,33
+Bandung,Apartment,4,"Air Conditioning, Gym, Kitchen, WiFi",41.16,0.53,654.44,2,0,4.0,225
+Jakarta,Villa,2,"Pool, WiFi, Gym, Parking",294.36,0.64,5651.71,6,1,3.7,355
+Bali,Villa,1,"Air Conditioning, Kitchen",87.66,0.62,1630.48,12,1,3.2,34
+Surabaya,Villa,2,"Air Conditioning, Pool, Kitchen",150.95,0.56,2535.96,8,0,3.8,475
+Bali,Villa,2,"WiFi, Parking, Kitchen, Gym",97.09,0.69,2009.76,8,0,4.5,194
+Bali,House,1,"Gym, Parking, WiFi, Kitchen",79.04,0.8,1896.96,9,0,4.4,282
+Yogyakarta,Villa,4,"Pool, Parking",210.2,0.63,3972.78,10,0,4.6,418
+Surabaya,Apartment,5,"WiFi, Kitchen, Pool, Parking",48.92,0.46,675.1,11,0,4.7,289
+Jakarta,Apartment,2,"Kitchen, Pool",207.38,0.49,3048.49,10,0,4.2,355
+Surabaya,House,5,"Air Conditioning, Parking, Pool, Gym",234.45,0.6,4220.1,4,0,3.3,179
+Jakarta,Studio,3,"Parking, Pool, Kitchen, WiFi",204.94,0.49,3012.62,11,0,4.8,374
+Bandung,House,5,"Pool, WiFi, Parking, Kitchen, Air Conditioning",194.31,0.76,4430.27,9,0,4.7,403
+Bali,Apartment,4,"Air Conditioning, Kitchen",137.55,0.45,1856.93,12,1,3.2,358
+Bandung,Villa,4,"WiFi, Air Conditioning, Kitchen, Parking, Pool",126.94,0.56,2132.59,3,0,4.6,231
+Yogyakarta,House,4,"Parking, Pool, Air Conditioning, Kitchen, Gym",91.37,0.47,1288.32,6,1,4.7,15
+Jakarta,House,5,"Pool, Gym, WiFi, Kitchen",142.09,0.56,2387.11,3,0,4.2,456
+Bali,Studio,2,"Air Conditioning, Parking, WiFi, Gym, Kitchen",124.53,0.86,3212.87,6,1,4.8,88
+Surabaya,Studio,1,"Air Conditioning, WiFi, Pool, Gym, Parking",276.88,0.77,6395.93,2,0,3.4,73
+Bali,Studio,5,"Air Conditioning, Parking, Gym, WiFi",37.53,0.48,540.43,7,1,4.8,270
+Bandung,Studio,5,"WiFi, Pool, Parking, Air Conditioning, Gym",170.94,0.63,3230.77,1,0,3.7,354
+Surabaya,House,3,"Air Conditioning, Kitchen, Pool",147.5,0.44,1947.0,6,1,4.1,100
+Yogyakarta,Studio,3,"Kitchen, Parking, Air Conditioning",297.73,0.82,7324.16,4,0,3.8,395
+Yogyakarta,House,5,"Pool, Parking, Gym, WiFi, Air Conditioning",91.79,0.72,1982.66,1,0,3.1,67
+Bandung,Studio,5,"Air Conditioning, Gym",223.17,0.71,4753.52,9,0,3.3,48
+Yogyakarta,Studio,5,"WiFi, Gym, Kitchen, Parking, Air Conditioning",187.25,0.61,3426.67,12,1,4.4,249
+Surabaya,Apartment,1,"WiFi, Gym, Parking, Kitchen",234.18,0.66,4636.76,9,0,4.8,236
+Yogyakarta,Apartment,2,"WiFi, Kitchen, Parking, Pool",163.25,0.65,3183.38,12,1,4.6,74
+Bandung,Studio,3,"Parking, Gym, WiFi, Air Conditioning, Kitchen",290.07,0.75,6526.58,9,0,4.7,70
+Bandung,Apartment,4,"Pool, Gym, Kitchen",299.59,0.56,5033.11,4,0,4.4,284
+Bali,Apartment,1,"Kitchen, WiFi, Pool, Parking, Gym",227.29,0.85,5795.89,12,1,4.9,193
+Yogyakarta,House,3,"Air Conditioning, Gym, Parking",40.27,0.75,906.08,12,1,3.6,23
+Jakarta,House,4,"Parking, WiFi",172.49,0.92,4760.72,7,1,3.6,228
+Bali,Studio,2,"Kitchen, Gym, Pool",285.4,0.82,7020.84,2,0,3.1,358
+Surabaya,Villa,3,"Kitchen, WiFi, Pool, Gym",250.74,0.86,6469.09,9,0,3.4,162
+Surabaya,House,1,"Gym, Pool, Kitchen",237.09,0.63,4481.0,2,0,3.7,434
+Bali,Apartment,2,"WiFi, Gym, Kitchen, Air Conditioning, Parking",265.25,0.69,5490.67,2,0,3.2,29
+Jakarta,House,5,"Gym, Kitchen",260.47,0.56,4375.9,10,0,3.3,473
+Jakarta,House,2,"Gym, Parking",147.25,0.8,3534.0,10,0,4.8,404
+Bali,Villa,3,"Parking, Gym, Air Conditioning, Kitchen",143.04,0.84,3604.61,10,0,4.7,142
+Yogyakarta,House,3,"WiFi, Parking, Kitchen, Pool, Gym",252.86,0.91,6903.08,9,0,4.6,375
+Bandung,House,5,"Air Conditioning, WiFi, Parking, Pool, Gym",44.63,0.73,977.4,7,1,3.9,355
+Bali,Studio,2,"Kitchen, Gym, Pool, WiFi",216.86,0.42,2732.44,1,0,4.6,208
+Bali,Villa,5,"Pool, WiFi, Kitchen, Gym, Air Conditioning",81.37,0.59,1440.25,9,0,4.5,375
+Bandung,House,3,"Air Conditioning, Pool, Parking, Gym",248.56,0.56,4175.81,12,1,4.6,69
+Bali,Apartment,3,"Parking, Air Conditioning, Pool, Gym, Kitchen",277.33,0.69,5740.73,9,0,4.0,229
+Surabaya,Studio,1,"Air Conditioning, Gym, Pool, WiFi, Parking",276.43,0.67,5556.24,3,0,3.9,244
+Bali,Apartment,1,"WiFi, Gym, Kitchen",209.48,0.5,3142.2,1,0,4.8,16
+Surabaya,Apartment,2,"Parking, Gym, WiFi, Air Conditioning, Pool",99.98,0.8,2399.52,1,0,3.9,268
+Yogyakarta,Studio,3,"WiFi, Pool, Gym",248.79,0.87,6493.42,3,0,3.1,258
+Bali,Villa,5,"Air Conditioning, Gym, Parking",87.56,0.65,1707.42,5,0,4.2,111
+Jakarta,Apartment,5,"Parking, Pool",84.43,0.62,1570.4,3,0,3.5,426
+Bandung,Apartment,4,"WiFi, Kitchen, Gym, Pool",69.56,0.68,1419.02,7,1,5.0,284
+Bali,Villa,3,"Air Conditioning, Gym, Kitchen, WiFi",74.14,0.62,1379.0,6,1,3.2,27
+Jakarta,Apartment,1,"Gym, Air Conditioning, Kitchen, WiFi",187.33,0.92,5170.31,7,1,3.5,282
+Yogyakarta,House,1,"Gym, Kitchen, WiFi, Pool",184.13,0.69,3811.49,10,0,3.1,229
+Jakarta,Villa,2,"Air Conditioning, Pool",113.91,0.92,3143.92,1,0,3.4,234
+Jakarta,House,5,"WiFi, Pool",82.35,0.6,1482.3,7,1,4.1,238
+Yogyakarta,House,2,"Pool, Parking",121.56,0.87,3172.72,5,0,4.5,497
+Yogyakarta,Villa,3,"Gym, Parking",167.85,0.76,3826.98,11,0,3.1,257
+Yogyakarta,House,3,"Kitchen, WiFi, Parking",42.12,0.76,960.34,11,0,4.7,159
+Bali,Villa,2,"Parking, WiFi, Gym, Pool, Air Conditioning",158.15,0.94,4459.83,8,0,3.1,481
+Surabaya,Studio,2,"WiFi, Air Conditioning, Parking, Gym, Pool",189.11,0.56,3177.05,4,0,4.3,469
+Bandung,House,4,"Kitchen, Parking, Air Conditioning, Pool, Gym",281.58,0.43,3632.38,7,1,3.4,192
+Surabaya,Villa,2,"Parking, Gym, Air Conditioning",208.35,0.68,4250.34,4,0,4.6,161
+Surabaya,House,3,"Pool, Air Conditioning, Kitchen, WiFi, Gym",158.04,0.58,2749.9,11,0,4.9,304
+Bali,Apartment,4,"Air Conditioning, Parking",265.26,0.93,7400.75,6,1,3.2,420
+Bali,Studio,4,"Parking, Gym, Kitchen",99.57,0.53,1583.16,4,0,3.9,23
+Jakarta,House,1,"Gym, Air Conditioning, Parking",241.02,0.75,5422.95,12,1,3.9,494
+Bandung,Apartment,1,"Kitchen, Gym",104.88,0.7,2202.48,4,0,4.6,109
+Yogyakarta,Apartment,4,"Parking, Pool, Kitchen, Air Conditioning, Gym",235.26,0.94,6634.33,11,0,4.7,416
+Jakarta,Apartment,3,"Air Conditioning, Gym",96.44,0.87,2517.08,9,0,3.9,39
+Bali,Studio,4,"Parking, Gym, Air Conditioning",153.26,0.57,2620.75,6,1,3.3,419
+Bandung,Studio,1,"Parking, Kitchen, Air Conditioning, Pool",125.09,0.61,2289.15,1,0,4.0,287
+Surabaya,Studio,5,"Pool, Gym, Kitchen, WiFi",289.61,0.76,6603.11,4,0,3.4,403
+Bandung,Apartment,4,"Air Conditioning, Gym",83.05,0.45,1121.18,11,0,3.9,469
+Yogyakarta,Villa,2,"Air Conditioning, WiFi, Parking, Gym, Pool",292.2,0.53,4645.98,7,1,4.6,197
+Bandung,Apartment,3,"Air Conditioning, Parking, Pool, Gym",67.94,0.7,1426.74,7,1,4.1,117
+Surabaya,House,1,"Parking, Pool",142.38,0.6,2562.84,5,0,4.1,289
+Bandung,House,3,"Parking, Air Conditioning",189.74,0.59,3358.4,1,0,4.9,482
+Yogyakarta,House,3,"Kitchen, Pool",219.51,0.68,4478.0,3,0,3.8,60
+Surabaya,Studio,5,"Pool, Kitchen, WiFi, Air Conditioning",270.57,0.46,3733.87,8,0,3.4,420
+Surabaya,Apartment,2,"Air Conditioning, WiFi",185.25,0.7,3890.25,10,0,3.5,186
+Surabaya,Villa,4,"Pool, Parking, Kitchen, Gym, Air Conditioning",232.74,0.42,2932.52,4,0,4.4,51
+Jakarta,House,3,"Gym, Air Conditioning, Pool",66.5,0.72,1436.4,10,0,4.2,122
+Jakarta,Apartment,5,"WiFi, Pool, Kitchen, Gym, Parking",239.03,0.93,6668.94,3,0,4.0,324
+Yogyakarta,House,3,"Pool, Parking, Kitchen, Gym, Air Conditioning",112.88,0.87,2946.17,3,0,4.3,163
+Yogyakarta,Villa,3,"Parking, WiFi, Air Conditioning, Gym, Kitchen",84.41,0.92,2329.72,1,0,4.6,454
+Bali,House,3,"Kitchen, Parking, Air Conditioning, Gym, Pool",208.66,0.94,5884.21,8,0,4.0,90
+Yogyakarta,Studio,3,"Air Conditioning, WiFi, Parking",239.49,0.55,3951.59,4,0,3.3,271
+Jakarta,Villa,5,"WiFi, Gym, Air Conditioning, Parking, Kitchen",166.14,0.68,3389.26,6,1,4.9,231
+Jakarta,Villa,4,"Gym, WiFi, Air Conditioning, Kitchen",110.03,0.45,1485.4,7,1,4.1,490
+Surabaya,Villa,3,"Pool, Gym, Air Conditioning, Parking, WiFi",285.65,0.77,6598.51,4,0,3.6,84
+Bandung,Studio,2,"WiFi, Parking, Air Conditioning, Kitchen, Gym",267.66,0.93,7467.71,11,0,4.4,185
+Surabaya,Villa,3,"Gym, Kitchen, WiFi",41.78,0.69,864.85,7,1,3.6,338
+Jakarta,Studio,3,"Kitchen, Air Conditioning, Pool, Parking",208.42,0.79,4939.55,11,0,4.2,139
+Jakarta,Apartment,5,"Air Conditioning, Gym, WiFi",30.34,0.46,418.69,1,0,3.4,155
+Surabaya,Villa,1,"Air Conditioning, Gym, WiFi, Pool, Parking",118.13,0.77,2728.8,4,0,4.6,468
+Yogyakarta,Studio,2,"Parking, WiFi, Kitchen, Gym",149.68,0.47,2110.49,6,1,3.2,192
+Jakarta,House,5,"WiFi, Kitchen, Pool, Parking",157.52,0.86,4064.02,12,1,3.4,175
+Surabaya,Villa,2,"Parking, WiFi, Gym, Kitchen, Pool",131.06,0.59,2319.76,10,0,4.5,415
+Surabaya,House,5,"Pool, Gym",179.36,0.77,4143.22,11,0,3.9,182
+Bandung,House,2,"WiFi, Air Conditioning",63.41,0.9,1712.07,1,0,3.1,163
+Jakarta,House,5,"Kitchen, Pool, Air Conditioning, Gym, WiFi",257.39,0.65,5019.1,1,0,4.5,154
+Bali,House,1,"Kitchen, Gym, Air Conditioning, WiFi, Parking",198.51,0.74,4406.92,7,1,4.9,475
+Yogyakarta,House,4,"Pool, WiFi, Parking, Kitchen, Air Conditioning",45.96,0.61,841.07,2,0,4.0,37
+Bandung,Villa,4,"Gym, Air Conditioning, Kitchen",298.12,0.66,5902.78,10,0,3.9,369
+Surabaya,Apartment,3,"Kitchen, Pool, Air Conditioning",168.25,0.42,2119.95,11,0,4.0,415
+Surabaya,Studio,2,"Parking, Air Conditioning",245.12,0.88,6471.17,3,0,3.7,448
+Jakarta,Villa,2,"Gym, Parking, Pool, Kitchen",93.41,0.45,1261.04,8,0,3.5,156
+Surabaya,Apartment,3,"Kitchen, Pool, Gym",115.03,0.8,2760.72,12,1,3.9,399
+Surabaya,House,1,"Air Conditioning, Gym, Parking, WiFi",83.47,0.93,2328.81,11,0,3.2,146
+Surabaya,Villa,1,"Kitchen, Air Conditioning",241.32,0.52,3764.59,3,0,3.1,429
+Yogyakarta,Apartment,2,"Pool, Parking, WiFi, Gym",224.25,0.64,4305.6,9,0,4.9,499
+Surabaya,Studio,3,"Parking, Air Conditioning, WiFi, Gym, Kitchen",169.17,0.82,4161.58,1,0,4.8,316
+Bandung,Apartment,3,"Parking, Pool",171.09,0.7,3592.89,8,0,3.3,157
+Bali,Apartment,4,"WiFi, Kitchen",276.88,0.94,7808.02,11,0,4.2,208
+Yogyakarta,Apartment,1,"WiFi, Air Conditioning",195.4,0.67,3927.54,6,1,4.8,54
+Yogyakarta,Apartment,1,"Pool, Air Conditioning",140.7,0.63,2659.23,5,0,3.2,406
+Surabaya,Studio,4,"Parking, Air Conditioning, Gym, Kitchen",120.57,0.41,1483.01,8,0,3.7,209
+Jakarta,Studio,2,"Kitchen, Air Conditioning, Pool",49.73,0.69,1029.41,5,0,5.0,20
+Yogyakarta,Studio,2,"Kitchen, Gym, Pool",149.02,0.58,2592.95,12,1,4.7,202
+Bali,Villa,4,"Kitchen, Pool, Gym, Air Conditioning, WiFi",252.83,0.59,4475.09,12,1,3.8,178
+Surabaya,Apartment,2,"Gym, Pool, Kitchen, Parking, Air Conditioning",31.04,0.84,782.21,11,0,3.4,438
+Bandung,Studio,2,"WiFi, Gym, Kitchen, Air Conditioning, Parking",49.6,0.55,818.4,11,0,3.3,122
+Bandung,House,1,"Parking, Air Conditioning, Gym, Pool, WiFi",271.29,0.73,5941.25,1,0,4.5,377
+Bali,Apartment,4,"Air Conditioning, Gym, Parking, WiFi, Kitchen",234.71,0.72,5069.74,6,1,3.7,191
+Yogyakarta,Apartment,4,"Pool, WiFi",95.4,0.64,1831.68,5,0,3.4,362
+Bali,Apartment,5,"WiFi, Parking, Pool, Air Conditioning, Kitchen",245.28,0.55,4047.12,8,0,4.4,41
+Jakarta,Apartment,2,"Air Conditioning, Gym",41.91,0.49,616.08,8,0,4.4,120
+Bali,Studio,3,"Parking, Pool, Kitchen, WiFi, Air Conditioning",137.73,0.87,3594.75,2,0,3.9,190
+Bali,Villa,1,"Parking, WiFi",205.9,0.42,2594.34,4,0,3.1,141
+Bali,Villa,1,"Pool, Kitchen, Gym, Parking",216.45,0.76,4935.06,6,1,4.1,38
+Bali,Apartment,2,"Parking, Gym, Air Conditioning, Kitchen, WiFi",287.12,0.93,8010.65,10,0,3.6,108
+Surabaya,Villa,3,"Pool, Parking, WiFi, Air Conditioning, Gym",62.88,0.94,1773.22,6,1,3.6,278
+Bali,Villa,1,"Air Conditioning, Pool",299.11,0.71,6371.04,7,1,3.6,89
+Bandung,Studio,3,"Air Conditioning, Parking, WiFi, Pool",129.81,0.71,2764.95,8,0,4.5,125
+Jakarta,House,3,"Parking, Gym",226.09,0.64,4340.93,8,0,3.2,371
+Bali,Studio,2,"Pool, Gym, Parking, WiFi",232.95,0.82,5730.57,1,0,4.7,126
+Bali,Studio,3,"Pool, WiFi, Air Conditioning, Parking, Kitchen",278.94,0.89,7447.7,5,0,3.6,127
+Surabaya,Studio,3,"Air Conditioning, Pool",51.3,0.86,1323.54,2,0,4.6,279
+Surabaya,Apartment,2,"Pool, Parking, WiFi",106.5,0.55,1757.25,5,0,3.1,118
+Jakarta,Studio,3,"Parking, Kitchen",261.77,0.91,7146.32,6,1,3.1,420
+Jakarta,Studio,2,"Kitchen, WiFi",186.06,0.74,4130.53,7,1,4.8,368
+Yogyakarta,Villa,3,"Gym, Air Conditioning",132.03,0.55,2178.49,7,1,3.2,303
+Bali,Studio,3,"Pool, Parking",298.19,0.44,3936.11,6,1,4.0,89
+Jakarta,House,5,"Parking, Pool, Gym, Air Conditioning, Kitchen",69.16,0.88,1825.82,2,0,4.2,468
+Yogyakarta,House,2,"Kitchen, Gym",74.99,0.45,1012.37,11,0,4.6,310
+Jakarta,Villa,3,"Kitchen, Gym, Pool, WiFi",139.26,0.54,2256.01,4,0,4.2,154
+Yogyakarta,Villa,1,"Kitchen, Gym, Pool, Parking",207.31,0.73,4540.09,11,0,3.0,149
+Bali,Apartment,2,"WiFi, Parking",75.55,0.73,1654.55,7,1,5.0,439
+Surabaya,House,5,"Pool, Gym, WiFi, Parking, Kitchen",232.18,0.69,4806.13,5,0,4.6,361
+Surabaya,Studio,5,"Kitchen, Gym, WiFi, Parking",249.36,0.54,4039.63,2,0,4.4,347
+Bali,Apartment,4,"Pool, Parking, WiFi, Air Conditioning, Gym",231.61,0.51,3543.63,1,0,5.0,283
+Surabaya,Studio,5,"Gym, Parking, Pool",134.93,0.88,3562.15,11,0,3.0,104
+Bali,Apartment,3,"Kitchen, Gym, Pool, Air Conditioning",111.74,0.83,2782.33,12,1,3.5,253
+Surabaya,Studio,4,"WiFi, Parking, Kitchen, Pool, Air Conditioning",250.17,0.78,5853.98,8,0,3.8,243
+Surabaya,House,2,"Parking, Pool, Gym, Kitchen",237.96,0.91,6496.31,9,0,4.0,388
+Bandung,Studio,5,"Parking, Gym, WiFi, Pool",287.59,0.93,8023.76,3,0,4.1,276
+Bali,House,3,"Kitchen, Pool",266.54,0.63,5037.61,4,0,4.6,374
+Surabaya,House,3,"WiFi, Air Conditioning, Pool",84.11,0.65,1640.14,5,0,3.2,70
+Bandung,House,3,"Gym, Kitchen, Air Conditioning, WiFi, Parking",193.96,0.71,4131.35,5,0,3.0,219
+Surabaya,Apartment,4,"Pool, Air Conditioning",275.01,0.72,5940.22,6,1,3.4,425
+Bali,Villa,3,"WiFi, Air Conditioning, Parking, Pool",57.86,0.92,1596.94,5,0,3.4,226
+Bandung,Studio,4,"Parking, Air Conditioning, Gym, WiFi, Pool",120.99,0.84,3048.95,12,1,3.5,391
+Surabaya,Studio,1,"Air Conditioning, Pool, Gym, Parking, WiFi",214.53,0.43,2767.44,1,0,4.4,185
+Yogyakarta,Villa,5,"Gym, WiFi, Air Conditioning, Kitchen",120.54,0.84,3037.61,8,0,3.3,413
+Surabaya,Apartment,3,"Kitchen, WiFi",179.87,0.85,4586.68,1,0,4.6,464
+Jakarta,Apartment,3,"Kitchen, Pool, WiFi",119.38,0.92,3294.89,12,1,4.5,389
+Yogyakarta,Villa,3,"Parking, WiFi, Kitchen",170.74,0.45,2304.99,8,0,3.7,437
+Yogyakarta,House,2,"WiFi, Pool, Kitchen, Air Conditioning",278.02,0.4,3336.24,6,1,3.2,80
+Bali,Villa,4,"Kitchen, Pool, Parking, Air Conditioning",172.49,0.93,4812.47,2,0,4.0,136
+Surabaya,Apartment,4,"Kitchen, Pool, Parking, Gym, WiFi",242.23,0.6,4360.14,2,0,3.8,200
+Yogyakarta,Apartment,1,"Pool, Gym",93.73,0.48,1349.71,6,1,4.7,143
+Jakarta,Apartment,2,"Air Conditioning, WiFi, Parking",199.16,0.57,3405.64,8,0,4.1,31
+Jakarta,Apartment,1,"WiFi, Gym, Parking, Kitchen",146.67,0.51,2244.05,7,1,4.4,158
+Bali,Apartment,2,"Parking, WiFi",182.2,0.66,3607.56,6,1,3.4,498
+Surabaya,Studio,4,"Air Conditioning, Pool",233.99,0.47,3299.26,7,1,4.4,266
+Surabaya,Apartment,2,"Kitchen, Air Conditioning",52.5,0.6,945.0,3,0,3.8,172
+Bali,Apartment,1,"Gym, Pool, Air Conditioning, WiFi, Parking",75.75,0.71,1613.47,10,0,3.9,449
+Yogyakarta,Apartment,2,"Parking, WiFi, Gym, Kitchen, Pool",111.66,0.85,2847.33,5,0,3.5,359
+Jakarta,Apartment,2,"Pool, Gym, Air Conditioning",101.75,0.89,2716.73,7,1,3.5,469
+Yogyakarta,Apartment,5,"Pool, Air Conditioning",281.48,0.8,6755.52,12,1,3.2,87
+Yogyakarta,Studio,5,"Pool, Gym, WiFi, Parking, Air Conditioning",162.92,0.7,3421.32,4,0,3.1,210
+Bali,Studio,3,"WiFi, Air Conditioning",147.03,0.53,2337.78,5,0,4.8,435
+Surabaya,Villa,3,"Pool, Kitchen, Gym",91.65,0.86,2364.57,4,0,3.7,280
+Surabaya,House,1,"Parking, Gym",88.22,0.6,1587.96,5,0,3.1,283
+Bali,Studio,2,"Pool, Parking, WiFi, Gym",187.69,0.6,3378.42,6,1,3.9,431
+Bali,Villa,1,"Pool, Air Conditioning, WiFi, Parking, Gym",93.64,0.62,1741.7,11,0,4.3,308
+Bandung,Apartment,3,"Parking, Gym, Pool, Kitchen",102.31,0.44,1350.49,4,0,4.6,34
+Jakarta,Studio,4,"Kitchen, Gym, Parking, Pool",36.15,0.44,477.18,9,0,3.8,84
+Surabaya,Apartment,5,"Air Conditioning, Parking, Pool",189.02,0.43,2438.36,2,0,4.5,95
+Yogyakarta,Apartment,5,"Parking, Gym, Air Conditioning",149.11,0.62,2773.45,6,1,4.2,298
+Surabaya,Apartment,2,"Parking, Pool, Kitchen, WiFi",80.86,0.55,1334.19,2,0,3.6,67
+Surabaya,Villa,5,"Pool, Air Conditioning, WiFi",249.59,0.67,5016.76,3,0,3.9,491
+Bali,Studio,3,"Gym, Air Conditioning, WiFi, Parking, Pool",50.86,0.41,625.58,4,0,3.6,47
+Surabaya,Villa,5,"Air Conditioning, Kitchen, Parking",166.61,0.84,4198.57,8,0,4.6,174
+Bandung,Studio,4,"Gym, WiFi, Parking, Air Conditioning",207.58,0.92,5729.21,9,0,3.1,167
+Bali,Studio,5,"WiFi, Kitchen",87.8,0.93,2449.62,4,0,3.5,78
+Bali,Apartment,1,"Gym, Pool, Parking, WiFi, Air Conditioning",111.35,0.45,1503.23,3,0,3.4,184
+Bandung,Apartment,5,"Parking, Gym, WiFi, Kitchen, Air Conditioning",198.01,0.57,3385.97,9,0,3.8,32
+Bali,Villa,3,"Parking, Air Conditioning, Kitchen",169.13,0.49,2486.21,1,0,4.2,363
+Jakarta,Studio,2,"WiFi, Kitchen, Air Conditioning, Parking",167.7,0.79,3974.49,10,0,3.2,303
+Surabaya,Apartment,5,"Kitchen, Gym, WiFi, Air Conditioning",138.27,0.67,2779.23,11,0,3.6,66
+Bandung,Villa,4,"Gym, Kitchen, Parking",126.94,0.64,2437.25,4,0,3.2,16
+Yogyakarta,House,2,"WiFi, Kitchen, Parking",160.28,0.46,2211.86,3,0,4.3,365
+Yogyakarta,Studio,1,"Kitchen, WiFi, Pool",35.15,0.59,622.15,7,1,3.5,283
+Jakarta,Villa,1,"Pool, Gym, Parking, Kitchen",288.41,0.6,5191.38,5,0,4.2,254
+Bandung,House,1,"Pool, WiFi, Air Conditioning, Parking, Kitchen",250.49,0.65,4884.56,1,0,5.0,236
+Bandung,Studio,1,"Air Conditioning, Gym",201.18,0.87,5250.8,1,0,3.9,304
+Yogyakarta,Apartment,4,"WiFi, Air Conditioning, Parking",106.18,0.92,2930.57,7,1,3.0,144
+Surabaya,Villa,4,"Kitchen, WiFi",108.32,0.8,2599.68,5,0,4.4,209
+Bandung,Apartment,1,"Parking, WiFi, Pool",226.76,0.89,6054.49,7,1,3.6,444
+Bandung,House,4,"Gym, Air Conditioning, Kitchen",181.87,0.42,2291.56,12,1,3.2,21
+Jakarta,Apartment,1,"Parking, Kitchen, Air Conditioning",279.52,0.71,5953.78,12,1,3.3,247
+Jakarta,Studio,2,"Parking, Air Conditioning",256.71,0.52,4004.68,1,0,3.2,149
+Jakarta,Villa,2,"Parking, Kitchen, Gym, Air Conditioning, WiFi",148.74,0.54,2409.59,3,0,4.0,347
+Jakarta,House,2,"Air Conditioning, Pool, Gym",85.53,0.71,1821.79,9,0,4.5,458
+Surabaya,Apartment,3,"Air Conditioning, Pool, Parking",260.69,0.58,4536.01,11,0,4.8,10
+Jakarta,Apartment,1,"Gym, Air Conditioning, WiFi",250.92,0.79,5946.8,9,0,3.6,116
+Bandung,Studio,4,"Kitchen, Gym, Parking, Air Conditioning, WiFi",67.0,0.67,1346.7,6,1,4.2,416
+Jakarta,Studio,4,"Parking, Pool, Kitchen",268.83,0.68,5484.13,7,1,4.7,263
+Surabaya,Studio,5,"Gym, Kitchen, Parking, WiFi",133.41,0.63,2521.45,6,1,3.1,115
+Surabaya,Studio,1,"Gym, Parking",259.22,0.67,5210.32,12,1,4.2,275
+Yogyakarta,Villa,2,"Gym, WiFi, Air Conditioning, Parking",212.76,0.69,4404.13,4,0,3.7,231
+Bandung,Studio,4,"WiFi, Parking, Gym, Kitchen, Pool",176.79,0.68,3606.52,4,0,3.2,470
+Yogyakarta,House,1,"Parking, Kitchen, Gym, Air Conditioning",293.93,0.89,7847.93,10,0,3.8,415
+Surabaya,House,4,"Parking, Air Conditioning, WiFi, Gym, Kitchen",207.84,0.47,2930.54,9,0,3.1,32
+Jakarta,Villa,5,"Pool, Air Conditioning",206.64,0.8,4959.36,1,0,3.2,255
+Yogyakarta,Villa,1,"Parking, Pool, Kitchen, Air Conditioning, Gym",82.47,0.46,1138.09,3,0,4.3,12
+Bali,Villa,1,"Air Conditioning, Pool",80.81,0.65,1575.8,2,0,4.2,301
+Bandung,Studio,3,"Pool, WiFi, Gym, Kitchen, Parking",284.47,0.7,5973.87,3,0,4.7,285
+Yogyakarta,Studio,2,"WiFi, Air Conditioning, Parking, Kitchen",33.27,0.76,758.56,10,0,4.1,65
+Bali,Villa,2,"Kitchen, Pool, Gym, Parking",86.42,0.86,2229.64,11,0,4.4,485
+Surabaya,House,2,"Pool, Gym, WiFi",198.57,0.69,4110.4,9,0,4.4,245
+Jakarta,Villa,5,"Parking, Pool, Gym, WiFi, Kitchen",250.88,0.65,4892.16,11,0,4.4,438
+Jakarta,Studio,1,"Pool, Kitchen, WiFi, Parking, Air Conditioning",50.78,0.58,883.57,2,0,4.0,287
+Bali,Studio,1,"Pool, WiFi, Parking, Kitchen",194.13,0.57,3319.62,11,0,4.1,16
+Bandung,Villa,4,"Gym, Air Conditioning, Parking, WiFi, Kitchen",277.9,0.77,6419.49,10,0,4.9,159
+Jakarta,House,3,"WiFi, Gym, Kitchen",46.75,0.66,925.65,10,0,4.8,354
+Surabaya,House,4,"Parking, WiFi, Pool, Kitchen",114.79,0.42,1446.35,5,0,4.3,104
+Jakarta,Apartment,5,"WiFi, Kitchen",271.73,0.47,3831.39,7,1,3.9,341
+Bali,House,1,"WiFi, Air Conditioning",284.31,0.57,4861.7,11,0,3.7,319
+Jakarta,House,4,"Air Conditioning, Pool, Kitchen, WiFi, Parking",211.7,0.71,4509.21,4,0,4.5,203
+Yogyakarta,Apartment,5,"Parking, Pool",226.84,0.44,2994.29,9,0,4.5,391
+Surabaya,House,1,"Parking, WiFi",216.43,0.66,4285.31,9,0,3.9,486
+Bandung,Studio,2,"Air Conditioning, WiFi, Kitchen, Parking, Gym",188.91,0.73,4137.13,2,0,4.5,213
+Bali,Studio,3,"Air Conditioning, Parking, WiFi, Gym, Pool",270.35,0.87,7056.14,11,0,3.4,450
+Surabaya,Apartment,5,"Parking, Gym, Air Conditioning, WiFi, Pool",291.23,0.53,4630.56,7,1,4.3,195
+Yogyakarta,Villa,5,"Kitchen, Air Conditioning, Pool, Parking, Gym",252.63,0.62,4698.92,2,0,3.7,74
+Jakarta,Villa,1,"WiFi, Pool, Air Conditioning, Parking, Gym",213.77,0.68,4360.91,2,0,3.9,441
+Bali,House,4,"Gym, WiFi",184.94,0.43,2385.73,3,0,4.5,122
+Bali,Apartment,4,"Kitchen, Parking, WiFi, Pool",253.48,0.71,5399.12,12,1,4.9,145
+Jakarta,Villa,1,"Air Conditioning, Pool",40.44,0.46,558.07,10,0,3.4,69
+Bandung,Villa,3,"WiFi, Parking",41.72,0.75,938.7,2,0,4.0,265
+Surabaya,Studio,1,"Air Conditioning, Pool",212.88,0.67,4278.89,4,0,4.3,407
+Bandung,Studio,1,"Air Conditioning, WiFi",147.25,0.44,1943.7,4,0,3.3,458
+Yogyakarta,House,3,"Air Conditioning, Gym, WiFi",49.27,0.83,1226.82,1,0,3.0,254
+Bali,Studio,5,"Pool, Air Conditioning",79.26,0.46,1093.79,12,1,4.9,12
+Bali,Villa,5,"Kitchen, Gym",283.86,0.82,6982.96,9,0,3.3,294
+Bandung,Villa,1,"Kitchen, Parking, Air Conditioning, WiFi",271.39,0.77,6269.11,8,0,4.0,236
+Jakarta,Villa,1,"Gym, Pool, Air Conditioning",262.23,0.93,7316.22,5,0,3.9,50
+Bandung,Villa,5,"Pool, Air Conditioning, Parking, Gym, Kitchen",232.96,0.82,5730.82,12,1,3.3,491
+Yogyakarta,House,4,"Air Conditioning, Pool, WiFi",181.63,0.47,2560.98,4,0,4.9,262
+Yogyakarta,House,4,"WiFi, Gym",38.57,0.54,624.83,11,0,4.3,341
+Bandung,Villa,2,"WiFi, Pool, Kitchen",226.88,0.81,5513.18,7,1,4.2,275
+Bali,Villa,5,"Air Conditioning, Gym, Kitchen",186.4,0.66,3690.72,10,0,4.4,103
+Bali,Apartment,5,"Air Conditioning, Gym, Parking, Kitchen, Pool",163.08,0.7,3424.68,6,1,3.6,45
+Bali,House,1,"Parking, Gym, Kitchen, WiFi, Air Conditioning",172.36,0.72,3722.98,6,1,4.4,59
+Yogyakarta,House,5,"Parking, WiFi, Air Conditioning",65.63,0.81,1594.81,11,0,4.6,87
+Surabaya,Apartment,5,"Parking, WiFi",273.31,0.54,4427.62,3,0,4.1,83
+Bandung,Apartment,5,"Pool, Kitchen, WiFi, Air Conditioning, Gym",164.48,0.52,2565.89,2,0,3.7,175
+Bali,Villa,1,"Parking, Kitchen",288.37,0.86,7439.95,1,0,4.3,316
+Bali,Studio,4,"Kitchen, Pool, Gym",194.78,0.69,4031.95,10,0,4.2,407
+Jakarta,Villa,4,"Kitchen, Gym, Pool, WiFi",108.71,0.66,2152.46,9,0,3.6,111
+Bali,Studio,2,"Kitchen, Parking, Gym, Pool, Air Conditioning",122.48,0.94,3453.94,1,0,4.9,223
+Jakarta,Apartment,4,"Air Conditioning, Parking",111.73,0.76,2547.44,9,0,3.7,248
+Yogyakarta,Apartment,3,"Pool, Air Conditioning, WiFi, Kitchen",84.19,0.82,2071.07,2,0,3.9,425
+Bandung,Villa,1,"Kitchen, Air Conditioning",273.64,0.64,5253.89,3,0,3.3,262
+Bandung,Studio,3,"WiFi, Pool, Air Conditioning",196.24,0.79,4650.89,5,0,4.2,346
+Bandung,Villa,4,"Parking, Kitchen, Pool, Gym",220.98,0.44,2916.94,7,1,3.5,154
+Jakarta,Apartment,4,"Pool, Air Conditioning, Kitchen, Gym",253.63,0.63,4793.61,2,0,3.6,149
+Yogyakarta,Apartment,1,"Parking, WiFi, Gym, Kitchen, Pool",83.09,0.94,2343.14,12,1,3.9,34
+Jakarta,House,2,"Kitchen, WiFi, Parking, Pool",37.67,0.44,497.24,5,0,4.0,186
+Yogyakarta,Villa,3,"Kitchen, Air Conditioning, Gym, WiFi",171.03,0.88,4515.19,1,0,3.0,83
+Surabaya,House,5,"Parking, Gym, Air Conditioning",258.45,0.41,3178.93,10,0,4.4,389
+Surabaya,Villa,2,"Air Conditioning, Gym, Parking, Kitchen",269.59,0.41,3315.96,12,1,4.0,358
+Surabaya,House,3,"Gym, Kitchen, Parking, Pool",264.89,0.42,3337.61,12,1,3.0,334
+Bali,Apartment,1,"Pool, WiFi, Air Conditioning, Parking, Kitchen",288.12,0.79,6828.44,11,0,4.5,315
+Bandung,Apartment,5,"Air Conditioning, Pool, WiFi, Gym, Kitchen",217.23,0.88,5734.87,7,1,3.7,397
+Yogyakarta,Studio,2,"WiFi, Parking, Kitchen, Air Conditioning, Gym",233.03,0.86,6012.17,3,0,3.4,487
+Jakarta,Villa,5,"WiFi, Gym, Air Conditioning",247.98,0.48,3570.91,8,0,4.3,456
+Surabaya,House,5,"Air Conditioning, Gym, WiFi",213.89,0.5,3208.35,12,1,3.6,456
+Bali,House,4,"Kitchen, Air Conditioning, WiFi",131.75,0.8,3162.0,12,1,3.9,169
+Jakarta,Villa,4,"Kitchen, WiFi, Gym, Parking",253.31,0.66,5015.54,6,1,4.4,33
+Bali,Studio,5,"Air Conditioning, Kitchen, Pool, Gym, Parking",175.29,0.72,3786.26,10,0,4.8,97
+Bandung,Studio,4,"Parking, Pool",115.31,0.45,1556.69,3,0,4.8,165
+Yogyakarta,House,1,"WiFi, Kitchen, Parking, Gym, Pool",294.08,0.63,5558.11,10,0,3.1,128
+Yogyakarta,Apartment,2,"Pool, Air Conditioning",160.85,0.88,4246.44,4,0,4.8,284
+Surabaya,Studio,2,"Parking, Air Conditioning, Gym, WiFi",37.36,0.91,1019.93,2,0,4.8,259
+Bali,Apartment,2,"Gym, Kitchen, Parking, WiFi",270.06,0.48,3888.86,8,0,3.7,154
+Bali,Apartment,3,"Kitchen, Gym, Parking, WiFi",197.46,0.81,4798.28,4,0,4.9,377
+Jakarta,Apartment,4,"Kitchen, Air Conditioning, Gym, Parking",144.8,0.52,2258.88,10,0,4.0,256
+Bandung,Villa,1,"Gym, Pool, Kitchen, WiFi",175.84,0.81,4272.91,11,0,3.2,29
+Bali,House,2,"Gym, Parking, Air Conditioning",112.68,0.59,1994.44,10,0,4.0,309
+Jakarta,Villa,3,"WiFi, Parking, Gym, Air Conditioning, Kitchen",249.53,0.76,5689.28,9,0,4.3,301
+Surabaya,Apartment,3,"Air Conditioning, Gym, Kitchen, Parking, WiFi",50.94,0.5,764.1,4,0,4.7,374
+Surabaya,Studio,3,"Kitchen, Air Conditioning, WiFi, Pool, Gym",101.21,0.78,2368.31,7,1,3.9,274
+Jakarta,Villa,2,"Pool, Parking, Air Conditioning",267.85,0.68,5464.14,11,0,3.8,465
+Surabaya,House,4,"Parking, Gym, Pool, Air Conditioning",238.49,0.6,4292.82,10,0,4.4,19
+Bandung,Studio,3,"Kitchen, Pool, Parking, Air Conditioning",275.06,0.67,5528.71,4,0,4.0,157
+Yogyakarta,House,3,"Gym, Pool, Air Conditioning, Parking",186.0,0.7,3906.0,11,0,4.5,117
+Bandung,House,3,"Gym, Kitchen, Parking, Air Conditioning",34.98,0.87,912.98,8,0,4.7,256
+Surabaya,House,3,"Gym, Air Conditioning, WiFi, Parking",73.34,0.52,1144.1,9,0,3.5,208
+Surabaya,Apartment,5,"Air Conditioning, Pool, Kitchen",58.72,0.76,1338.82,4,0,3.2,489
+Yogyakarta,Apartment,5,"WiFi, Air Conditioning, Pool, Kitchen",48.87,0.58,850.34,2,0,3.7,56
+Bandung,Studio,1,"Gym, Parking, Kitchen",270.58,0.74,6006.88,7,1,4.0,351
+Yogyakarta,Apartment,3,"Air Conditioning, Parking, Pool",246.6,0.65,4808.7,1,0,3.3,341
+Jakarta,House,3,"WiFi, Air Conditioning",169.19,0.71,3603.75,2,0,3.5,93
+Yogyakarta,House,1,"Air Conditioning, Pool, Parking, Gym, WiFi",84.43,0.82,2076.98,1,0,3.2,125
+Surabaya,House,2,"Kitchen, WiFi, Pool, Parking, Air Conditioning",260.17,0.46,3590.35,2,0,3.6,197
+Bali,Apartment,5,"WiFi, Gym",100.06,0.62,1861.12,9,0,3.8,360
+Bandung,Studio,5,"Kitchen, WiFi",166.64,0.63,3149.5,5,0,3.9,72
+Bali,Villa,5,"WiFi, Kitchen, Gym, Air Conditioning",250.59,0.72,5412.74,7,1,4.7,177
+Surabaya,Apartment,1,"Kitchen, Parking, Air Conditioning, WiFi, Gym",116.61,0.82,2868.61,8,0,4.8,82
+Bali,Villa,1,"Gym, Pool",194.34,0.74,4314.35,7,1,4.4,481
+Surabaya,House,2,"Parking, Kitchen",79.25,0.79,1878.23,7,1,4.1,411
+Yogyakarta,House,3,"Pool, Parking, Air Conditioning, Kitchen",158.04,0.49,2323.19,3,0,3.5,451
+Yogyakarta,Apartment,4,"Kitchen, WiFi",252.78,0.68,5156.71,2,0,3.7,361
+Jakarta,House,3,"Parking, Gym",153.38,0.84,3865.18,8,0,4.9,87
+Surabaya,Villa,4,"Gym, Pool, Kitchen, WiFi",169.08,0.51,2586.92,11,0,4.1,448
+Yogyakarta,Villa,3,"Air Conditioning, Parking, Pool, Kitchen, Gym",195.77,0.41,2407.97,10,0,4.7,314
+Bali,Villa,4,"Kitchen, Air Conditioning, Parking, Gym, Pool",137.58,0.89,3673.39,6,1,4.5,126
+Bandung,Villa,4,"Air Conditioning, WiFi, Pool, Kitchen, Parking",45.6,0.91,1244.88,6,1,3.8,342
+Bandung,Villa,1,"Pool, WiFi, Gym, Kitchen",121.74,0.79,2885.24,12,1,4.6,451
+Surabaya,House,4,"Pool, Parking, Kitchen",257.16,0.71,5477.51,7,1,3.7,475
+Yogyakarta,Apartment,1,"WiFi, Gym, Parking, Kitchen, Air Conditioning",141.3,0.62,2628.18,4,0,4.5,243
+Yogyakarta,House,3,"Gym, Kitchen, WiFi, Pool",62.69,0.44,827.51,8,0,4.5,41
+Jakarta,Villa,4,"Air Conditioning, Pool, Gym, Kitchen, WiFi",185.59,0.79,4398.48,3,0,4.5,433
+Surabaya,House,1,"Pool, WiFi",200.53,0.58,3489.22,9,0,3.5,208
+Surabaya,Villa,2,"Gym, Pool, Parking, Air Conditioning, WiFi",209.86,0.73,4595.93,1,0,3.1,156
+Yogyakarta,Apartment,1,"Pool, Parking, Air Conditioning, Kitchen, WiFi",65.2,0.59,1154.04,12,1,3.7,371
+Bali,Villa,5,"Kitchen, Air Conditioning, Gym, WiFi, Parking",213.9,0.66,4235.22,11,0,4.8,164
+Bandung,Apartment,2,"Air Conditioning, Gym, Kitchen",30.66,0.92,846.22,8,0,3.5,362
+Bali,House,3,"Gym, Pool, WiFi, Kitchen",71.96,0.83,1791.8,2,0,3.1,474
+Bandung,Villa,3,"Pool, WiFi, Kitchen, Parking, Gym",161.76,0.91,4416.05,10,0,4.3,397
+Bali,House,5,"Gym, Kitchen, WiFi, Pool, Air Conditioning",203.8,0.61,3729.54,12,1,3.4,174
+Bandung,Apartment,2,"Air Conditioning, Pool, Gym, Parking",90.39,0.44,1193.15,12,1,3.2,414
+Yogyakarta,House,1,"WiFi, Air Conditioning, Gym, Parking",31.03,0.65,605.09,6,1,4.8,222
+Jakarta,House,3,"WiFi, Parking, Kitchen",298.81,0.9,8067.87,12,1,4.7,364
+Bandung,House,4,"Air Conditioning, Pool",128.86,0.52,2010.22,5,0,3.4,482
+Jakarta,House,3,"WiFi, Pool, Parking, Gym",261.32,0.65,5095.74,9,0,3.4,397
+Jakarta,Studio,2,"Gym, Air Conditioning, Pool, Parking",204.16,0.41,2511.17,8,0,3.6,426
+Yogyakarta,Villa,1,"Parking, Gym",280.23,0.4,3362.76,12,1,3.8,103
+Bali,Studio,4,"Gym, Parking, Pool",134.0,0.87,3497.4,11,0,5.0,294
+Surabaya,Studio,3,"Gym, Kitchen, Parking, Air Conditioning",65.36,0.8,1568.64,4,0,3.5,125
+Bali,Villa,4,"Parking, Kitchen, WiFi",187.13,0.53,2975.37,7,1,4.9,392
+Yogyakarta,Studio,5,"WiFi, Gym",106.88,0.63,2020.03,2,0,5.0,245
+Surabaya,House,5,"WiFi, Pool",106.58,0.57,1822.52,12,1,3.5,327
+Surabaya,Studio,4,"Pool, Kitchen, WiFi, Gym, Parking",130.42,0.86,3364.84,10,0,4.6,247
+Yogyakarta,Villa,1,"Air Conditioning, Parking, Gym, Kitchen, WiFi",294.72,0.77,6808.03,10,0,3.5,400
+Jakarta,Studio,2,"Parking, WiFi, Gym, Air Conditioning, Pool",55.89,0.6,1006.02,10,0,3.2,421
+Surabaya,House,4,"WiFi, Air Conditioning, Parking",195.47,0.85,4984.48,9,0,4.8,51
+Jakarta,Studio,4,"Pool, Parking, Gym, Kitchen, WiFi",212.65,0.95,6060.52,5,0,4.3,118
+Surabaya,House,4,"Gym, WiFi, Air Conditioning",72.18,0.45,974.43,8,0,3.6,488
+Yogyakarta,House,4,"WiFi, Gym",188.93,0.63,3570.78,3,0,4.9,416
+Jakarta,Apartment,4,"Kitchen, Pool, Parking, Gym, WiFi",89.8,0.4,1077.6,7,1,4.5,372
+Yogyakarta,Studio,2,"Pool, Air Conditioning, WiFi",298.26,0.51,4563.38,4,0,4.5,389
+Yogyakarta,Apartment,3,"Parking, Gym",191.93,0.84,4836.64,4,0,4.3,155
+Bali,House,4,"Gym, Air Conditioning",252.12,0.65,4916.34,11,0,3.9,54
+Surabaya,Apartment,5,"Gym, WiFi, Pool, Parking",104.73,0.9,2827.71,4,0,4.3,65
+Surabaya,Studio,5,"WiFi, Air Conditioning, Parking, Pool",296.34,0.74,6578.75,12,1,3.6,278
+Bali,Apartment,5,"Parking, Pool",166.24,0.76,3790.27,6,1,3.6,134
+Surabaya,Apartment,2,"Parking, Air Conditioning, Pool, Kitchen, Gym",99.32,0.5,1489.8,3,0,4.4,321
+Surabaya,Apartment,1,"Parking, Pool, WiFi",186.1,0.72,4019.76,11,0,4.0,99
+Yogyakarta,House,2,"Pool, Air Conditioning, Kitchen, WiFi, Gym",125.81,0.66,2491.04,8,0,3.3,492
+Bandung,House,1,"Pool, Parking, Gym, Air Conditioning, Kitchen",192.58,0.57,3293.12,3,0,4.9,307
+Bandung,Studio,5,"Gym, WiFi",30.52,0.53,485.27,7,1,4.8,71
+Yogyakarta,Studio,3,"Air Conditioning, Parking, Pool",31.93,0.81,775.9,10,0,4.4,347
+Bandung,Studio,1,"Pool, WiFi, Air Conditioning, Kitchen",103.63,0.47,1461.18,9,0,3.5,352
+Bandung,Studio,4,"Air Conditioning, Gym, Kitchen, WiFi",137.97,0.56,2317.9,5,0,3.0,117
+Surabaya,Studio,4,"WiFi, Parking, Pool",296.38,0.89,7913.35,4,0,4.0,108
+Surabaya,Studio,2,"Gym, Parking, WiFi, Pool",187.76,0.55,3098.04,8,0,4.5,390
+Yogyakarta,Studio,3,"Parking, Gym, Air Conditioning",147.21,0.57,2517.29,7,1,4.1,444
+Bali,House,2,"Gym, Kitchen",167.86,0.57,2870.41,11,0,4.0,114
+Bali,Villa,2,"WiFi, Gym, Kitchen, Air Conditioning",177.22,0.87,4625.44,5,0,3.2,101
+Surabaya,Villa,4,"Kitchen, Parking",282.94,0.62,5262.68,10,0,4.5,49
+Yogyakarta,Apartment,3,"Parking, Pool, WiFi, Gym",241.72,0.89,6453.92,4,0,4.8,25
+Bali,House,3,"Parking, Kitchen, Air Conditioning",160.76,0.54,2604.31,11,0,3.9,357
+Yogyakarta,House,1,"Pool, WiFi",152.14,0.79,3605.72,9,0,3.4,77
+Yogyakarta,Apartment,1,"WiFi, Parking",99.69,0.75,2243.03,5,0,3.0,316
+Bandung,Villa,4,"WiFi, Air Conditioning, Pool, Gym",255.64,0.58,4448.14,7,1,4.4,289
+Bandung,Villa,4,"WiFi, Parking",133.32,0.69,2759.72,12,1,4.0,123
+Surabaya,House,1,"WiFi, Gym",113.71,0.95,3240.73,12,1,4.7,355
+Yogyakarta,House,1,"Parking, WiFi, Air Conditioning, Kitchen, Pool",177.83,0.76,4054.52,10,0,3.7,231
+Bali,Apartment,5,"Gym, Parking, WiFi, Air Conditioning",62.76,0.45,847.26,11,0,4.7,208
+Bali,House,3,"WiFi, Pool",208.18,0.85,5308.59,10,0,4.6,234
+Bandung,Villa,1,"Kitchen, Air Conditioning, Pool, Parking",30.27,0.83,753.72,12,1,3.8,290
+Surabaya,House,5,"Gym, WiFi",38.81,0.73,849.94,4,0,4.9,87
+Yogyakarta,Apartment,5,"Pool, Parking, Kitchen, WiFi, Gym",70.25,0.93,1959.98,3,0,4.3,178
+Jakarta,Studio,1,"WiFi, Air Conditioning, Parking, Kitchen, Gym",278.36,0.44,3674.35,1,0,3.5,139
+Bandung,Studio,2,"WiFi, Parking, Pool, Kitchen",55.69,0.66,1102.66,11,0,5.0,36
+Bandung,Studio,4,"Air Conditioning, Parking",285.77,0.71,6086.9,12,1,4.3,245
+Surabaya,Apartment,3,"Parking, Pool, Kitchen, WiFi",246.61,0.4,2959.32,1,0,4.5,393
+Yogyakarta,Apartment,3,"Kitchen, Air Conditioning, Pool, Parking",147.6,0.45,1992.6,11,0,3.4,313
+Surabaya,Studio,4,"Gym, Pool, WiFi, Kitchen",50.3,0.6,905.4,7,1,4.1,421
+Bali,Studio,2,"Parking, Pool, Gym, WiFi",183.21,0.89,4891.71,10,0,4.4,388
+Bandung,Studio,3,"Air Conditioning, Parking, Pool, WiFi",164.72,0.49,2421.38,6,1,3.9,189
+Bali,Villa,4,"Kitchen, WiFi, Air Conditioning",146.8,0.67,2950.68,10,0,4.0,347
+Bali,Apartment,4,"WiFi, Parking, Gym, Pool",210.18,0.86,5422.64,9,0,4.9,152
+Bandung,Apartment,5,"Air Conditioning, Kitchen, Gym, Pool",87.3,0.58,1519.02,4,0,3.6,199
+Surabaya,House,4,"Kitchen, Air Conditioning",175.09,0.61,3204.15,3,0,4.4,374
+Bandung,House,5,"Pool, Gym, Air Conditioning, WiFi, Parking",264.74,0.86,6830.29,8,0,3.6,410
+Surabaya,Villa,3,"Pool, WiFi",275.74,0.6,4963.32,5,0,4.0,363
+Bandung,House,1,"Kitchen, WiFi, Gym, Pool, Parking",171.34,0.49,2518.7,10,0,4.7,299
+Bandung,Villa,4,"WiFi, Kitchen",216.98,0.68,4426.39,11,0,3.7,362
+Bali,Villa,1,"Pool, Air Conditioning, Parking, Kitchen",247.13,0.43,3187.98,4,0,3.5,164
+Bandung,Studio,1,"Kitchen, Gym, Parking, Air Conditioning, Pool",272.26,0.93,7596.05,4,0,3.3,366
+Bali,Studio,2,"Kitchen, WiFi, Pool, Gym",38.18,0.56,641.42,5,0,4.5,190
+Yogyakarta,Villa,4,"Parking, Kitchen",143.82,0.9,3883.14,6,1,3.3,378
+Surabaya,Apartment,5,"Kitchen, Pool",52.76,0.61,965.51,8,0,4.0,212
+Yogyakarta,House,2,"Kitchen, Gym, WiFi",55.48,0.68,1131.79,10,0,4.7,449
+Yogyakarta,House,5,"Parking, Gym, Pool, Air Conditioning",126.58,0.71,2696.15,5,0,3.4,311
+Bali,House,1,"Kitchen, Air Conditioning",84.59,0.67,1700.26,10,0,3.5,362
+Bali,House,3,"Kitchen, Parking, Gym, Pool",296.48,0.66,5870.3,7,1,4.6,135
+Yogyakarta,Studio,3,"Kitchen, Parking",92.95,0.71,1979.84,2,0,4.0,250
+Jakarta,Villa,4,"Air Conditioning, WiFi, Gym",56.15,0.76,1280.22,4,0,3.7,26
+Bali,Studio,3,"Gym, Parking, Air Conditioning, Pool, WiFi",199.29,0.91,5440.62,5,0,4.0,31
+Surabaya,Apartment,5,"Kitchen, WiFi, Air Conditioning, Gym",272.17,0.62,5062.36,8,0,4.5,125
+Jakarta,Villa,4,"Air Conditioning, WiFi, Gym, Pool",130.4,0.45,1760.4,1,0,4.4,151
+Jakarta,House,3,"Gym, WiFi, Parking, Pool",81.27,0.65,1584.76,9,0,4.7,469
+Bandung,House,3,"Air Conditioning, Parking, Kitchen, Gym, WiFi",63.29,0.72,1367.06,7,1,3.9,308
+Surabaya,House,5,"Pool, Gym",119.75,0.68,2442.9,1,0,4.0,85
+Jakarta,Villa,1,"Pool, Parking, WiFi, Air Conditioning, Kitchen",97.55,0.93,2721.64,6,1,4.4,444
+Surabaya,Apartment,1,"Pool, Kitchen",214.56,0.61,3926.45,9,0,3.8,63
+Bandung,House,2,"WiFi, Air Conditioning, Pool, Gym, Kitchen",206.04,0.83,5130.4,4,0,3.9,191
+Yogyakarta,Villa,4,"Gym, Kitchen, Air Conditioning",119.33,0.75,2684.93,1,0,4.6,71
+Bandung,Apartment,4,"Pool, Air Conditioning, Kitchen",128.47,0.75,2890.57,2,0,5.0,432
+Bandung,Studio,1,"Air Conditioning, Gym, Kitchen, Parking, Pool",47.47,0.54,769.01,7,1,5.0,222
+Jakarta,Apartment,2,"Air Conditioning, WiFi, Gym, Pool",62.58,0.52,976.25,7,1,4.5,94
+Yogyakarta,Villa,1,"Kitchen, Air Conditioning, Pool, Gym",97.66,0.79,2314.54,3,0,3.5,400
+Bandung,Villa,1,"Kitchen, Pool, WiFi",129.94,0.87,3391.43,1,0,3.7,425
+Bandung,Apartment,2,"Pool, Air Conditioning, WiFi, Parking, Kitchen",166.37,0.95,4741.55,3,0,3.7,37
+Yogyakarta,Studio,4,"Air Conditioning, Gym, WiFi, Pool",212.2,0.67,4265.22,3,0,4.2,201
+Bali,Apartment,3,"Gym, Parking, Pool",48.8,0.89,1302.96,1,0,4.7,92
+Yogyakarta,Studio,5,"Kitchen, Pool, WiFi, Parking, Air Conditioning",234.21,0.42,2951.05,7,1,3.8,163
+Bali,House,3,"Air Conditioning, Parking",218.24,0.65,4255.68,9,0,3.7,326
+Jakarta,Studio,1,"Air Conditioning, Kitchen, Pool, Parking",121.08,0.83,3014.89,1,0,3.7,368
+Bandung,Villa,5,"Kitchen, Air Conditioning, Parking, Gym, WiFi",211.8,0.76,4829.04,5,0,4.9,285
+Bali,Villa,4,"Parking, Gym, WiFi, Kitchen",109.17,0.87,2849.34,9,0,4.6,291
+Bali,Villa,4,"WiFi, Air Conditioning, Kitchen",203.59,0.72,4397.54,5,0,3.9,75
+Surabaya,Villa,4,"Gym, Pool",38.98,0.58,678.25,4,0,3.3,408
+Bandung,Villa,1,"Air Conditioning, Pool, Parking, Gym",141.58,0.89,3780.19,12,1,4.2,300
+Surabaya,Studio,1,"Pool, Parking, Kitchen, WiFi",137.29,0.94,3871.58,3,0,3.4,29
+Surabaya,House,4,"Pool, WiFi, Parking",189.56,0.69,3923.89,9,0,3.5,422
+Surabaya,House,1,"Pool, Air Conditioning, WiFi, Parking",225.16,0.43,2904.56,11,0,4.8,311
+Yogyakarta,Villa,3,"Parking, Pool, Air Conditioning",295.62,0.54,4789.04,8,0,4.7,164
+Surabaya,House,5,"Kitchen, Air Conditioning, Gym",60.31,0.79,1429.35,11,0,3.0,370
+Bandung,Studio,4,"Air Conditioning, Gym, Parking, WiFi, Pool",204.16,0.92,5634.82,9,0,3.4,78
+Bali,Studio,4,"Air Conditioning, Gym",165.12,0.4,1981.44,10,0,3.6,63
+Surabaya,Studio,4,"WiFi, Pool, Parking, Gym, Air Conditioning",121.44,0.7,2550.24,9,0,3.6,391
+Jakarta,Apartment,2,"Pool, WiFi",106.84,0.48,1538.5,10,0,4.6,120
+Jakarta,Villa,4,"Gym, Parking",139.95,0.77,3232.84,9,0,4.2,439
+Bandung,Apartment,5,"WiFi, Air Conditioning, Pool",259.07,0.82,6373.12,8,0,3.5,457
+Surabaya,Apartment,5,"Gym, WiFi",182.06,0.47,2567.05,7,1,4.0,422
+Surabaya,Villa,2,"Kitchen, Pool, WiFi, Air Conditioning",58.89,0.91,1607.7,3,0,3.7,173
+Jakarta,Villa,1,"Pool, Kitchen, Gym, WiFi",264.03,0.65,5148.59,3,0,4.9,273
+Surabaya,House,1,"Pool, Parking, Kitchen, Gym",90.26,0.43,1164.35,10,0,3.3,467
+Jakarta,House,3,"Pool, Parking, Kitchen",283.25,0.54,4588.65,7,1,3.9,410
+Bali,Villa,2,"Kitchen, Pool, Gym",76.09,0.86,1963.12,6,1,4.2,449
+Bali,Villa,1,"Gym, WiFi, Parking, Air Conditioning, Pool",53.24,0.92,1469.42,1,0,3.0,338
+Surabaya,House,3,"Air Conditioning, Pool, WiFi",70.35,0.7,1477.35,4,0,3.6,366
+Bandung,House,2,"Pool, Parking, Kitchen, Air Conditioning, Gym",116.12,0.81,2821.72,5,0,4.0,319
+Surabaya,Studio,3,"WiFi, Gym, Kitchen, Air Conditioning",256.95,0.85,6552.22,3,0,3.3,385
+Yogyakarta,Apartment,2,"WiFi, Gym, Kitchen, Pool, Air Conditioning",189.51,0.86,4889.36,10,0,3.8,434
+Bandung,Apartment,2,"Pool, Parking, Air Conditioning, Kitchen",106.41,0.53,1691.92,4,0,3.8,441
+Bandung,Apartment,4,"Kitchen, Parking",213.39,0.67,4289.14,1,0,4.1,138
+Bandung,Villa,4,"Pool, Gym, Kitchen",114.12,0.93,3183.95,9,0,4.4,492
+Jakarta,Apartment,2,"Pool, Gym, Parking",270.2,0.91,7376.46,6,1,4.6,257
+Yogyakarta,Studio,4,"Air Conditioning, WiFi, Parking, Pool",103.5,0.7,2173.5,1,0,4.5,253
+Bali,Villa,1,"Parking, Gym, Air Conditioning, Pool",84.11,0.78,1968.17,4,0,3.9,403
+Surabaya,Villa,2,"Parking, WiFi, Pool, Kitchen, Gym",206.75,0.45,2791.13,11,0,3.3,279
+Surabaya,House,1,"Kitchen, Gym, Parking, Pool, WiFi",48.36,0.88,1276.7,10,0,4.1,153
+Bandung,Studio,1,"WiFi, Parking",126.57,0.76,2885.8,4,0,4.2,70
+Bali,House,3,"Gym, Pool",296.43,0.69,6136.1,10,0,4.7,87
+Surabaya,Villa,3,"Parking, Pool, Air Conditioning",170.16,0.69,3522.31,6,1,4.4,386
+Jakarta,House,3,"WiFi, Parking, Kitchen",253.07,0.46,3492.37,7,1,4.4,320
+Yogyakarta,Villa,3,"Kitchen, Gym",128.09,0.66,2536.18,5,0,4.2,36
+Surabaya,Villa,1,"Pool, Kitchen, WiFi, Air Conditioning, Parking",50.16,0.46,692.21,5,0,4.6,229
+Bali,Studio,4,"WiFi, Air Conditioning, Gym",228.69,0.46,3155.92,1,0,3.8,421
+Jakarta,Studio,3,"WiFi, Gym, Air Conditioning, Kitchen, Pool",206.87,0.57,3537.48,7,1,4.3,482
+Yogyakarta,Apartment,5,"Parking, Air Conditioning",68.92,0.62,1281.91,5,0,3.3,121
+Bali,Studio,2,"Parking, WiFi, Pool, Air Conditioning, Kitchen",154.53,0.88,4079.59,2,0,4.9,389
+Jakarta,House,1,"Air Conditioning, Kitchen, WiFi, Gym",208.34,0.76,4750.15,4,0,3.3,496
+Yogyakarta,House,5,"WiFi, Gym, Pool, Parking",260.06,0.86,6709.55,8,0,3.5,197
+Bandung,House,4,"Gym, Kitchen, Parking, Pool",150.0,0.93,4185.0,5,0,3.5,267
+Yogyakarta,Apartment,1,"Kitchen, Gym",164.5,0.45,2220.75,5,0,3.3,217
+Bandung,House,5,"WiFi, Parking, Kitchen, Pool, Air Conditioning",142.72,0.9,3853.44,3,0,4.8,189
+Bali,House,3,"WiFi, Air Conditioning, Parking, Pool, Gym",139.7,0.74,3101.34,8,0,3.2,431
+Bandung,Studio,5,"Parking, Gym",265.26,0.53,4217.63,10,0,3.4,170
+Surabaya,House,3,"Air Conditioning, Gym, Kitchen",286.46,0.76,6531.29,10,0,3.7,134
+Jakarta,Apartment,5,"WiFi, Pool, Parking, Kitchen, Gym",63.65,0.79,1508.51,2,0,5.0,50
+Bandung,Villa,1,"Kitchen, Parking, Gym, WiFi",256.26,0.49,3767.02,7,1,4.5,319
+Surabaya,Apartment,1,"Gym, Air Conditioning, Parking, Kitchen",191.63,0.56,3219.38,12,1,4.5,53
+Bandung,Apartment,4,"Pool, Kitchen, Parking, WiFi, Air Conditioning",51.36,0.43,662.54,10,0,4.8,140
+Surabaya,Villa,4,"Gym, Kitchen, Pool, Air Conditioning",95.3,0.55,1572.45,3,0,3.1,218
+Surabaya,House,5,"Gym, Parking, Pool, Kitchen",39.7,0.85,1012.35,7,1,3.5,71
+Jakarta,Villa,4,"Kitchen, Gym",295.23,0.74,6554.11,2,0,4.5,424
+Yogyakarta,Villa,3,"Gym, WiFi",185.71,0.66,3677.06,12,1,3.2,315
+Yogyakarta,Villa,1,"Pool, Gym, WiFi, Parking",226.65,0.89,6051.56,11,0,4.3,18
+Surabaya,Studio,5,"Gym, Kitchen, Parking",50.96,0.41,626.81,12,1,3.5,442
+Bandung,Apartment,1,"Parking, Kitchen, Pool, WiFi",51.67,0.62,961.06,10,0,4.8,408
+Bandung,Villa,4,"Kitchen, Gym",51.1,0.93,1425.69,9,0,3.4,462
+Yogyakarta,Villa,3,"WiFi, Gym, Kitchen, Air Conditioning",192.54,0.63,3639.01,12,1,4.3,360
+Surabaya,Villa,4,"Kitchen, Gym",57.51,0.77,1328.48,6,1,4.1,404
+Jakarta,House,1,"Air Conditioning, Parking",122.04,0.54,1977.05,1,0,3.0,495
+Yogyakarta,Apartment,4,"Parking, WiFi",277.16,0.82,6818.14,2,0,4.6,395
+Surabaya,Villa,3,"Kitchen, Air Conditioning, Pool, Gym, Parking",289.76,0.4,3477.12,12,1,3.5,251
+Yogyakarta,House,2,"Kitchen, Air Conditioning",143.98,0.77,3325.94,4,0,4.5,423
+Yogyakarta,House,1,"Parking, Pool, WiFi",126.17,0.42,1589.74,4,0,3.4,462
+Bali,Villa,2,"Air Conditioning, Kitchen, WiFi, Pool, Gym",233.16,0.58,4056.98,5,0,4.5,493
+Surabaya,Studio,2,"Gym, Air Conditioning",167.98,0.75,3779.55,3,0,4.0,318
+Yogyakarta,House,1,"Parking, Kitchen, WiFi, Gym, Air Conditioning",93.66,0.47,1320.61,3,0,4.3,179
+Jakarta,Villa,2,"Parking, WiFi, Air Conditioning, Gym",107.7,0.86,2778.66,8,0,3.4,351
+Jakarta,Apartment,1,"Kitchen, Pool, WiFi",167.61,0.69,3469.53,11,0,4.8,448
+Surabaya,Studio,4,"Kitchen, Air Conditioning, Gym, Pool",50.7,0.85,1292.85,2,0,3.0,207
+Jakarta,Apartment,4,"Air Conditioning, Kitchen, Gym, Pool",78.88,0.71,1680.14,2,0,3.0,134
+Surabaya,Apartment,3,"Air Conditioning, Kitchen, Gym, WiFi",262.35,0.76,5981.58,6,1,3.1,107
+Surabaya,Studio,1,"Air Conditioning, Kitchen, WiFi, Parking",148.34,0.54,2403.11,10,0,3.8,268
+Bandung,Apartment,3,"WiFi, Parking",225.77,0.93,6298.98,2,0,4.8,186
+Surabaya,House,3,"WiFi, Air Conditioning, Kitchen, Pool, Parking",288.69,0.65,5629.45,10,0,4.1,388
+Jakarta,Studio,5,"Gym, Air Conditioning, Kitchen",136.96,0.67,2752.9,8,0,4.7,137
+Yogyakarta,Studio,1,"Parking, WiFi",43.94,0.94,1239.11,12,1,4.2,214
+Yogyakarta,House,1,"Parking, Kitchen, Pool, Air Conditioning, Gym",56.57,0.71,1204.94,2,0,3.5,45
+Bandung,Studio,3,"WiFi, Parking, Kitchen",196.87,0.81,4783.94,9,0,3.4,20
+Bandung,Apartment,1,"WiFi, Gym, Parking, Kitchen",241.53,0.42,3043.28,10,0,3.7,166
+Bandung,Apartment,2,"WiFi, Air Conditioning, Gym",107.88,0.82,2653.85,6,1,4.6,419
+Surabaya,Apartment,4,"Pool, WiFi, Parking",53.88,0.83,1341.61,12,1,3.6,203
+Jakarta,Apartment,3,"Kitchen, WiFi, Parking",98.28,0.53,1562.65,5,0,4.2,87
+Yogyakarta,Apartment,1,"Parking, Pool",74.65,0.55,1231.73,7,1,3.0,320
+Jakarta,Studio,1,"Parking, Air Conditioning, Pool",215.64,0.84,5434.13,9,0,3.1,324
+Bandung,Villa,5,"Parking, Kitchen, Pool, Air Conditioning, Gym",124.08,0.51,1898.42,11,0,3.7,388
+Surabaya,House,1,"Pool, WiFi, Gym, Kitchen, Air Conditioning",226.45,0.87,5910.34,12,1,3.8,209
+Bali,Villa,2,"Pool, Air Conditioning",45.95,0.53,730.61,1,0,3.8,132
+Bali,Apartment,5,"Pool, Parking, WiFi, Air Conditioning",243.99,0.67,4904.2,7,1,4.6,25
+Yogyakarta,Villa,4,"Parking, Kitchen, Pool",46.18,0.92,1274.57,10,0,3.9,199
+Bandung,Apartment,5,"Pool, Parking",146.59,0.77,3386.23,4,0,4.8,382
+Jakarta,Apartment,4,"WiFi, Parking",134.85,0.93,3762.32,5,0,3.2,229
+Surabaya,House,3,"WiFi, Pool, Kitchen, Parking, Gym",228.71,0.89,6106.56,5,0,3.2,144
+Jakarta,Villa,1,"Air Conditioning, Gym, Pool, Parking, WiFi",191.34,0.7,4018.14,5,0,4.3,36
+Bali,Villa,5,"Gym, WiFi",49.92,0.59,883.58,10,0,4.2,170
+Bandung,Villa,5,"Gym, Kitchen, WiFi, Pool, Parking",50.12,0.4,601.44,8,0,3.7,42
+Bali,House,2,"Air Conditioning, Parking, WiFi, Kitchen, Pool",225.03,0.76,5130.68,8,0,4.2,155
+Jakarta,Villa,3,"Kitchen, Air Conditioning",63.46,0.45,856.71,3,0,4.7,362
+Jakarta,House,5,"Gym, Air Conditioning, Pool, WiFi",150.64,0.87,3931.7,3,0,4.0,151
+Bandung,Apartment,1,"Air Conditioning, Parking",191.99,0.72,4146.98,7,1,4.3,418
+Surabaya,House,1,"Gym, Air Conditioning",117.82,0.53,1873.34,5,0,4.4,156
+Yogyakarta,Studio,2,"Parking, Pool, Air Conditioning",192.15,0.64,3689.28,1,0,4.4,46
+Surabaya,Apartment,2,"Gym, Pool, Parking",141.86,0.9,3830.22,11,0,4.8,178
+Surabaya,Studio,2,"Air Conditioning, Gym",286.25,0.85,7299.38,1,0,4.1,13
+Bandung,Apartment,3,"WiFi, Gym, Parking, Pool",103.3,0.93,2882.07,9,0,4.3,63
+Yogyakarta,House,3,"Gym, Air Conditioning",117.48,0.43,1515.49,3,0,4.2,284
+Bandung,House,1,"Air Conditioning, Gym, WiFi",242.12,0.85,6174.06,4,0,3.4,499
+Jakarta,Apartment,3,"Kitchen, Pool, Parking, Gym",277.14,0.41,3408.82,2,0,3.8,198
+Jakarta,Apartment,2,"Pool, WiFi, Air Conditioning, Kitchen, Parking",143.1,0.64,2747.52,9,0,4.8,236
+Yogyakarta,Villa,1,"Gym, Air Conditioning, Parking, WiFi",149.92,0.78,3508.13,11,0,4.5,358
+Surabaya,Studio,2,"Kitchen, WiFi, Pool, Parking, Gym",186.55,0.9,5036.85,10,0,4.9,91
+Bali,Apartment,4,"Parking, Kitchen, WiFi, Air Conditioning, Pool",213.73,0.79,5065.4,10,0,3.6,397
+Jakarta,Studio,5,"Parking, Kitchen",179.16,0.51,2741.15,6,1,3.4,110
+Bandung,Studio,5,"Pool, Gym, Kitchen, Air Conditioning",171.7,0.45,2317.95,5,0,4.7,91
+Jakarta,Villa,3,"Pool, WiFi, Gym",70.49,0.72,1522.58,10,0,4.6,321
+Jakarta,Apartment,4,"WiFi, Pool, Kitchen, Gym",230.83,0.59,4085.69,8,0,3.7,142
+Yogyakarta,Studio,1,"Gym, Pool",218.36,0.67,4389.04,1,0,4.2,150
+Surabaya,House,1,"Air Conditioning, Parking, Pool",229.59,0.67,4614.76,2,0,4.9,109
+Bali,Villa,3,"WiFi, Parking, Kitchen, Pool, Air Conditioning",207.1,0.85,5281.05,1,0,4.5,264
+Surabaya,Apartment,2,"WiFi, Pool, Gym, Kitchen, Parking",284.49,0.8,6827.76,8,0,4.7,436
+Bali,House,3,"WiFi, Air Conditioning, Parking",150.44,0.62,2798.18,4,0,3.8,21
+Jakarta,House,2,"Pool, Air Conditioning, Gym, WiFi",145.88,0.9,3938.76,4,0,3.6,257
+Surabaya,Apartment,2,"WiFi, Kitchen, Parking, Gym",261.93,0.49,3850.37,4,0,3.6,37
+Bali,House,4,"Air Conditioning, WiFi",113.86,0.47,1605.43,12,1,4.9,377
+Bali,Studio,4,"WiFi, Air Conditioning, Parking",222.67,0.84,5611.28,1,0,4.9,460
+Jakarta,Villa,1,"Parking, WiFi, Kitchen, Air Conditioning, Gym",178.73,0.91,4879.33,10,0,4.1,219
+Yogyakarta,Studio,3,"Air Conditioning, Pool, Gym, Parking",264.3,0.83,6581.07,9,0,4.1,474
+Bali,House,2,"Kitchen, WiFi, Gym",223.99,0.65,4367.81,4,0,4.4,228
+Bandung,Apartment,2,"Gym, WiFi",227.84,0.77,5263.1,9,0,4.6,160
+Jakarta,Villa,1,"WiFi, Kitchen, Pool, Air Conditioning, Gym",69.66,0.65,1358.37,1,0,4.4,235
+Jakarta,Villa,5,"Parking, WiFi, Air Conditioning, Pool, Gym",49.71,0.47,700.91,5,0,4.3,118
+Yogyakarta,Villa,2,"Pool, Kitchen, Air Conditioning, WiFi",102.84,0.7,2159.64,9,0,3.7,266
+Jakarta,Apartment,5,"Kitchen, Air Conditioning, Gym, Pool, WiFi",150.88,0.7,3168.48,10,0,4.0,249
+Yogyakarta,Villa,2,"Pool, Gym, Air Conditioning, Parking, Kitchen",89.56,0.74,1988.23,2,0,3.3,398
+Bandung,House,4,"Air Conditioning, WiFi, Kitchen",130.54,0.72,2819.66,1,0,4.6,335
+Bali,Villa,3,"Gym, Kitchen, WiFi, Air Conditioning",263.37,0.62,4898.68,4,0,3.9,361
+Bandung,Villa,1,"Pool, Parking, Air Conditioning, WiFi",258.9,0.52,4038.84,2,0,3.1,182
+Yogyakarta,Apartment,4,"Pool, Gym, Kitchen, Parking, Air Conditioning",76.11,0.76,1735.31,3,0,3.5,149
+Bali,Apartment,2,"Gym, Parking, Air Conditioning, WiFi",173.26,0.68,3534.5,4,0,5.0,333
+Yogyakarta,Studio,5,"Air Conditioning, WiFi, Gym",155.93,0.46,2151.83,10,0,4.1,181
+Jakarta,House,1,"Kitchen, Pool, Air Conditioning, WiFi, Parking",222.85,0.8,5348.4,3,0,4.8,338
+Yogyakarta,Studio,1,"WiFi, Gym",175.09,0.79,4149.63,11,0,3.8,294
+Bali,Studio,5,"WiFi, Gym, Air Conditioning, Kitchen",41.46,0.93,1156.73,8,0,3.0,265
+Bandung,House,2,"WiFi, Pool, Kitchen, Parking, Air Conditioning",40.5,0.84,1020.6,1,0,3.6,358
+Bandung,House,4,"Parking, WiFi, Air Conditioning, Pool",40.31,0.77,931.16,1,0,4.9,19
+Bali,House,5,"Kitchen, Air Conditioning, WiFi",245.39,0.55,4048.94,3,0,4.5,441
+Yogyakarta,Apartment,1,"WiFi, Kitchen, Parking, Pool, Air Conditioning",201.05,0.86,5187.09,6,1,3.8,235
+Bandung,House,1,"Pool, WiFi",88.89,0.93,2480.03,7,1,3.3,340
+Jakarta,House,5,"Pool, Air Conditioning, WiFi, Parking, Gym",275.45,0.45,3718.57,11,0,3.1,343
+Jakarta,Apartment,5,"Air Conditioning, WiFi, Parking, Pool",146.69,0.86,3784.6,1,0,4.9,185
+Jakarta,Apartment,2,"Air Conditioning, Kitchen, Gym, Pool",284.89,0.9,7692.03,4,0,4.6,379
+Bali,Villa,1,"Air Conditioning, WiFi, Kitchen",148.45,0.89,3963.61,12,1,4.4,49
+Bandung,Villa,1,"Parking, Gym, Pool, Air Conditioning",34.71,0.95,989.24,10,0,3.3,66
+Jakarta,House,4,"Gym, Pool, WiFi",101.83,0.89,2718.86,11,0,4.7,471
+Bandung,Studio,4,"Kitchen, Parking, Gym, Air Conditioning",280.86,0.79,6656.38,12,1,4.8,426
+Jakarta,Villa,1,"Air Conditioning, Kitchen, Gym",91.82,0.6,1652.76,3,0,3.4,176
+Surabaya,Studio,2,"Pool, Parking, WiFi, Kitchen",181.4,0.61,3319.62,2,0,3.3,99
+Bandung,Villa,1,"WiFi, Pool, Air Conditioning, Kitchen, Gym",109.52,0.56,1839.94,7,1,3.2,34
+Bali,Apartment,3,"Air Conditioning, Pool, Gym, WiFi, Kitchen",298.43,0.93,8326.2,7,1,3.2,140
+Jakarta,Studio,5,"Gym, WiFi",38.95,0.56,654.36,6,1,4.6,247
+Yogyakarta,Villa,2,"Pool, Parking",149.06,0.58,2593.64,2,0,3.5,239
+Bali,Studio,1,"Air Conditioning, Parking, Pool, Kitchen",50.4,0.65,982.8,9,0,3.6,345
+Jakarta,Villa,3,"Parking, Pool",100.76,0.51,1541.63,7,1,4.1,86
+Surabaya,Villa,1,"WiFi, Gym, Parking",153.01,0.66,3029.6,10,0,3.7,68
+Yogyakarta,Villa,1,"WiFi, Kitchen, Gym, Pool",167.9,0.5,2518.5,3,0,4.7,27
+Jakarta,Studio,2,"Kitchen, Parking, Pool, Air Conditioning",196.61,0.63,3715.93,5,0,4.0,397
+Surabaya,Villa,2,"WiFi, Gym",38.83,0.71,827.08,10,0,3.5,325
+Bali,House,5,"Gym, WiFi",138.91,0.43,1791.94,10,0,4.0,101
+Surabaya,House,5,"Pool, Parking",48.29,0.61,883.71,6,1,3.6,255
+Bali,House,2,"Parking, Kitchen",97.62,0.7,2050.02,10,0,4.0,245
+Yogyakarta,House,1,"Parking, Pool, Kitchen, WiFi, Gym",61.82,0.65,1205.49,7,1,3.5,372
+Yogyakarta,Apartment,5,"WiFi, Pool, Parking",203.52,0.52,3174.91,8,0,4.7,168
+Bali,Apartment,4,"Air Conditioning, Gym, Parking",142.36,0.75,3203.1,7,1,4.4,20
+Yogyakarta,Apartment,3,"WiFi, Pool, Parking, Air Conditioning",299.1,0.49,4396.77,11,0,3.6,293
+Bali,Studio,2,"Kitchen, Parking, Pool",40.45,0.45,546.08,7,1,3.8,484
+Surabaya,Villa,1,"WiFi, Air Conditioning, Gym, Parking",264.07,0.53,4198.71,5,0,3.4,297
+Surabaya,Villa,1,"Parking, Pool, WiFi, Air Conditioning",275.36,0.94,7765.15,9,0,4.9,390
+Bandung,Villa,4,"Parking, WiFi, Kitchen, Pool",269.37,0.42,3394.06,9,0,3.9,403
+Jakarta,House,4,"WiFi, Pool",99.58,0.74,2210.68,7,1,4.1,362
+Jakarta,Villa,5,"Air Conditioning, Kitchen, Gym",71.89,0.69,1488.12,3,0,3.9,392
+Surabaya,Apartment,3,"Kitchen, WiFi, Gym, Air Conditioning, Parking",268.64,0.8,6447.36,7,1,3.1,367
+Bandung,Villa,4,"Kitchen, Air Conditioning, Pool",173.95,0.91,4748.84,4,0,4.1,291
+Jakarta,Studio,1,"Parking, Kitchen, WiFi, Pool, Gym",158.54,0.79,3757.4,9,0,3.9,132
+Bandung,Studio,1,"Air Conditioning, Gym, Kitchen, Parking, Pool",241.87,0.69,5006.71,2,0,5.0,164
+Yogyakarta,House,3,"Pool, Air Conditioning",127.34,0.73,2788.75,2,0,4.1,467
+Bandung,House,2,"Kitchen, Parking, WiFi, Air Conditioning, Gym",107.59,0.53,1710.68,8,0,3.7,25
+Jakarta,Apartment,2,"Kitchen, WiFi, Parking",275.72,0.64,5293.82,2,0,3.5,19
+Bandung,House,5,"Parking, Kitchen, Pool, Gym, Air Conditioning",97.17,0.86,2506.99,6,1,4.6,448
+Bali,Villa,1,"WiFi, Kitchen, Pool",253.25,0.84,6381.9,2,0,3.1,386
+Surabaya,House,1,"WiFi, Kitchen, Gym, Parking, Air Conditioning",284.83,0.5,4272.45,3,0,4.5,415
+Surabaya,House,2,"Kitchen, Air Conditioning",206.19,0.58,3587.71,7,1,4.0,178
+Yogyakarta,Studio,4,"Air Conditioning, Pool, Gym, WiFi",56.05,0.66,1109.79,10,0,3.9,400
+Jakarta,Apartment,4,"Gym, Pool, WiFi, Air Conditioning",98.82,0.73,2164.16,11,0,3.5,255
+Surabaya,Apartment,4,"WiFi, Parking, Pool, Air Conditioning",147.73,0.81,3589.84,12,1,4.1,263
+Yogyakarta,Apartment,2,"Air Conditioning, Parking, Gym, Pool",125.77,0.7,2641.17,11,0,3.2,376
+Bali,House,5,"Air Conditioning, Pool, Kitchen, Parking",83.67,0.66,1656.67,11,0,3.7,334
+Yogyakarta,House,3,"WiFi, Air Conditioning",174.61,0.59,3090.6,4,0,3.0,241
+Surabaya,Villa,5,"Parking, WiFi",80.41,0.57,1375.01,7,1,3.3,466
+Jakarta,Apartment,3,"WiFi, Gym, Air Conditioning, Pool, Parking",210.3,0.68,4290.12,12,1,3.4,279
+Jakarta,House,4,"Kitchen, WiFi",221.76,0.45,2993.76,12,1,4.7,114
+Yogyakarta,House,2,"Parking, Gym, WiFi, Kitchen, Pool",207.54,0.8,4980.96,12,1,3.3,23
+Bali,Villa,2,"Parking, WiFi, Kitchen",253.34,0.83,6308.17,4,0,4.6,97
+Jakarta,House,4,"Gym, Pool, WiFi, Air Conditioning, Parking",177.16,0.69,3667.21,3,0,3.8,448
+Surabaya,House,4,"Pool, Gym",231.84,0.61,4242.67,7,1,4.1,148
+Yogyakarta,Villa,1,"Kitchen, Gym, Pool, Parking, WiFi",178.8,0.56,3003.84,6,1,3.7,193
+Bandung,Apartment,4,"Air Conditioning, Parking, WiFi, Gym",207.07,0.67,4162.11,11,0,4.0,441
+Yogyakarta,Apartment,2,"Parking, Pool, Kitchen",176.14,0.69,3646.1,12,1,4.2,56
+Jakarta,Apartment,1,"Air Conditioning, WiFi",171.57,0.58,2985.32,10,0,4.0,93
+Bandung,Studio,1,"Parking, Kitchen",176.96,0.81,4300.13,3,0,4.6,251
+Jakarta,House,2,"Parking, WiFi, Pool, Gym",243.38,0.41,2993.57,7,1,4.7,448
+Yogyakarta,Apartment,3,"Parking, Pool",279.2,0.41,3434.16,1,0,4.1,46
+Jakarta,House,4,"Pool, Parking, Gym, Kitchen",196.59,0.44,2594.99,1,0,3.9,176
+Yogyakarta,Studio,4,"Air Conditioning, Kitchen, Parking",77.92,0.45,1051.92,10,0,3.1,400
+Surabaya,Apartment,4,"Pool, Air Conditioning, Gym, WiFi, Kitchen",48.82,0.71,1039.87,7,1,3.3,111
+Bali,Villa,2,"Kitchen, Gym, Parking, WiFi, Air Conditioning",86.03,0.87,2245.38,6,1,4.0,329
+Bali,Villa,3,"WiFi, Parking, Pool, Air Conditioning, Kitchen",94.4,0.87,2463.84,5,0,4.1,41
+Bandung,House,5,"Air Conditioning, Gym, Kitchen, WiFi, Parking",202.51,0.45,2733.88,7,1,3.6,316
+Bandung,House,1,"Parking, Gym",252.2,0.65,4917.9,11,0,4.6,238
+Bali,Apartment,4,"Parking, Air Conditioning, WiFi, Gym",252.82,0.76,5764.3,4,0,3.2,155
+Bandung,Apartment,4,"Gym, Parking, Kitchen, Air Conditioning, Pool",74.31,0.67,1493.63,12,1,4.2,425
+Jakarta,Villa,3,"Gym, Parking, WiFi, Kitchen, Air Conditioning",261.14,0.45,3525.39,9,0,3.7,25
+Jakarta,Apartment,2,"Kitchen, WiFi, Gym",287.61,0.7,6039.81,12,1,3.7,369
+Bandung,Studio,3,"Pool, WiFi, Parking",186.79,0.58,3250.15,1,0,3.3,319
+Bandung,Apartment,2,"Parking, Pool, Air Conditioning, Kitchen",170.23,0.73,3728.04,7,1,3.9,325
+Yogyakarta,Villa,2,"Gym, Pool, Parking, Air Conditioning",33.53,0.69,694.07,8,0,3.4,339
+Bandung,Villa,2,"Kitchen, Pool, Gym, Air Conditioning",183.31,0.78,4289.45,4,0,3.7,367
+Surabaya,Villa,3,"Kitchen, Air Conditioning, Gym, WiFi",133.02,0.58,2314.55,11,0,4.9,278
+Jakarta,Villa,3,"Parking, WiFi, Kitchen, Air Conditioning",162.69,0.94,4587.86,11,0,3.1,31
+Jakarta,Studio,4,"Pool, Gym",273.12,0.49,4014.86,1,0,4.1,240
+Jakarta,Apartment,3,"Gym, WiFi",234.42,0.72,5063.47,10,0,3.7,29
+Yogyakarta,Studio,4,"Air Conditioning, Parking, Kitchen, Pool, WiFi",152.97,0.52,2386.33,3,0,4.3,425
+Surabaya,Apartment,2,"Gym, Pool",219.48,0.72,4740.77,6,1,4.3,116
+Surabaya,Villa,4,"WiFi, Gym, Parking",146.11,0.51,2235.48,10,0,3.8,152
+Bandung,House,5,"WiFi, Parking",245.7,0.84,6191.64,2,0,3.5,476
+Bali,Apartment,3,"Pool, WiFi",47.34,0.61,866.32,1,0,3.6,87
+Yogyakarta,Apartment,3,"Gym, Parking, Pool",67.29,0.77,1554.4,1,0,4.0,396
+Bali,Studio,5,"Pool, Parking, WiFi, Air Conditioning",244.09,0.56,4100.71,11,0,4.5,154
+Bali,Apartment,2,"Kitchen, Parking",277.44,0.55,4577.76,5,0,3.7,488
+Yogyakarta,Apartment,3,"Parking, Air Conditioning",40.46,0.6,728.28,12,1,4.5,240
+Bandung,Apartment,5,"Kitchen, Parking, WiFi, Pool",189.35,0.6,3408.3,9,0,3.9,146
+Yogyakarta,House,3,"Gym, Parking, Pool, WiFi, Air Conditioning",137.95,0.94,3890.19,10,0,4.8,461
+Surabaya,Apartment,5,"Kitchen, Parking, Pool",203.09,0.88,5361.58,7,1,3.8,250
+Surabaya,Villa,4,"WiFi, Gym",41.55,0.9,1121.85,10,0,3.0,316
+Yogyakarta,Apartment,1,"WiFi, Parking",233.42,0.77,5392.0,5,0,5.0,348
+Yogyakarta,House,1,"Air Conditioning, Pool, Kitchen",88.69,0.88,2341.42,1,0,4.3,331
+Jakarta,Apartment,3,"Air Conditioning, WiFi, Kitchen",250.26,0.76,5705.93,12,1,3.2,434
+Bali,Villa,2,"Parking, Gym",47.93,0.9,1294.11,11,0,3.1,407
+Bandung,Studio,3,"WiFi, Pool, Parking, Kitchen, Gym",90.19,0.66,1785.76,4,0,4.1,464
+Bali,House,3,"WiFi, Pool, Parking, Air Conditioning, Gym",129.09,0.95,3679.06,10,0,3.3,164
+Bali,Villa,5,"Gym, Air Conditioning, Pool, Kitchen",89.47,0.58,1556.78,3,0,4.5,281
+Bali,House,5,"Kitchen, WiFi, Air Conditioning, Pool",66.72,0.73,1461.17,4,0,3.8,352
+Jakarta,Apartment,3,"Air Conditioning, WiFi, Pool",264.95,0.54,4292.19,5,0,3.6,326
+Jakarta,Apartment,4,"Parking, WiFi, Air Conditioning",80.09,0.72,1729.94,10,0,3.4,142
+Jakarta,Apartment,2,"Parking, Kitchen, Air Conditioning, Pool",264.31,0.48,3806.06,2,0,4.4,66
+Bandung,Villa,2,"Kitchen, Pool, Parking, Air Conditioning, WiFi",297.92,0.41,3664.42,3,0,3.8,264
+Bandung,Apartment,2,"Pool, Parking, Kitchen, Gym",294.84,0.87,7695.32,10,0,4.6,378
+Jakarta,Villa,3,"Parking, WiFi, Air Conditioning, Gym",92.49,0.8,2219.76,1,0,3.1,128
+Yogyakarta,Villa,5,"Air Conditioning, Parking, Kitchen, Gym, WiFi",117.68,0.69,2435.98,11,0,5.0,78
+Surabaya,Villa,2,"Kitchen, Gym, WiFi, Air Conditioning",140.58,0.93,3922.18,3,0,4.8,376
+Bali,House,1,"Pool, Kitchen, WiFi, Air Conditioning",48.31,0.93,1347.85,3,0,4.3,487
+Yogyakarta,Studio,4,"Pool, Gym, Kitchen, WiFi, Air Conditioning",276.37,0.68,5637.95,6,1,3.4,353
+Bali,Villa,2,"Gym, Parking, Pool",34.52,0.69,714.56,1,0,3.3,159
+Bandung,Apartment,4,"Pool, Parking",101.32,0.77,2340.49,9,0,4.9,192
+Bali,Villa,5,"Gym, Kitchen, Air Conditioning, Parking",200.61,0.7,4212.81,11,0,4.8,399
+Yogyakarta,Villa,5,"WiFi, Parking, Air Conditioning, Kitchen, Pool",177.55,0.81,4314.47,9,0,4.9,143
+Yogyakarta,Villa,1,"Gym, Kitchen, Air Conditioning, Parking",33.09,0.85,843.8,11,0,4.4,45
+Yogyakarta,Studio,1,"Air Conditioning, WiFi",77.27,0.77,1784.94,2,0,3.5,299
+Surabaya,House,2,"Parking, Gym",30.36,0.72,655.78,7,1,3.0,168
+Jakarta,Villa,2,"WiFi, Air Conditioning, Gym",202.25,0.78,4732.65,1,0,3.0,286
+Yogyakarta,Studio,1,"Kitchen, Parking",194.04,0.72,4191.26,7,1,3.5,167
+Bandung,Studio,2,"Gym, Air Conditioning",38.0,0.94,1071.6,6,1,4.9,434
+Yogyakarta,Villa,1,"Parking, Gym, WiFi, Pool, Air Conditioning",103.36,0.53,1643.42,9,0,3.6,253
+Jakarta,Villa,3,"Kitchen, Gym",173.16,0.94,4883.11,8,0,4.7,117
+Bandung,House,1,"WiFi, Gym, Kitchen",104.06,0.61,1904.3,6,1,4.4,217
+Bandung,Villa,3,"WiFi, Parking, Kitchen",134.72,0.54,2182.46,4,0,4.3,40
+Bali,Apartment,2,"Air Conditioning, Pool, Kitchen, Gym, Parking",222.8,0.72,4812.48,12,1,3.3,41
+Yogyakarta,House,3,"Air Conditioning, Kitchen",170.84,0.8,4100.16,11,0,3.0,171
+Jakarta,Villa,4,"Air Conditioning, WiFi",246.9,0.55,4073.85,7,1,4.5,228
+Bandung,Apartment,2,"Pool, Gym",234.43,0.77,5415.33,1,0,4.1,99
+Bandung,House,2,"Air Conditioning, Gym",174.19,0.7,3657.99,10,0,3.9,469
+Surabaya,Studio,2,"WiFi, Air Conditioning",36.96,0.53,587.66,9,0,4.1,128
+Surabaya,Villa,5,"Kitchen, Air Conditioning, Gym",240.47,0.49,3534.91,4,0,4.7,72
+Bandung,House,4,"Air Conditioning, Kitchen, Parking, WiFi",295.97,0.48,4261.97,12,1,3.5,270
+Bandung,Villa,4,"Pool, Air Conditioning",96.83,0.64,1859.14,1,0,3.1,203
+Yogyakarta,Villa,4,"Pool, WiFi, Gym",119.48,0.69,2473.24,10,0,4.6,200
+Bandung,Studio,3,"Gym, Kitchen",255.65,0.7,5368.65,6,1,3.7,439
+Bandung,Studio,2,"Pool, Kitchen, Parking, Gym",278.47,0.54,4511.21,6,1,3.8,449
+Jakarta,Apartment,4,"Kitchen, Pool, Gym",284.14,0.65,5540.73,9,0,3.7,221
+Bali,Studio,1,"Gym, Kitchen, Pool",282.43,0.68,5761.57,7,1,3.1,162
+Bali,Apartment,1,"WiFi, Pool, Gym",266.92,0.64,5124.86,10,0,3.9,220
+Surabaya,Studio,5,"WiFi, Parking, Pool, Air Conditioning",195.55,0.86,5045.19,1,0,4.2,137
+Bandung,Studio,4,"Pool, Kitchen, WiFi, Gym, Air Conditioning",248.7,0.74,5521.14,5,0,3.9,135
+Yogyakarta,Studio,2,"Parking, Kitchen",208.84,0.82,5137.46,7,1,4.5,499
+Bandung,Studio,2,"Gym, Air Conditioning, Parking, WiFi",183.34,0.83,4565.17,8,0,4.2,467
+Bandung,Studio,5,"WiFi, Gym",80.72,0.44,1065.5,3,0,4.0,230
+Jakarta,House,2,"Pool, Gym",161.94,0.75,3643.65,12,1,4.0,481
+Jakarta,Villa,3,"Gym, Pool",31.59,0.79,748.68,7,1,3.9,481
+Jakarta,Apartment,4,"Pool, WiFi, Kitchen, Air Conditioning",296.12,0.92,8172.91,11,0,4.3,281
+Surabaya,Studio,3,"Pool, Parking, Air Conditioning, Kitchen, WiFi",55.61,0.4,667.32,10,0,4.4,406
+Jakarta,Studio,3,"Pool, Parking",224.49,0.47,3165.31,11,0,4.7,418
+Bali,Studio,3,"WiFi, Gym, Pool, Parking",223.7,0.5,3355.5,8,0,3.0,140
+Yogyakarta,Studio,2,"Gym, Kitchen, Air Conditioning",92.8,0.47,1308.48,12,1,3.5,14
+Jakarta,Apartment,4,"WiFi, Kitchen, Air Conditioning",159.62,0.89,4261.85,1,0,4.1,499
+Yogyakarta,Apartment,5,"Gym, Kitchen, WiFi",284.95,0.56,4787.16,4,0,4.5,385
+Bandung,Apartment,2,"Kitchen, Gym, Pool, Air Conditioning",83.24,0.79,1972.79,6,1,4.7,204
+Yogyakarta,Studio,3,"Parking, Air Conditioning, Pool, WiFi",63.63,0.82,1565.3,3,0,4.6,193
+Bali,Apartment,1,"Pool, Kitchen, WiFi",219.23,0.79,5195.75,6,1,3.7,397
+Jakarta,Studio,1,"Kitchen, Pool",176.16,0.43,2272.46,3,0,3.9,87
+Yogyakarta,Studio,1,"WiFi, Kitchen, Parking",186.89,0.62,3476.15,1,0,3.8,391
+Yogyakarta,House,2,"Pool, Gym",265.31,0.93,7402.15,3,0,4.1,80
+Yogyakarta,Studio,3,"Pool, WiFi, Kitchen, Air Conditioning, Parking",252.29,0.58,4389.85,8,0,3.8,104
+Jakarta,Apartment,2,"Kitchen, Pool",262.42,0.86,6770.44,5,0,4.5,411
+Surabaya,House,5,"WiFi, Gym",286.16,0.7,6009.36,3,0,4.2,198
+Bandung,House,1,"Parking, Pool, Gym",164.31,0.49,2415.36,3,0,4.3,310
+Jakarta,Apartment,3,"Kitchen, Air Conditioning",246.16,0.84,6203.23,2,0,4.8,49
+Jakarta,Studio,5,"Gym, Pool",99.71,0.6,1794.78,2,0,3.1,117
+Bandung,House,1,"Kitchen, Pool, WiFi, Air Conditioning, Gym",45.54,0.89,1215.92,12,1,3.5,446
+Bandung,Villa,1,"Parking, Pool",52.0,0.82,1279.2,8,0,4.3,112
+Bandung,Studio,5,"Air Conditioning, Pool, WiFi, Gym, Parking",226.99,0.67,4562.5,7,1,3.4,320
+Bali,Apartment,2,"Air Conditioning, Gym, Parking, Pool, Kitchen",159.23,0.74,3534.91,2,0,4.8,448
+Bandung,Villa,5,"Pool, Kitchen, Parking",157.2,0.86,4055.76,12,1,4.9,308

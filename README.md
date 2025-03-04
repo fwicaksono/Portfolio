@@ -30,54 +30,39 @@ Feel free to reach out to me for collaborations, inquiries, or project discussio
 
 1. **Sentiment Analysis for Coffeeshop (Study Case : Couvee Seturan)** ☕  
    - Analyzed customer reviews to understand sentiment trends and improve customer experience.  
-   - [View Project](https://github.com/fwicaksono/Portfolio/tree/main/sentiment_analysis_of_couvee_seturan_cofee_shop)  
+   - [View Project](https://github.com/fwicaksono/Portfolio/tree/main/Data%20Analyst-Scientist/Couvee%20Seturan%20Analysis%20Sentiment)  
 
 2. **Inventory Optimization and Demand Forecasting for Electronics in a Retail Store** 📦📈  
    - Optimized inventory levels and predicted future demand to reduce costs and improve efficiency.  
-   - [View Project](https://github.com/fwicaksono/Portfolio/tree/main/Inventory%20Optimization%20and%20Demand%20Forecasting%20for%20Electronics%20in%20a%20Retail%20Store)  
+   - [View Project](https://github.com/fwicaksono/Portfolio/tree/main/Data%20Analyst-Scientist/Inventory%20Optimization%20and%20Demand%20Forecasting%20for%20Electronics%20in%20a%20Retail%20Store)  
 
 3. **Pizza Sales Analysis and Dynamic Dashboard** 🍕📊  
    - Created an interactive dashboard to visualize sales trends and provide actionable insights.  
-   - [View Project](https://github.com/fwicaksono/Portfolio/tree/main/Pizza%20Sales%20Analysis%20and%20Dashboard)  
+   - [View Project](https://github.com/fwicaksono/Portfolio/tree/main/Data%20Analyst-Scientist/Pizza%20Sales%20Analysis%20and%20Dashboard)  
 
-4. **ABC Analysis** 📊  
-   - Categorized inventory items based on their importance and value to optimize resource allocation.  
-   - [View Project]()  
+4. **Adidas Sales Analysis and Dynamic Dashboard** 📊  
+   - This project analyzes retail sales data to gain valuable Adidas business insights. The dataset contains transaction records, including information on retailers, products, pricing, sales, profits, and regional performance..  
+   - [View Project](https://github.com/fwicaksono/Portfolio/tree/main/Data%20Analyst-Scientist/Adidas%20Sales)  
 
-5. **Supply Chain Optimization: Retail Store Case** 🚚📦  
-   - Streamlined supply chain processes to enhance efficiency and reduce operational costs.  
-   - [View Project](https://github.com/fwicaksono/Portfolio/tree/main/Supply%20Chain%20Optimization)  
+5. **Coffee Vending Machine Sales Analysis and Dynamic Dashboard** 📊  
+   - This project aims to analyze coffee sales data from a vending machine using SQL and Power BI. The dataset includes transaction details such as date, time, payment method, amount, and coffee type purchased. By leveraging SQL for data exploration and Power BI for visualization, we can gain insights into customer behavior, sales trends, and payment preferences. 
+   - [View Project](https://github.com/fwicaksono/Portfolio/tree/main/Data%20Analyst-Scientist/Coffee%20Sales%20Analysis)  
 
 6. **Bank Central Asia Stock Price Prediction** 📈💹  
    - Built a predictive model to forecast stock prices using historical data.  
-   - [View Project](https://github.com/fwicaksono/Portfolio/tree/main/Bank%20Central%20Asia%20Stock%20Price%20Prediction)  
+   - [View Project](https://github.com/fwicaksono/Portfolio/tree/main/Data%20Analyst-Scientist/Bank%20Central%20Asia%20Stock%20Price%20Prediction)  
 
-7. **Hospital ER Analysis** **ON PROGRESS** 🚧⏳🔄🔜
-   - Conduct a detailed Hospital Emergency Room Analysis in Power BI, examining key metrics such as patient wait times, satisfaction scores,   admission trends, and referral sources.
+7. **Supply Chain Optimization** 🚧
+   - This project aims to optimize the supply chain of TechMart Electronics, a company specializing in selling electronic products such as laptops, smartphones, and tablets. The provided dataset includes information on product demand, inventory, supplier costs, lead times, and storage costs..
+   - [View Project](https://github.com/fwicaksono/Portfolio/tree/main/Data%20Analyst-Scientist/Supply%20Chain%20Optimization)
+
+7. **Identification of Merapi Volcano Rockfall Direction Using Seismic Signals** 🌋🔥
+   - Developed a system to determine the direction of volcanic debris flow on Mount Merapi.
    - [View Project]()
-
 ---
 
 ### **Upcoming Projects** 🚧  
-Stay tuned! These exciting projects are in the pipeline and will be released soon:  
+Stay tuned! 
 
-1. **Customer Segmentation** 👥🔥
-   - Group customers based on purchasing behavior using K-Means and hierarchical clustering.  
-
-2. **Sentiment Analysis** 📱🔥
-   - Analyze brand perception using Twitter, Instagram, TikTok, or API data.  
-
-3. **Real-Time Sign Language Detection with YOLO (1)** 🎥🔥
-   - Detect sign language in images and videos using YOLOv8.
-  
-4. **Real-Time Object Detection with YOLO (2)** 🎥🔥
-   - Detect multiple objects in images and videos using YOLOv8.  
-
-5. **Identification of Merapi Volcano Rockfall Direction Using Seismic Signals** 🌋🔥
-   - A study case with the Geological Disaster Technology Research and Development Center (BPPTKG).  
-
-6. **Data Visualization PowerBI (2)** 🎥🔥
-   - Data viz using PowerBI
----
 
 Let’s turn data into insights and insights into action! 🌟 Feel free to explore my projects and reach out if you’d like to collaborate or discuss ideas. 😄  

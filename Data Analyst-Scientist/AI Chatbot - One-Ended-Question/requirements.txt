@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+faiss-cpu
+google-cloud-aiplatform
+pypdf2
+tiktoken
+openai
+numpy
+PyYAML

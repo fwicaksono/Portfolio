@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain-community
+google-cloud-aiplatform
+pypdf
+faiss-cpu
+python-dotenv

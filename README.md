@@ -9,14 +9,6 @@ Each project showcases my ability to tackle real-world problems using a diverse 
 
 ---
 
-## Table of Contents 📑
-- [Contact](#contact-)
-- [List of Projects](#list-of-projects-)
-  - [Completed Projects](#completed-projects-)
-  - [Upcoming Projects](#upcoming-projects-)
-
----
-
 ## Contact 📩
 Feel free to reach out to me for collaborations, inquiries, or project discussions. I’d love to connect! 😊  
 
